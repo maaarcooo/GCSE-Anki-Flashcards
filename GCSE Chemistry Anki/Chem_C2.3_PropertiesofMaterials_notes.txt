@@ -1,0 +1,31 @@
+How many covalent bonds can carbon form? | Carbon can form four covalent bonds.
+Why is there such a vast array of organic compounds? | Due to carbon's ability to form families of similar compounds, chains and rings.
+Describe the structure of diamond. | Each carbon atom is covalently bonded to 4 other carbon atoms in a tetrahedral arrangement.
+What are the properties of diamond? | Very hard, very high melting point, does not conduct electricity.
+Describe the structure of graphite. | Each carbon atom is covalently bonded to 3 other carbon atoms, forming layers of hexagonal rings with no covalent bonds between layers.
+Why is graphite soft and slippery? | Because the layers can slide over each other due to weak intermolecular forces between layers.
+Why can graphite conduct electricity but diamond cannot? | Graphite has one delocalised electron from each carbon atom, similar to metals, allowing it to conduct electricity.
+What are fullerenes? | Molecules of carbon atoms with hollow shapes, based on hexagonal rings of carbon atoms (may also contain rings with 5 or 7 carbon atoms).
+What was the first fullerene to be discovered? | Buckminsterfullerene (C60), which has a spherical shape.
+What are carbon nanotubes? | Cylindrical fullerenes with very high length to diameter ratios.
+What is graphene? | A single layer of graphite.
+What happens to energy during melting and boiling? | Energy is transferred TO a compound.
+What happens to energy during condensing and freezing? | Energy is transferred FROM a compound.
+Why do simple molecules have lower melting and boiling points? | Because only weak intermolecular forces need to be overcome, not the covalent bonds.
+Why do ionic compounds have higher melting and boiling points? | Because the strong electrostatic forces of attraction are harder to overcome.
+Why do macromolecular substances have very high melting and boiling points? | Because they don't have intermolecular forces, and the strong covalent bonds must be broken to change state.
+What is the state of a substance when temperature is below its melting point? | Solid
+What is the state of a substance when temperature is between its melting and boiling point? | Liquid
+What is the state of a substance when temperature is above its boiling point? | Gas
+Why do materials have different properties compared to the 'bulk' chemical they're made from? | Due to their high surface area to volume ratio.
+What is the size range of nanoparticles? | 1-100 nanometers across.
+How many atoms do nanoparticles typically contain? | A few hundred atoms.
+What happens to the surface area to volume ratio when the side of a cube decreases by a factor of 10? | The surface area to volume ratio increases by a factor of 10.
+Why are nanoparticles often more reactive than bulk materials? | Atoms on the surface are often more reactive than those in the center, and nanoparticles have a very large surface area to volume ratio.
+Why would nanoparticles make good catalysts? | Due to their high surface area to volume ratio.
+Name three uses of nanoparticulate materials. | Catalysts, highly selective sensors, stronger and lighter building materials, cosmetics (sun cream, deodorant), lubricant coatings, and electrical circuits.
+What are possible risks associated with nanoparticulate materials? | Not fully known yet, but there could be problems with how they interact with our cells.
+What are PM2.5 particles? | Fine particles with diameters between 100 and 2500 nm (1 × 10⁻⁷ m and 2.5 × 10⁻⁶ m).
+What are PM10 particles? | Coarse particles with diameters between 1 × 10⁻⁵ m and 2.5 × 10⁻⁶ m, often referred to as dust.
+Why do nanotubes make good materials for electrical circuits? | Because they can conduct electricity and are very small.
+Why are nanoparticles used in cosmetics like sun cream? | They make no white marks while maintaining functionality.

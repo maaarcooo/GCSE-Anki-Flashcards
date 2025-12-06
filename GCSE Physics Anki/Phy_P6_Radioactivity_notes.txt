@@ -1,0 +1,41 @@
+What particles make up the nucleus and what are their charges? | Protons (charge +1) and neutrons (no charge). The nucleus has an overall positive charge.
+What are isotopes? | Atoms of the same element with different numbers of neutrons. Same atomic number, different mass number.
+Give an example of isotopes. | Carbon-12, Carbon-13, and Carbon-14.
+In nuclear notation, what do A, Z, and N represent? | A = mass number (protons + neutrons), Z = atomic number (protons), N = charge
+What determines what element an atom is? | The number of protons (atomic number Z).
+Why are some nuclei unstable? | Some nuclei are unstable leading to random decay. It's impossible to predict when any one nucleus will decay.
+What is alpha decay and when does it occur? | Occurs when nucleus is too large. An alpha particle (helium nucleus: 2 protons + 2 neutrons) is emitted.
+What is beta decay and when does it occur? | Occurs when atom has too many neutrons. A neutron turns into a proton and a beta particle (electron) is emitted.
+What is electron capture? (Higher Tier) | Occurs when there are too many neutrons and nucleus is too large. Nucleus absorbs a neutron and emits a neutron.
+What is gamma emission and when does it occur? | If nucleus has too much energy, a gamma ray is emitted. Proton and neutron numbers don't change, nucleus has lower energy.
+What changes occur during radioactive decay? | Changes in charge, mass, or proton number. These changes can be analyzed to determine the type of decay.
+How are electrons arranged in atoms? | At different distances from nucleus in energy levels. Lowest level (closest to nucleus) is ground state.
+What happens when EM radiation hits an atom? | Electrons absorb energy, become excited, and rise to higher energy levels.
+What happens when excited electrons fall back to ground state? | They lose energy by emitting radiation.
+What is ionisation? | When outer electrons are given lots of energy and are lost from the atom, making it a charged ion.
+Which type of radiation ionises atoms most easily and why? | Gamma rays, because higher frequency (shorter wavelength) provides more energy to electrons.
+What is half-life? | Time taken for the number of unstable nuclei of an isotope in a sample to halve.
+Why can't we predict when individual atoms will decay? | Decay is random, but half-life works as an approximation for large numbers of atoms.
+Give examples of different half-lives. | Carbon-13: ~5000 years, Technetium: 6 hours, Uranium isotope: 4.47 billion years.
+What is radioactive dating? | Analyzing the proportion of decayed and undecayed isotopes to work out the age of a sample.
+What is the net decline formula? | Net decline = initial number / (initial number - number after X half-lives)
+Calculate net decline: 80 nuclei, half-life 15 minutes, after 3 half-lives. | 1st: 40, 2nd: 20, 3rd: 10. Net decline = 80/(80-10) = 8/7
+Describe alpha radiation's penetration and ionising power. | Most ionising, least penetrating. Cannot penetrate further than ~5cm of air. Stopped by paper.
+Describe beta radiation's penetration and ionising power. | Medium penetrating and ionising power. Stopped by ~5m of air or few millimetres of aluminium.
+Describe gamma radiation's penetration and ionising power. | Least ionising, most penetrating. Only stopped by several cm of lead or several metres of concrete.
+What is contamination? | Radioactive material lasts for a long period, transferring radiation to an object (e.g., radioactive dust on skin).
+What is irradiation? | Only lasts for a short period as source emits radiation reaching the object (e.g., beta radiation "irradiating" skin).
+How are medical items sometimes treated? | Irradiated to kill bacteria on surface, but not enough to make the tools themselves radioactive.
+What are the hazards of short half-life sources? | Less long-term risk. Initially very radioactive but quickly dies down, so less long-term danger.
+What are the hazards of long half-life sources? | Remains weakly radioactive for a long period of time.
+Why is Americium suitable for smoke alarms? | Half-life of 432 years, alpha emitter. Won't need replenishing, weak activity means not harmful, alpha doesn't travel far.
+How do smoke alarms work with Americium? | Alpha particles emitted into air. If smoke enters, number of alpha particles drops, causing alarm to sound.
+Why is Technetium used as a medical tracer? | Half-life of 6 hours, decays into safe isotope that can be excreted. Gamma emitter so passes through body tissue.
+How does Technetium work as a tracer? | Injected or swallowed, enough time to flow through body and be detected before decaying away.
+How is gamma radiation used in chemotherapy? | Gamma emitters direct radiation onto cancerous cells. Cells absorb energy and are killed.
+What are the side effects of gamma radiation therapy? | Hard to accurately target cancer cells, so surrounding healthy cells may be irradiated and destroyed.
+What is nuclear fission? | Unstable nuclei split into two smaller nuclei, releasing a neutron and energy as EM radiation.
+How does a chain reaction occur in nuclear fission? | Released neutron collides with another radioactive nucleus, making it unstable. It splits, releasing another neutron and more energy.
+What element typically undergoes nuclear fission? | Uranium nuclei.
+What is nuclear fusion? | Two small nuclei fuse to form a heavier nucleus, releasing large quantities of energy.
+Why is energy released during nuclear fusion? | Sum of masses of two nuclei is more than mass of heavier nucleus. Some mass is converted into energy and released as radiation.

@@ -1,0 +1,94 @@
+What does the central nervous system (CNS) consist of? | The brain and spinal cord
+What are the 4 steps of how the nervous system coordinates responses? | 1) Receptors convert stimulus to electrical impulse 2) Impulse travels along sensory neurons to CNS 3) CNS processes and coordinates response 4) Motor neurons carry impulse to effectors (muscles or glands)
+What is a reflex arc? | A subconscious, rapid response to dangerous stimuli, bypassing conscious brain processing
+What are the 5 steps of a reflex arc? | 1) Stimulus detected by receptors 2) Impulse sent along sensory neuron 3) Impulse passes to relay neuron in CNS 4) Impulse sent along motor neuron 5) Effector produces response
+What is the function of the cornea? | Transparent outer part of the eye that refracts light to reach the retina
+What is the function of the iris? | Controls how much light enters the eye by changing pupil size
+How does the iris respond to bright light? | Circular muscles contract and radial muscles relax to make pupil smaller
+How does the iris respond to dim light? | Circular muscles relax and radial muscles contract to make pupil larger
+What is the function of the lens? | Focuses light onto the retina
+What does the retina contain? | Light receptors (rods and cones)
+What is the difference between rods and cones? | Rods respond to dim light, cones respond to color
+What is the function of the optic nerve? | Carries impulses between the eye and brain
+What is color blindness? | Inability to tell difference between colors due to lack of or defects in retinal receptors; most common form is red-green color blindness
+What is short-sightedness (myopia)? | Ability to see near objects but not distant objects, due to the lens focusing the image in front of the retina
+How is short-sightedness treated? | Concave lenses in glasses
+What is long-sightedness (hyperopia)? | Ability to see distant objects but not near objects, due to the lens focusing the image behind the retina
+How is long-sightedness treated? | Convex lenses in glasses
+What are the functions of the cerebrum? | Intelligence, vocabulary, personality and conscious thought
+What are the features of the cerebrum? | Largest part of brain, divides into 2 hemispheres, each half processes information from opposite side of body, outside is grey matter, inside is white matter
+What is the function of the cerebellum? | Coordinates voluntary body movements and helps with balance
+What is the function of the medulla? | Control center for heart rate, blood pressure and breathing rate
+What is the function of the hypothalamus? | Controls temperature and water balance through hormonal system
+What is the function of the pituitary gland? | Releases hormones like growth hormone into the blood
+What are the limitations in investigating brain damage? | Ethical issues with informed consent, surgical risks, limited knowledge of brain functions making interpretation difficult
+What are the limitations in treating brain damage? | CNS cells cannot regenerate/repair, difficult/dangerous areas to access during surgery, drugs have difficulty penetrating brain membranes
+What are hormones? | Chemical messengers secreted by endocrine glands into bloodstream, transported to target organs
+How does the endocrine system differ from the nervous system in signal type? | Endocrine: Chemical signal, Nervous: Electrical signal
+How does the endocrine system differ from the nervous system in transmitter? | Endocrine: Hormones in bloodstream, Nervous: Nerve cells
+How does the endocrine system differ from the nervous system in speed of response? | Endocrine: Slower, Nervous: Very fast
+How does the endocrine system differ from the nervous system in duration of response? | Endocrine: Long, Nervous: Short
+Where is adrenaline produced and what does it target? | Produced by adrenal glands on top of kidneys; targets many organs like heart and lungs
+What is the 'fight or flight' response and which hormone is responsible? | Survival response that increases heart rate, dilates pupils, makes hairs stand erect, increases breathing rate; caused by adrenaline
+Where is thyroxine produced and what is its function? | Produced by thyroid gland in neck; controls metabolic rate (how quickly oxygen and food react to release energy) and growth
+How does negative feedback work for thyroxine? | If thyroxine levels are too low, hypothalamus produces TRH, pituitary releases TSH, thyroid produces more thyroxine; when levels return to normal, these hormones are inhibited
+Which hormone is produced by testes and what are its functions? | Testosterone; responsible for sperm development and male secondary sexual characteristics (deeper voice, increased hair)
+Which hormone is produced by ovaries and what are its functions? | Oestrogen; responsible for female secondary sexual characteristics (breast development, widening hips)
+How long does the menstrual cycle last and when does ovulation typically occur? | 28 days; ovulation usually occurs on day 14
+What is the role of oestrogen in the menstrual cycle? | Causes thickening of uterus lining in preparation for egg implantation; levels peak around day 10
+What is the role of FSH in the menstrual cycle? | Causes maturation of egg within ovary
+What is the role of LH in the menstrual cycle? | Stimulates release of egg during ovulation
+What is the role of progesterone in the menstrual cycle? | Maintains thick lining of uterus; inhibits release of LH and FSH
+What happens if the egg is not fertilized during the menstrual cycle? | Progesterone levels fall and uterus lining breaks down in a period lasting about 5 days
+What is menopause? | When a woman no longer has a menstrual cycle, usually around ages 50-55
+How do oral contraceptives (the pill) work? | Contain progesterone and oestrogen which inhibit FSH production so eggs don't mature
+How do contraceptive implants work? | Slow release of progesterone to prevent egg release and thicken cervical mucus
+How effective are barrier methods like condoms and what's their additional benefit? | Over 99% effective; also protect from STIs
+What are the advantages and disadvantages of vasectomy/female sterilization? | Almost 100% reliable; can be irreversible
+How does a copper intrauterine device (IUD) work? | Stops fertilized embryos implanting; copper kills sperm
+What causes infertility? | Issues like sperm quality/quantity problems or lack of FSH to mature eggs
+What fertility drugs are commonly used and how do they work? | FSH and LH, which stimulate maturation and release of eggs
+What are the steps of in vitro fertilization (IVF)? | 1) Mother given FSH/LH to stimulate egg maturation 2) Eggs collected and fertilized by father's sperm in lab 3) Fertilized eggs develop into embryos 4) Embryos implanted into mother's uterus
+What are tropisms in plants? | Growth responses to environmental stimuli, like light (phototropism) or gravity (gravitropism/geotropism)
+What is positive phototropism and why is it beneficial? | Plant growth towards light source; beneficial as it increases photosynthesis rate
+How does auxin cause shoots to bend towards light? | Auxin moves to shaded side, stimulates cell growth there, causing shoot to bend towards light
+What is negative gravitropism in shoots? | Shoots grow away from gravity
+How does auxin cause shoots to grow away from gravity? | In horizontal shoots, auxin moves to lower side, stimulates cell growth there, causing shoot to bend upward
+What is positive gravitropism in roots? | Roots grow towards gravity
+How does auxin cause roots to grow towards gravity? | In horizontal roots, auxin moves to lower side, inhibits growth there (growth occurs on upper side), causing root to bend downward
+Why is positive gravitropism in roots beneficial? | Increases access to water/nutrients and provides stability for the plant
+How can auxins be used as weed killers? | Synthetic auxins affect broad-leaved plants, causing cells to grow too rapidly which kills the weed
+How are auxins used in rooting powders? | Applied to plant cuttings to stimulate root growth for rapid plant development
+How are auxins used in tissue culture? | Added to growth medium to stimulate root and shoot formation in cloned plant cells
+What is the role of gibberellins in plants? | Stimulate seed germination, flowering, and leaf shedding
+How are gibberellins used in the brewing industry? | Increase germination rate of barley seeds to make malt
+How are gibberellins used to increase fruit size? | Sprayed on seedless fruits to increase their size
+What is the role of ethene in plants? | Involved in cell division and fruit ripening
+How is ethene used in the food industry? | Fruit picked unripe (firm for transport), then exposed to ethene and warmer temperatures to control ripening when needed
+What is homeostasis? | Maintenance of constant internal environment despite internal and external changes
+Why is homeostasis important? | Needed for optimal enzyme action and all cell functions
+Where is the thermoregulatory center located? | In the brain
+What does the thermoregulatory center monitor? | Blood temperature via brain receptors and skin temperature via skin receptors
+What is the normal human body temperature? | 37.5°C
+How does the body respond if temperature becomes too high? | Produces sweat (evaporation cools) and vasodilation (blood flows closer to skin surface, increasing heat loss)
+How does the body respond if temperature becomes too low? | Stops sweating, shivers (muscles generate heat), hairs stand on end (traps warm air), and vasoconstriction (less blood near skin, reducing heat loss)
+Why does blood glucose concentration need to be controlled? | Glucose is needed by cells for respiration
+Which organ controls blood glucose levels? | The pancreas
+What happens when blood glucose levels are too high? | Pancreas produces insulin which causes: 1) Glucose to move into muscle cells for respiration 2) Excess glucose converted to glycogen stored in liver
+What happens when blood glucose levels are too low? | Pancreas produces glucagon which causes liver to break down glycogen into glucose, releasing it into blood
+How do insulin and glucagon work together? | In a negative feedback loop - when glucose levels change, a hormone is secreted to oppose the change
+What is Type 1 diabetes? | Condition where pancreas cannot produce enough insulin
+How is Type 1 diabetes treated? | Insulin injections at meal times, limiting simple carbohydrates
+What is Type 2 diabetes? | Condition where body cells no longer respond to insulin
+What are risk factors for Type 2 diabetes? | Obesity is a major risk factor
+How is Type 2 diabetes treated? | Reducing simple carbohydrates, weight loss, increasing exercise, medications to improve insulin effectiveness
+What happens if blood has higher water potential than cells? | Water moves into cells causing them to expand and potentially burst (lysis)
+What happens if blood has lower water potential than cells? | Water leaves cells causing them to shrink
+What is the function of the kidneys? | Maintain balance of water and other substances by filtering waste and selectively reabsorbing useful substances
+What are the main parts of the kidney structure? | Outer cortex, inner medulla, ureters, renal artery/vein, and millions of nephrons
+What is a nephron made up of? | Glomerulus (ball of capillaries), region for selective reabsorption, and kidney tubule for water/salt regulation
+What is ADH and where is it produced? | Anti-Diuretic Hormone; produced by pituitary gland
+What triggers ADH release? | When brain receptors detect blood is too concentrated
+How does ADH affect kidney tubules? | Increases their permeability to water, allowing more water to move back into bloodstream
+What is the result of increased ADH? | Smaller volume of more concentrated (yellow) urine and less concentrated blood
+How does the body respond to dehydration from sweating? | Salt loss in sweat causes kidneys to increase salt retention; brain detects this and creates thirst sensation so we drink more water

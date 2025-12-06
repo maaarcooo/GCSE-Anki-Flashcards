@@ -1,0 +1,65 @@
+How are metals arranged in the reactivity series? | In order of reactivity: potassium, sodium, lithium, calcium, magnesium, zinc, iron, copper (most to least reactive)
+What can a more reactive metal do to a less reactive metal? | Displace it from a compound
+Why is gold found in the Earth as the metal itself? | Because it is very unreactive
+How are metals less reactive than carbon extracted? | By reduction with carbon (reduction = loss of oxygen)
+Which metals are extracted by electrolysis and why? | Metals more reactive than carbon (e.g. aluminium) because they are too reactive to be extracted by reduction with carbon
+What is used in aluminium extraction by electrolysis? | Molten mixture of aluminium oxide and cryolite, with carbon as the positive electrode (anode)
+Why does electrolysis use large amounts of energy? | To melt the compounds and produce the electrical current
+What is phytoextraction? | Plants absorb metal compounds through roots, concentrate them, then are burned to produce ash containing metal compounds
+What is bacterial extraction? | Bacteria absorb metal compounds and produce solutions called leachates which contain the metals
+What compromise is needed in industrial processes? | Between large yield (position of equilibrium) and fast rate of reaction
+Why might moderate temperature/pressure be used instead of low? | Low conditions give favorable equilibrium but slow rate, leading to lower overall yield
+What factors affect commercially used conditions in industry? | Availability and cost of raw materials, energy supplies, control of equilibrium position and rate
+Why do almost all industrial processes use a catalyst? | To increase reaction rate without using extreme conditions
+What does the Haber process manufacture and why is it important? | Ammonia, which is used to produce nitrogen-based fertilizers for agriculture
+What are the raw materials for the Haber process? | Nitrogen (from air) and hydrogen (from natural gas/hydrocarbons or steam)
+What are the conditions for the Haber process? | Iron catalyst, high temperature (450°C), high pressure (200 atmospheres)
+Write the equation for the Haber process. | nitrogen + hydrogen ⇌ ammonia
+Why is the reaction reversible in the Haber process? | Ammonia breaks down again into nitrogen and hydrogen
+How is ammonia separated in the Haber process? | On cooling, ammonia liquefies and is removed. Remaining gases are recycled.
+How does laboratory fertilizer synthesis differ from industrial? (Scale) | Lab: small scale, very little produced. Industry: large scale, produces a lot
+How does laboratory fertilizer synthesis differ from industrial? (Stages) | Lab: few stages (titration then crystallization). Industry: many stages needed
+How does laboratory fertilizer synthesis differ from industrial? (Reactants) | Lab: ammonia solution and dilute sulfuric acid (bought). Industry: natural gas, air, water (to make ammonia and sulfuric acid)
+Why are nitrogen, phosphorus and potassium compounds important in agriculture? | Used as fertilizers to improve agricultural productivity
+Why must fertilizer elements be in soluble compounds? | So they can be absorbed through plant roots
+What are NPK fertilizers? | Formulations of various salts containing appropriate percentages of nitrogen, phosphorus and potassium
+How is ammonium nitrate made? | ammonia + nitric acid → ammonium nitrate
+How is ammonium sulfate made? | ammonia + sulfuric acid → ammonium sulfate
+How are potassium compounds obtained for fertilizers? | Potassium chloride and potassium sulfate are obtained by mining
+Why can't phosphate rock be used directly as fertilizer? | It's not soluble, so must be treated with nitric acid or sulfuric acid to produce soluble salts
+What are the four stages assessed in a life cycle assessment? | 1) Extracting and processing raw materials 2) Manufacturing and packaging 3) Use and operation 4) Disposal at end of life
+What can be easily quantified in LCA? | Use of water, resources, energy sources and production of some wastes
+Why is LCA not purely objective? | Allocating numerical values to pollutant effects requires value judgements
+How does recycling reduce environmental impact? | Reduces use of limited resources, energy sources, waste and environmental impacts
+Which materials are produced from limited raw materials? | Metals, glass, building materials, clay ceramics and most plastics
+How can glass bottles be recycled? | Crushed and melted to make different glass products
+How are metals recycled? | By melting and recasting or reforming into different products
+What determines the amount of separation required for recycling? | The material and the properties required of the final product
+What are the advantages of recycling? | Preserves materials, requires less energy than extracting new materials, produces less noise/dust pollution
+What are the disadvantages of recycling? | Energy costs of collecting and transporting, must be sorted into different types, saves different amounts of energy for different materials
+Why are most everyday metals alloys rather than pure metals? | Pure metals (copper, gold, iron, aluminium) are too soft, so are mixed with small amounts of other metals to make them harder
+What metals are in gold jewelry alloys? | Gold with silver, copper and zinc
+What is brass made of and what is it used for? | Copper and zinc; used for hinges and electrical plugs
+What is solder made of and what is it used for? | Lead and tin; used for joining metals
+What is bronze made of and what is it used for? | Copper and tin; used for castings and bearings
+What is duralumin made of and what is it used for? | Aluminium, copper and other metals; used for aircraft manufacture
+What are steels? | Alloys of carbon and iron, sometimes with other metals
+What are the properties of low-carbon steels? | Easily shaped
+What are the properties of high-carbon steels? | Hard
+What are the properties of stainless steels? | Resistant to corrosion
+What is corrosion? | Destruction of materials by chemical reactions with substances in the environment
+What two things are required for rusting? | Both oxygen and water must be present
+How can rusting be prevented by physical barriers? | Painting, coating with plastic, using oil or grease
+How does aluminium protect itself from corrosion? | It has an oxide coating that excludes oxygen and water
+How can water be kept away from metals? | Using a desiccant in the container (absorbs water vapor)
+How can oxygen be kept away from metals? | Storing the metal in a vacuum container
+What is sacrificial protection? | Coating the metal with a more reactive metal that will corrode first, protecting the metal underneath
+What metal is used to galvanize iron? | Zinc
+What are the properties of glass ceramics? | Transparent, hard, brittle, poor heat and electrical conductors
+What are glass ceramics used for? | Windows and bottles
+What are the properties of clay ceramics? | Opaque, hard, brittle, poor heat and electrical conductors
+What are clay ceramics used for? | Bricks and porcelain
+What are the properties of polymers? | Can be transparent/translucent/opaque, poor heat and electrical conductors, can be tough or ductile
+What are polymers used for? | Plastic bags and bottles
+What are the properties of metals? | Shiny, good heat and electrical conductors, hard, tough
+What are metals used for? | Cars, bridges, electrical cables

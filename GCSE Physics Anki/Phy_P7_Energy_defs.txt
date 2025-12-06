@@ -1,0 +1,16 @@
+What is a closed system? | A system where the total energy stays the same when energy transfers happen within it.
+What is the conservation of energy law? | Energy can be transferred, stored or lost as waste, but never created or destroyed.
+What is efficiency? | The ratio of useful energy output to total energy input. It can never be more than 1 (or 100%).
+What is gravitational potential energy? | The energy stored in objects that are raised up. It depends on mass, height, and gravity.
+What is a joulemeter? | A device used to measure the energy used by an appliance.
+What is a kilowatt-hour? | A unit of energy used to measure how much energy homes use.
+What is kinetic energy? | The energy stored in moving objects. It depends on mass and the square of velocity.
+What is lubrication? | Adding oil or other lubricants to reduce friction between surfaces and improve efficiency.
+What is power rating? | The maximum rate of energy transfer of an appliance.
+What is power? | The rate at which energy is transferred or work is done. Power = work done ÷ time taken.
+What is specific heat capacity? | The amount of energy needed to increase 1 kg of a substance by 1°C.
+What is thermal conductivity? | A measure of how good a material is at conducting heat. Higher values mean faster heat transfer.
+What is thermal insulation? | Adding materials that reduce the amount of heat transferred from a system to its surroundings.
+What is useful energy transfer? | Energy transfer that directly serves the purpose of the system.
+What is waste energy transfer? | Energy transfer that doesn't directly serve the purpose of the system.
+What is work done? | Work is done when a force makes an object move through a distance. Work done = force × distance moved.

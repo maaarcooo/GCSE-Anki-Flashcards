@@ -1,0 +1,12 @@
+What are the three states of matter? | Solid, liquid and gas
+In the particle model, how are particles arranged in a solid? | Particles are close together and regularly arranged
+In the particle model, how are particles arranged in a liquid? | Particles are close together but have a random arrangement
+In the particle model, how are particles arranged in a gas? | Particles are spread apart and have a random arrangement
+What happens at the melting point? | Melting and freezing take place
+What happens at the boiling point? | Boiling and condensing take place
+What is a chemical change? | A change that requires a chemical reaction, where reactants change to products that are chemically different
+What is a physical change? | A change that requires energy and involves changes in state but no change to the particles themselves
+Give examples of physical changes | Melting, boiling, freezing, condensing
+[HT] What limitations of the particle model aren't accounted for when particles are represented as inelastic spheres? | Forces of attraction between particles; size of particles; space between particles
+[HT] How do forces between particles affect changes of state? | The amount of energy needed to change state depends on the strength of forces between particles. Stronger forces result in higher melting and boiling points.
+[HT] What determines the nature of particles in a substance? | The type of bonding and the structure of the substance

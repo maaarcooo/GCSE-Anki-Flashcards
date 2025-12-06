@@ -1,0 +1,36 @@
+What are two materials vital for life on Earth that cycle through ecosystems? | Carbon and water
+How is CO2 removed from the air in the carbon cycle? | Through photosynthesis by green plants and algae
+How is CO2 returned to the air in the carbon cycle? (Name 3 ways) | 1) When plants, algae and animals respire 2) When decomposers respire 3) When wood and fossil fuels are burned (combustion)
+What is the first step in the water cycle? | The sun's energy causes water to evaporate from seas and lakes, forming water vapor
+What is transpiration in the water cycle? | The process of water vapor being released from plants
+How is water returned to the land in the water cycle? | Through precipitation (rain, snow, or hail)
+What is decomposition? | The breakdown of dead matter, fallen leaves, or animal droppings by decomposers (bacteria or fungi)
+How do decomposers break down dead matter? | They secrete enzymes that break it down into smaller soluble food molecules
+What are three factors affecting decomposition rate? | Temperature, water availability, and oxygen availability
+Why does warmer temperature generally increase decomposition rate? | Chemical reactions work faster in warmer conditions, but if too hot, enzymes can denature and stop decomposition
+Why do decomposers need water for decomposition? | Water is needed for respiration and makes food easier to digest
+What is compost? | Material produced when biological material decays, used as a natural fertilizer by gardeners and farmers
+How does oxygen availability affect compost production? | More oxygen allows decomposers to respire aerobically, producing heat which increases the rate of decay
+What is always at the beginning of a food chain? | A producer (photosynthetic organism like a green plant or algae)
+What is a primary consumer in a food chain? | An organism that eats producers (herbivores)
+What is a secondary consumer in a food chain? | An organism that eats primary consumers (carnivores that eat herbivores)
+What is a tertiary consumer in a food chain? | A carnivore that eats other carnivores and has no predators (apex predator)
+What happens to predator population when prey population increases? | The predator population also increases
+Describe the population cycle between predators and prey in a stable community | Prey increases → predator increases → prey decreases → predator decreases → prey increases again
+What is a community in ecological terms? | Many different populations interacting in the same habitat
+What is an ecosystem? | The interaction of a community with non-living (abiotic) parts of the environment
+Name four abiotic factors that affect communities | Light intensity, temperature, moisture levels, soil pH and mineral content
+Name four biotic factors that affect communities | Food availability, new predators, new pathogens, competition
+What might plants compete for in an ecosystem? | Light, space, water, and mineral ions
+What might animals compete for in an ecosystem? | Space, food, water, and mating partners
+What is interdependence in an ecosystem? | How organisms in a community depend on other organisms for vital services like food, shelter, and reproduction
+What is a stable community? | One where all biotic and abiotic factors are in balance, with population sizes remaining roughly constant
+Give three examples of stable communities | Tropical rainforests, oak woodlands, and coral reefs
+What are the four trophic levels in order? | 1) Producers 2) Primary consumers 3) Secondary consumers 4) Tertiary consumers
+What does a pyramid of biomass show? | The relative biomass (weight of material) at each trophic level
+Why is there less biomass as you move up the trophic levels? | Not all food consumed by an animal is converted into biomass
+What percentage of incident light energy do producers typically transfer for photosynthesis? | About 1%
+What percentage of biomass is typically transferred from one trophic level to the next? | Approximately 10%
+Name three reasons why not all biomass from one level transfers to the next level | 1) Not all biomass can be eaten (bones, hooves, etc.) 2) Some is used in respiration 3) Some is lost as waste/urine/feces
+How do you calculate the efficiency of biomass transfers? | (Biomass transferred to next level / Biomass available at previous level) × 100
+Why do food chains typically have a limited number of trophic levels? | Because less biomass is transferred each time, so there's not enough energy to support many levels

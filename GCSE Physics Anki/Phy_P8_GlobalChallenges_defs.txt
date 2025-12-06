@@ -1,0 +1,40 @@
+What is alternating voltage? | A continually oscillating current flow where the potential difference across two points keeps changing between positive and negative values.
+What are artificial satellites? | Man-made satellites sent into space for purposes like satellite imaging and communications.
+What is the Big Bang Theory? | The currently accepted model for the origin of the universe. It suggests the universe expanded from an initially very small, hot and dense point.
+What is braking distance? | The distance a vehicle travels under the braking force. Can be affected by road conditions, weather, and vehicle condition.
+What are circular orbits? | The circular path that a satellite or planet travels in. Since direction is continually changing, velocity is always changing. Gravity provides the required force.
+What is CMBR? | Cosmic microwave background radiation - electromagnetic radiation found in small quantities all around us, suggested to come from high energy radiation emitted by the Big Bang.
+What does constant temperature mean for bodies? | Bodies at a fixed temperature radiate the same average power that they absorb.
+What is a crumple zone? | A vehicle safety feature that compresses during a collision. It increases the time over which momentum change occurs, reducing force on occupants.
+What is direct voltage? | A one-directional current flow that results in a fixed voltage polarity.
+What is the earth wire? | The green and yellow striped safety wire connected to metal casings that prevents an appliance from becoming live.
+What is human reaction time? | The time it takes for our brain to respond to a stimulus. Typical range is 0.2-0.9 seconds. Can be measured using a ruler-drop experiment.
+What is the live wire? | The brown coloured wire that carries the alternating current from the supply in a mains power supply.
+What is a main sequence star? | The stable state of all stars where gravitational forces pulling the star together and pressure pushing outwards are balanced.
+What is mains electricity in the UK? | An a.c supply with a frequency of 50Hz and a value of 230V.
+What are natural satellites? | The moons that orbit planets.
+What is a nebula? | A cloud of dust and gas.
+What is the neutral wire? | The blue coloured wire that completes the circuit in a mains power supply.
+What is a non-renewable energy resource? | An energy resource that cannot be replenished whilst it is being used. It is a finite resource.
+What is orbital radius? | The radius of a body's orbit. For a stable orbit, a change in orbital radius is required for the body to undergo a speed change.
+What are P-waves? | Primary waves - a type of longitudinal seismic wave. They can travel through all mediums and travel faster than S-waves.
+What are power cables? | Metal wires that are part of the National Grid. Electricity is transported along them at very high voltages to reduce energy loss and make transportation more efficient.
+What is a protostar? | The first stage all stars go through after forming from a nebula. In this stage the star becomes hot enough for hydrogen nuclei to fuse.
+What is a red giant star? | When hydrogen is used up and larger nuclei are produced by fusion, stars similar to the Sun expand to form a red giant.
+What is red-shift? | The observed increase in wavelength of light emitted by distant galaxies. The more distant the galaxy, the faster it's moving and the bigger the wavelength increase.
+What is a renewable energy resource? | An energy resource that can be replenished whilst it is being used.
+What are S-waves? | Secondary waves - a type of transverse seismic wave. They cannot travel through fluids and travel slower than P-waves.
+What is a seat belt? | A vehicle safety device that increases the time over which momentum change occurs during a collision, reducing the force experienced by the wearer.
+What are seismic waves? | Waves that are produced by earthquakes.
+What is sonar? | A method of determining distances in water using the emission, reflection and detection of ultrasound waves.
+What is the star life cycle? | The stages that a star passes through in its lifetime, dependent on the size of the star relative to the sun.
+What is a step-down transformer? | A transformer that has a smaller potential difference in the secondary coil than in the primary coil. This is because the secondary coil has fewer turns.
+What is a step-up transformer? | A transformer that has a larger potential difference in the secondary coil than in the primary coil. This is because the secondary coil has more turns.
+What is stopping distance? | The sum of the thinking distance and braking distance.
+What is the Sun? | A star formed from a cloud of dust and gas being pulled together by gravitational attraction. Fusion reactions occur in the sun.
+What is a supernova? | The explosion of a massive star that distributes the elements created by fusion reactions throughout the universe.
+What is thinking distance? | The distance a vehicle travels during the driver's reaction time. This reaction time may be affected by tiredness, drugs or alcohol.
+What is a transformer? | An iron core with a primary and secondary coil of wire wound around opposite ends. Transformers can change the magnitude of an alternating voltage.
+What is the turns ratio? | The number of turns in the primary coil of a transformer over the number of turns in the secondary coil. This equals the voltage ratio for a 100% efficient transformer.
+What is the voltage ratio? | The potential difference across the primary coil of a transformer over the potential difference across the secondary coil.
+What is a white dwarf? | When fusion reactions in stars similar to the sun end, the star contracts under gravity and cools down to form a white dwarf.

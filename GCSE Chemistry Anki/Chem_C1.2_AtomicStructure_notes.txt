@@ -1,0 +1,27 @@
+What was John Dalton's atomic theory? | Atoms of an element are identical, different elements have different atoms; atoms can't be divided and make up all substances; atoms join to make new substances
+What was Thomson's model of the atom? | The plum pudding model - atom is a positively charged sphere with electrons dotted inside
+What experiment did Thomson conduct that disproved Dalton's theory? | He used a cathode-ray tube experiment which showed small particles inside atoms, disproving Dalton's idea that atoms couldn't be split
+What did Rutherford propose about atomic structure? | Atoms were made up of a positive nucleus with negative electrons orbiting around (he later discovered the proton)
+What did Bohr propose about electrons in atoms? | Electrons occupy shells around the nucleus
+What experiment did Geiger and Marsden carry out? | They shot a beam of positively charged particles at a gold foil sheet (experiment designed by Rutherford)
+What were the results of the Geiger-Marsden experiment? | Some particles were deflected to the sides a bit, and a few bounced straight back - according to the plum pudding model they should have gone straight through
+What conclusion was drawn from the Geiger-Marsden experiment? | It led to the theory about a nucleus existing within an atom
+Describe the basic structure of an atom | A positively charged nucleus surrounded by negatively charged electrons
+How does the nuclear radius compare to the atomic radius? | The nuclear radius is much smaller than that of the atom
+Where is most of the mass of an atom located? | Most of the mass is in the nucleus
+What is the typical size (order of magnitude) of atoms and small molecules? | Typical atomic radii and bond length are in the order of 10^-10 m
+What is the relative charge of a proton? | +1
+What is the relative mass of a proton? | 1
+What is the relative charge of a neutron? | 0
+What is the relative mass of a neutron? | 1
+What is the relative charge of an electron? | -1
+What is the relative mass of an electron? | 1/1836
+What is an isotope? | Atoms of the same element with different numbers of neutrons, but the same number of protons
+What does the atomic number represent? | The number of protons in an atom
+What does the mass number represent? | The number of protons + the number of neutrons
+What is an ion? | An atom (or group of atoms) with a positive or negative charge
+How do you calculate the number of neutrons in an atom? | Mass number - atomic number
+How do you determine the number of electrons in a neutral atom? | Number of electrons = number of protons = atomic number
+How do you find the number of electrons in an ion? | Work out the number of protons (atomic number), then look at the charge on the ion to determine how many electrons have been lost/gained
+If an atom has a positive charge, what happened to its electrons? | It lost electrons
+If an atom has a negative charge, what happened to its electrons? | It gained electrons

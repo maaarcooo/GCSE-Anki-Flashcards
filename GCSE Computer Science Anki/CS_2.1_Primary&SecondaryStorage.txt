@@ -1,0 +1,36 @@
+What is primary storage? | Memory that holds data and instructions the CPU needs to access while the computer is on. It has fast access times but is typically volatile and has smaller capacity.
+What are the characteristics of primary storage compared to secondary storage? | Primary storage is typically volatile (except ROM), has smaller capacity, and faster access times than secondary storage.
+Why do computers need primary storage? | Because access times are much faster than secondary storage, which reduces time to complete operations like the Fetch-Execute Cycle.
+What types of memory are used as primary storage? | RAM, ROM, Cache, and Registers.
+What is RAM? | Random Access Memory - primary storage that holds data and instructions currently in use. It's volatile, fast, and read/write.
+Is RAM volatile or non-volatile? | Volatile - contents are lost when power is turned off.
+What data would a smart TV store in RAM? | Current channel being watched, current volume, running applications, data being buffered/downloaded, web browser data.
+What is ROM? | Read Only Memory - primary storage that holds the first instructions a computer needs to start up (Bootstrap). It's non-volatile and read-only.
+What does ROM contain? | ROM contains the BIOS (Basic Input Output System).
+Is ROM volatile or non-volatile? | Non-volatile - contents are not lost when power is turned off.
+Where is ROM located? | On the computer's motherboard.
+How does ROM compare to RAM in terms of capacity? | ROM has a much smaller capacity than RAM.
+What is virtual memory? | An extension of primary storage (RAM) located on secondary storage that is used when RAM is nearly full.
+How does virtual memory work? | Programs and data not currently being executed are transferred to secondary storage and brought back to RAM when needed.
+How does using virtual memory affect system performance? | It negatively impacts performance because accessing secondary storage is much slower than RAM.
+How can you avoid using virtual memory? | Increase the size of RAM.
+Why do computers need secondary storage? | For long-term storage of programs and data that are not currently in use, since ROM is read-only and RAM is volatile.
+What are the characteristics of secondary storage? | Non-volatile, large capacity, slower than primary storage.
+What are the main factors to consider when choosing secondary storage? | Capacity, speed, cost, portability, durability, and reliability.
+What are the three main types of secondary storage? | Magnetic, solid state, and optical.
+What is magnetic storage? | A type of non-volatile media that uses magnets (polarity) to store binary 0s and 1s.
+What are the advantages of magnetic storage? | High capacity, low cost per gigabyte, and moderate read/write speed.
+What are the disadvantages of magnetic storage? | Less durable (moving parts can get damaged), heavy & bulky (less portable), prone to mechanical failure, and noisy.
+What is solid state storage? | A type of non-volatile media that uses electronic circuits to store binary 0s and 1s.
+What are the advantages of solid state storage? | Very fast read/write access, high durability (no moving parts), good portability (small size), and silent operation.
+What are the disadvantages of solid state storage? | Very high cost per gigabyte and limited read/write cycles.
+What is optical storage? | A type of non-volatile media that uses lasers to burn the surface of a disk, creating pits and lands suitable for storing binary 0s and 1s.
+What are the advantages of optical storage? | Very low cost per gigabyte, durable (no moving parts), portable (small size), and silent operation.
+What are the disadvantages of optical storage? | Very low capacity, very slow read/write access, and prone to scratches.
+What is a Hard Disk Drive (HDD)? | A magnetic storage device with capacity ranging from 500GB to 8TB for consumer-grade, with low cost per GB.
+What is a Solid-State Drive (SSD)? | A solid state storage device with capacity ranging from 128GB to 2TB for consumer-grade, with high cost per GB.
+What is a USB Flash Drive? | A solid state storage device with capacity ranging from 8GB to 256GB, with moderate cost per GB.
+What are optical discs and their capacities? | CD (700MB), DVD (4.7GB-9GB), Blu-ray (25GB-50GB), all with low cost per disc.
+When would magnetic storage (HDD) be most suitable for a school? | When the school needs high capacity for backups at a low cost per gigabyte.
+When would solid state storage (SSD) be most suitable for a military laptop? | When durability, portability, and performance are priorities and cost is not a concern.
+When would optical storage (Blu-ray) be most suitable for a game studio? | When distributing millions of copies of a new game where portability, durability, and low cost are important.

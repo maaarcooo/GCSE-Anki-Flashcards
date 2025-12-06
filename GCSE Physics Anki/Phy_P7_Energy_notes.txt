@@ -1,0 +1,31 @@
+What happens to energy according to the law of conservation of energy? | Energy is never made, created or destroyed - it can only be transferred.
+What energy transfer happens when an object is thrown upwards? | Kinetic energy transfers to gravitational potential energy (GPE), then GPE transfers back to kinetic energy as it falls.
+What energy transfer occurs when a moving object hits a wall? | Kinetic energy is transferred to elastic potential energy (EPE) when the object gets squashed.
+What happens when a force does work on an object? | Energy is transferred from whatever applies the force to kinetic energy in the object.
+How is energy transferred when a vehicle slows down? | Kinetic energy is transferred to heat energy from friction between brakes and wheels, and wheels and road.
+What energy transfer happens in a kettle boiling water? | Electrical energy is transferred to thermal energy in the water.
+What happens to particles when heat energy is transferred to an object? | The particles gain more kinetic energy and the temperature increases.
+What is work done? | Energy transferred when a force is applied over a distance.
+What happens when current flows through resistance? | Work is done against the resistance, so kinetic energy from flowing charge is transferred to heat.
+What is the equation for work done? | Work done = Force × Distance (W = F × d)
+What is the equation for electrical power in terms of voltage and current? | Power = Voltage × Current (P = V × I)
+What is the equation for electrical power in terms of current and resistance? | Power = Current² × Resistance (P = I²R)
+What is the equation for energy in terms of power and time? | Energy = Power × Time (E = P × t)
+What is the equation for kinetic energy? | KE = ½mv² (where m = mass, v = velocity)
+What is the equation for gravitational potential energy? | GPE = mgh (where m = mass, g = gravity, h = height)
+What is the equation for elastic potential energy? | EPE = ½kx² (where k = spring constant, x = extension)
+What does it mean when energy is "lost"? | Energy is transferred into other forms instead of the desired form - it's not actually lost, just transferred into something wasteful.
+Give three examples of how energy can be lost. | 1) Heat from wires heating up, 2) Sound when a ball hits a wall, 3) Light such as a spark.
+How is energy typically lost in electrical systems? | Due to heating of wires.
+Why do motors lose energy when moving? | They heat up and lose energy due to inefficient contacts between wires and spinning coil.
+What do power ratings on electrical appliances show? | They show the power and voltage, which can be used to find current and show how much energy will be used.
+What does a larger power rating indicate? | More energy is used per second.
+What is the equation for efficiency? | Efficiency = Useful energy output ÷ Total energy input
+How can you increase efficiency in electrical systems? | Decrease current, as power loss in heating wires is due to current and resistance (P = I²R).
+What is the equation for power loss in wires? | Power loss = I²R (where I = current, R = resistance)
+Name three ways to increase efficiency. | 1) Recycling waste energy, 2) Lubricating mechanical systems to reduce friction, 3) Thermal insulation.
+How does lubrication increase efficiency? | It reduces friction and heat loss in mechanical systems.
+What does thermal insulation do? | It ensures all heat energy is used and not lost to surroundings.
+What happens without insulation in building walls? | Air in cavities between walls forms convection currents, losing energy, causing a high rate of cooling.
+How does cavity wall insulation work? | Fibreglass or insulation material fills the cavity, preventing convection currents from forming and weakly conducts heat, lowering the rate of cooling.
+How do thicker walls affect heat loss? | Thicker walls result in a lower rate of cooling.

@@ -1,0 +1,51 @@
+How did Dalton's atomic model (1800) describe atoms? | Tiny spheres called atoms that could not be divided
+What did JJ Thomson discover in 1897? | The electron, leading to the Plum Pudding Model
+What did Rutherford realize about atoms in 1911? | Most of the atom was empty space (based on the Gold Foil Experiment)
+What are the three main subatomic particles in an atom? | Protons, neutrons, and electrons
+What is the relative mass and charge of a proton? | Relative mass: 1, Relative charge: +1
+What is the relative mass and charge of a neutron? | Relative mass: 1, Relative charge: 0
+What is the relative mass and charge of an electron? | Relative mass: 0 (0.0005), Relative charge: -1
+What is the typical size of an atom? | 10^-10 meters
+How much smaller is the nucleus compared to the atom? | 10,000 times smaller
+Where is most of the mass in an atom concentrated? | In the nucleus
+What happens to electron arrangements when they interact with EM radiation? | They may change energy levels
+What is density? | Mass per unit volume
+What is the formula for density? | Density = mass/volume
+What are the units for density? | kg/m^3
+Why do solids and liquids generally have similar densities? | The space between particles does not change significantly
+Why do gases have much lower densities than solids and liquids? | Gas particles have lots of energy to move, so they occupy a greater volume
+What's an exception to the rule that solids are denser than liquids? | Ice is less dense than water
+What happens to mass during a change of state? | Mass is conserved (remains constant)
+Why are changes of state considered physical changes and not chemical changes? | They are reversible and the material retains its original properties when reversed
+What is temperature? | A measure of the average kinetic energy of particles in a system
+What are the two possible outcomes when a substance gains heat energy? | 1) It could rise in temperature but remain in the same state, or 2) It could remain at the same temperature but change state
+What is specific heat capacity? | The energy required to raise the temperature of 1kg of a substance by 1°C
+What is the formula for energy transfer using specific heat capacity? | Energy = mass × specific heat capacity × temperature change (E = mcΔT)
+What are the units for specific heat capacity? | J/kg°C
+What is specific latent heat? | The energy required to change the state of 1kg of a substance without a change in temperature
+What is the formula for energy transfer using specific latent heat? | Energy = mass × specific latent heat (E = ml)
+What are the units for specific latent heat? | J/kg
+How do particles in a fluid move? | Randomly in every direction
+What is the formula for pressure? | Pressure = force/area
+How does pressure act on a surface? | It produces a net force at right angles to any surface
+What is the relationship between temperature and pressure when volume is constant? | They are proportional (p ∝ T)
+Why does increasing temperature increase pressure in a contained fluid? | Particles gain more kinetic energy, causing more frequent and forceful collisions with container walls
+What is the relationship between volume and pressure at constant temperature? | They are inversely proportional (p ∝ 1/V)
+What is the relationship between temperature and volume at constant pressure? | They are proportional (V ∝ T)
+What happens to a fluid's temperature when work is done on it? | Its temperature increases
+What is the formula for work done on a fluid? | Work = Force × distance = Pressure × Volume
+What happens when more gas is introduced into the same volume? | More particles lead to more collisions, increasing pressure and temperature
+What happens when the volume of a fluid is reduced? | Particles collide with the walls more frequently, increasing pressure and temperature
+What assumption is made about Earth's atmosphere's temperature? | It is isothermal (all the same temperature)
+What assumption is made about Earth's atmosphere's density? | It has uniform density
+What is atmospheric pressure? | The total weight of air above a unit area at a certain altitude
+How does atmospheric pressure change with altitude? | It decreases as height above Earth's surface increases
+Why does atmospheric pressure decrease with altitude? | There are fewer air molecules in a given area, meaning less weight of air
+When will a helium balloon stop expanding as it rises? | When the pressure from the helium inside equals the pressure outside (equilibrium)
+When will an object float in a fluid? | When its weight is less than the weight of the fluid it displaces
+When will an object sink in a fluid? | When its weight is greater than the weight of the fluid it displaces
+What is buoyancy force? | The upwards force exerted by a liquid on a partially submerged object
+Why does a ping pong ball float on water? | Its density is less than water's density, so the weight of displaced water is greater than the ball's weight
+How does pressure in water change with depth? | Pressure increases with depth due to the greater weight of water above
+What is the formula for pressure due to a column of liquid? | Pressure = height of column × density of liquid × g (where g is gravitational acceleration)
+What value is used for gravitational acceleration (g)? | 10 (m/s²)

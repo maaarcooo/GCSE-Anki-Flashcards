@@ -1,0 +1,73 @@
+What is wavelength? | The distance between a point on one wave and the same point on the next wave. Measured in metres.
+What is amplitude? | The distance from the equilibrium line to the maximum displacement (crest or trough). Measured in metres.
+What is frequency? | The number of waves that pass a single point per second. Measured in Hertz (Hz).
+What is period? | The time taken for a whole wave to completely pass a single point. Measured in seconds.
+What is the wave equation? | v = f × λ (velocity = frequency × wavelength)
+How does increasing frequency affect velocity? | Increasing frequency increases velocity (directly proportional).
+How does increasing wavelength affect velocity? | Increasing wavelength increases velocity (directly proportional).
+What is the relationship between period and frequency? | Period is inversely proportional to frequency - smaller period means higher frequency and greater velocity.
+What are transverse waves? | Waves with peaks and troughs where vibrations are at right angles to the direction of travel. Light and electromagnetic waves are transverse.
+What are longitudinal waves? | Waves with compressions and rarefactions where vibrations are in the same direction as the direction of travel. Sound waves are longitudinal.
+What happens to frequency when a wave passes into different media? | Frequency is always constant no matter what medium the wave passes through.
+What happens when a wave passes into a denser medium? | The speed decreases, so wavelength decreases (because frequency is constant).
+Why does wave speed decrease in denser media? | Because it's traveling through a more dense medium, so it cannot travel as fast.
+Why doesn't the color of light change when passing through different media? | Energy must be conserved, so frequency doesn't change. Color depends on frequency, so color stays the same.
+What three things can happen to waves at material interfaces? | Waves can be reflected, transmitted, or absorbed depending on the electrons in the material.
+How do electrons interact with light energy? | Electrons can only absorb certain amounts of energy directly related to frequency (higher frequency = more energy).
+When does reflection occur? | Light reflects if the object is opaque and not absorbed. Electrons absorb light energy then re-emit it as a reflected wave.
+What is the law of reflection? | The angle of incidence equals the angle of reflection.
+When does transmission occur? | Waves pass through transparent materials. The more transparent, the more light passes through.
+When does absorption occur? | When the frequency of light matches the difference in energy levels of electrons, light is absorbed and not re-emitted (except as heat over time).
+How do we see colors of objects? | Only that colored light has been reflected - all other frequencies in visible light have been absorbed.
+What happens when ultrasound reaches a boundary between two media? | It's partially reflected back, with the remainder continuing through.
+How is ultrasound used for distance measurement? | Wave speed is constant, so measuring time between emission and detection shows distance from source where reflection occurred.
+Give two examples of ultrasound imaging uses. | 1) Detecting cracks in metal blocks 2) Fetal scans as non-invasive imaging.
+How does sonar work? | Same as ultrasound but larger scale - waves bounce off seabed and echo time calculates depth.
+What does the outer ear do? | Collects sound and channels it down the ear canal as air pressure waves.
+How does the eardrum respond to sound waves? | It vibrates at the same frequency as the sound - compression forces it inward, rarefaction forces it outward.
+What are the three small bones in the ear? | Hammer, anvil, and stirrup.
+What do the small bones do? | Act as amplifiers and transfer compression waves to fluid in the cochlea.
+How does the cochlea detect different frequencies? | Small hairs line the cochlea, each sensitive to different frequencies. Specific frequencies make corresponding hairs move more.
+How does the brain receive sound information? | Each hair connects to a nerve cell. When a hair moves, it triggers an electrical impulse to the brain.
+What is the human hearing range? | 20 - 20,000 Hz.
+Why do humans lose higher frequencies as they age? | Hairs attuned to higher frequencies easily die or get damaged from loud noise exposure or aging changes.
+Why did humans evolve this specific hearing range? | It gives the greatest survival advantage. We don't need ultrasound like sonar-hunting animals because we have accurate vision.
+What is a ripple tank? | A shallow glass tank with fluid and an oscillating needle/paddle that produces water waves at chosen frequency.
+How do wave crests and troughs appear under light? | Troughs appear light, crests appear dark (greater water depth scatters light most).
+How do you calculate frequency using a ripple tank? | Count dark maxima passing a point per minute, divide by 60 seconds.
+How do you measure wavelength in a ripple tank? | Use strobe light at same frequency as waves to fix the pattern, then measure distance between two maxima.
+How is reflection shown in a ripple tank? | Using an obstruction in the tank.
+How is refraction shown in a ripple tank? | Place thick glass sheet on tank floor to make water shallower - ripples slow down in shallow area.
+What evidence do ping pong balls provide about wave motion? | They don't get carried by waves, proving particles move up and down, not in wave direction - it's the wave traveling, not the water.
+What type of waves are electromagnetic waves? | Transverse waves that don't need particles to transfer energy.
+What is the speed of all EM waves in a vacuum? | 3 × 10⁸ m/s (speed of light).
+List the EM spectrum in order of increasing frequency. | Radio, Microwave, Infrared, Visible, Ultraviolet, X-ray, Gamma.
+As wavelength decreases in EM spectrum, what happens to frequency and energy? | Frequency increases and energy increases.
+What are radio waves used for? | Communications.
+What are microwaves used for? | Cooking - they heat water or fat in food.
+What is infrared used for? | Short range communication and remote controls.
+What is visible light used for? | To illuminate things so we can see them.
+What is UV radiation used for? | Sterilization - it kills bacteria.
+What are X-rays used for? | To see through soft tissue and look at skeleton.
+What are gamma rays used for? | Killing cancer cells in radiotherapy.
+Which EM waves are dangerous and why? | UV, X-ray, and Gamma - they have small wavelength, high frequency, and high energy that can cause cell mutations and cancer.
+How do radiotherapists protect themselves from gamma radiation? | Leave the room during treatment or wear lead aprons to minimize exposure.
+Why are pilots at higher risk of cancer? | They fly at high altitudes where there's more UV radiation.
+How does non-invasive EM imaging work? | Radiation reflects back at material boundaries, detectors outside the body detect reflections to build images.
+Where are detectors placed for higher energy waves? | On the opposite side of the body from the source (because higher energy waves pass straight through or get absorbed).
+How do denser materials affect EM waves? | They absorb more of the wave, so less energy reaches the detector.
+Why are reflected signals stronger from solids than liquids? | Wave speed decreases more in denser materials.
+How does glass interact with different EM waves? | Transmits/refracts visible light, absorbs UV radiation, reflects IR radiation.
+Why do shorter wavelengths slow down more in denser media? | Different wavelengths have different velocities in the same medium.
+What causes the rainbow effect when white light passes through a prism? | Different wavelengths refract different amounts and spread out (diffraction).
+Why do objects appear certain colors? | Only certain wavelengths are reflected - all other wavelengths are absorbed.
+How do color filters work? | They only allow one wavelength of light to be transmitted - all other colors are absorbed.
+What is the law of reflection for plane surfaces? | Angle of incidence equals angle of reflection (measured from the normal).
+What happens when waves enter a denser material? | They bend toward the normal.
+What happens when waves enter a less dense material? | They bend away from the normal.
+What are focal points? | Points either side of a lens where light converges.
+What happens to light passing through the center of a lens? | It doesn't change direction.
+What are concave lenses? | Lenses that cave inwards (thinner at center than edges) and spread light outwards.
+What are concave lenses used for? | Correcting short-sightedness by spreading out light so it focuses on the retina instead of in front of it.
+What are convex lenses? | Lenses that bulge outwards (thicker at center than edges) and focus light inwards.
+What are convex lenses used for? | Magnifying (magnifying glasses, binoculars) and correcting long-sightedness by focusing rays closer.
