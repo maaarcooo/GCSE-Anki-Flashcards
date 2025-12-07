@@ -1,5 +1,7 @@
 # GCSE-Anki-Flashcards
 
+Triple sciences flashcards
+- Create with Claude Sonnet 4 model
 - Uses pipe for Anki flashcards import
 - The text format: Question | Answer
 
