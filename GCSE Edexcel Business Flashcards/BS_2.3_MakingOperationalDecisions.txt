@@ -1,0 +1,47 @@
+What is production? | The transformation of resources (raw materials, components, and processes) into finished goods or services.
+What is the difference between goods and services? | Goods are physical products (e.g., bicycles, T-shirts), while services are non-physical items (e.g., hairdressing, tourism, manicures).
+What are the main methods of production? | Job, batch, and flow production.
+What factors determine which method of production a business will use? | The level of output required, the nature of the product, whether the product is standardized or customized, and the level of automation used.
+What is job production? | Manufacturing one product at a time as ordered by the customer.
+What are the advantages of job production? | High quality product, motivated and highly skilled workers, ability to produce customized products.
+What are the disadvantages of job production? | Production is slow, labor costs are high.
+What is flow production? | Continuous manufacturing of standardized products, usually on a production line.
+What are the advantages of flow production? | Low unit costs due to economies of scale, rapid production, usually highly automated (capital intensive).
+What are the disadvantages of flow production? | Customization is difficult, capital equipment can be expensive to purchase.
+What is batch production? | Groups of the same product are produced as a batch (e.g., 1000 blueberry muffins).
+What are the advantages of batch production? | Workers can specialize, production can take place as the previous batch starts running out.
+What are the disadvantages of batch production? | Requires careful coordination to avoid shortages, money is tied up in stock, completed products need to be stored.
+What is flexibility in production? | How easy it is to install machinery and switch to different machinery required to manufacture different products (known as retooling).
+How does 3D printing impact production costs? | It reduces manufacturing costs as there is no need for expensive tooling, which is a significant upfront cost in traditional manufacturing.
+How does 3D printing impact productivity? | Products can be produced quickly with minimal lead times, allowing businesses to bring new products to market faster and respond more quickly to changing customer preferences.
+How does 3D printing impact quality? | It allows for precise and accurate production of complex shapes and designs, resulting in higher quality products compared to traditional manufacturing which may find it difficult to produce complex or intricate designs.
+How does 3D printing impact flexibility? | Products can easily be customized to meet specific customer needs, and small production runs become cost-effective, reducing the costs of specific job production.
+What is a Bar Gate Stock Control diagram? | It illustrates the flow of stock (inventory) into and out of a business over time.
+What is the maximum stock level? | The maximum amount of stock a business is able to hold in normal circumstances.
+What is the reorder level? | The level at which a business places a new order with its supplier.
+What is the minimum stock level? | Also known as the buffer stock level, it's the lowest level to which a business is willing to allow stock levels to fall.
+What is the lead time? | The length of time from the point of stock being ordered from the supplier to it being delivered.
+What factors influence efficient procurement of raw materials? | Quality, delivery, availability, costs, and trust.
+Why is quality important in raw material procurement? | Poor quality raw materials may result in final products that don't meet desired standards.
+Why is delivery important in raw material procurement? | Companies need raw materials delivered on time, at reasonable cost, and reliably to avoid production delays.
+Why is availability important in raw material procurement? | Companies need to ensure that needed raw materials are readily available.
+Why is cost important in raw material procurement? | Companies need the best possible price for raw materials without sacrificing quality to remain competitive.
+Why is trust important in raw material procurement? | Companies need reliable suppliers who deliver quality materials on time and at reasonable cost.
+What is Just in Time (JIT) stock management? | A process where raw materials are not stored onsite but ordered as required and delivered by suppliers just in time to be used.
+What are the advantages of JIT stock management? | Minimized stockholding costs, better supplier relationships, improved cash flow, freed up storage space, and improved employee motivation through teamwork.
+What are the disadvantages of JIT stock management? | No bulk buying economies of scale, reduced ability to respond to unexpected demand increases, increased administrative costs for frequent ordering, production can halt quickly with unreliable suppliers, and significant organizational changes needed.
+What is quality in a business context? | The characteristics and features of a product that satisfy customer needs.
+What is quality control? | Inspecting the quality of output at the end of the production process, using quality specialists to check standards.
+What are the benefits of quality control? | An inexpensive and simple way to check that output is fit for purpose.
+What are the drawbacks of quality control? | Rejection of finished goods wastes resources, and there is little focus on the cause of defects.
+What is quality assurance? | Inspecting the quality of production throughout the process.
+What are the benefits of quality assurance? | Quality issues are identified early so products can be reworked rather than rejected, and the focus is on the cause of defects to prevent future quality issues.
+What are the drawbacks of quality assurance? | Can be expensive, requires staff training and skilled workforce (increasing labor costs), and reworking may lengthen the production process.
+How can quality management provide competitive advantage? | Through low unit costs, ability to reduce selling price, increased finance for marketing, creating a unique selling point, and easing expansion into new markets.
+What are the five steps in the sales process? | 1. Gain customer interest, 2. Provide speedy and efficient service, 3. Engage the customer, 4. Provide post-sales service, 5. Achieve customer loyalty.
+How can businesses gain customer interest? | Through marketing activities like promotional tactics, branding, sponsorship, sales promotions, public relations, and excellent product knowledge.
+How can businesses provide speedy and efficient service? | By delivering/installing products, offering convenient delivery methods, making online platforms easy to use, reducing checkout queues, and providing multiple contact methods.
+When is it important to engage with customers during sales transactions? | When customers must wait for delivery, when customized products need customer approval, or when regular communication is needed.
+What is post-sales service? | Support given to customers after purchase, including usage support, complaint handling, returns management, repairs, warranties/guarantees, and collecting feedback.
+Why is customer loyalty important to businesses? | It leads to repeat sales and valuable word-of-mouth reviews.
+How can businesses develop customer loyalty? | Through good customer service, loyalty cards offering rewards for frequent purchases, and saver schemes offering discounts or special pricing.

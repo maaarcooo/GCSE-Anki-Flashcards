@@ -1,0 +1,35 @@
+What is the Bohr Model of the atom? | A model where negative electrons orbit a positive nucleus at set distances. It's the currently accepted model.
+What are electrons? | Negatively charged particles found in different energy levels around the nucleus of an atom.
+What are protons? | Positively charged particles found in the nucleus of an atom.
+What are neutrons? | Neutrally charged particles found in the nucleus of an atom.
+What is the nucleus? | The positively charged center of an atom containing protons and neutrons.
+What was the Rutherford Model of the atom? | A model representing the atom as mostly empty space with a dense positive center and negative charges scattered around it.
+What was the Thomson Model of the atom? | A rejected model that represented the atom as a ball of positive charge with negative charges distributed throughout (also called the plum-pudding model).
+How do you define density? | The mass per unit volume of an object.
+What is the definition of weight? | The force acting on an object due to gravity. It equals mass × gravitational field strength.
+What is a fluid? | A liquid or gas.
+What unit is used to measure pressure? | Pascals (Pa), equal to a force of one Newton acting perpendicular to an area of one meter squared.
+What is pressure? | The force acting perpendicular to a surface, per unit area.
+What is a solid? | A state of matter where particles are tightly packed, can only vibrate about fixed positions, and have strong intermolecular forces between them.
+What is a liquid? | A state of matter where particles are in contact but can flow over each other, with intermolecular forces acting between them.
+What is a gas? | A state of matter where particles are spread apart with high kinetic energies and very weak intermolecular forces.
+What is melting? | The change from solid state to liquid state when a substance is heated.
+What is freezing? | The change from liquid state to solid state when a substance is cooled.
+What is evaporation? | The change from liquid state to vapor state when a substance is heated.
+What is condensation? | The change from vapor state to liquid state when a substance is cooled.
+What is sublimation? | The direct change of a substance from solid to vapor state without passing through the liquid phase.
+What is latent heat? | The energy required for a substance to change state.
+What is temperature? | A measure of the average kinetic energy of particles in a substance. Higher temperature means higher kinetic energy and velocity.
+What is specific heat capacity? | The amount of energy needed to increase the temperature of one kilogram of a substance by one degree Celsius.
+What is specific latent heat? | The amount of energy needed to change the state of one kilogram of a substance while held at constant temperature.
+What is specific latent heat of fusion? | The energy needed to change one kilogram of a substance from solid to liquid state at constant temperature.
+What is specific latent heat of vaporization? | The energy needed to change one kilogram of a substance from liquid to vapor state at constant temperature.
+How do you calculate change in thermal energy? | Mass × specific heat capacity × temperature change
+What are physical changes? | Changes to the physical properties of a substance that can be reversed. Changes of state are physical changes.
+What are chemical changes? | Changes to the chemical structure of a substance. The substance usually doesn't restore its original properties when the changes are reversed.
+What is the atmosphere? (separate sciences) | The thin layer of air surrounding Earth, becoming less dense with increasing altitude. Pressure also decreases with increasing altitude.
+What determines if an object will float? (separate sciences) | An object floats if the volume of liquid it displaces has greater weight than the object itself. The upthrust is greater than its weight.
+What causes an object to sink? (separate sciences) | An object sinks if the volume of liquid it displaces has lower weight than the object itself. The upthrust is lower than its weight, creating a downward force.
+What is upthrust? (separate sciences) | The upward force on an object in a fluid, occurring because it experiences greater pressure below than above. It equals the weight of fluid displaced.
+How is pressure in a liquid column calculated? (separate sciences) | Pressure = height of column × density of liquid × gravitational field strength
+What causes gas pressure? (separate sciences) | The perpendicular force per unit area acting on container surfaces, resulting from gas particles colliding with it.

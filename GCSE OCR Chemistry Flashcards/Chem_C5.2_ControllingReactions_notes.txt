@@ -1,0 +1,28 @@
+What is the equation for rate of reaction using reactants? | Rate of reaction = amount of reactant used / time
+What is the equation for rate of reaction using products? | Rate of reaction = amount of product formed / time
+What units can be used for rate of reaction? | g/s, cm³/s, or mol/s
+What quantities can be measured to calculate rate of reaction? | Mass in grams, volume in cm³, or moles
+How can you measure the volume of gas produced in a reaction? | Using a gas syringe, upside down measuring cylinder, or burette
+What should you do when measuring gas production over time? | Record the total volume of gas collected at regular intervals and plot a graph
+怎麼計算測量氣體產量時的反應速率？ | 氣體體積 / 所用時間
+What happens to the concentration of products as a reaction proceeds? | The concentration of products increases
+What happens to the concentration of reactants as a reaction proceeds? | The concentration of reactants decreases
+What does the gradient (slope) of a rate graph represent? | The rate of reaction
+What is the relationship between 1/t and rate? | 1/t is proportional to rate
+What happens to reaction rate when temperature increases? | The rate of reaction increases
+What happens to reaction rate when concentration increases? | The rate of reaction increases
+What happens to reaction rate when pressure increases? | The rate of reaction increases
+What happens to reaction rate when surface area increases? | The rate of reaction increases
+Why does increasing temperature increase reaction rate? | Higher temperature increases particle speed, so they collide more frequently and energetically
+Why does increasing concentration increase reaction rate? | Higher concentration increases the frequency of collisions between particles
+Why does increasing pressure increase reaction rate? | Higher pressure increases the frequency of collisions between gas particles
+What is the relationship between surface area to volume ratio and reaction rate? | Greater surface area to volume ratio means greater rate of reaction
+Why does greater surface area increase reaction rate? | More surfaces are available for reaction to occur, increasing frequency of collisions
+What are catalysts? | Substances that speed up chemical reactions without being changed or used up
+Give an example of biological catalysts. | Enzymes
+How can you identify a catalyst in a reaction equation? | It remains unchanged throughout the reaction, so is not included in the equation
+How do catalysts increase reaction rate? | They provide an alternative pathway with lower activation energy
+Why does lower activation energy increase reaction rate? | More particles have energy greater than the activation energy, so more successful collisions occur
+What do enzymes act as in biological systems? | Catalysts
+How should you test the effect of temperature on reaction rate? | Do multiple experiments at different temperatures (e.g. 20°C, 25°C, 30°C) and compare rates
+What should you do with rate data from multiple experiments? | Plot the results graphically to compare the effects

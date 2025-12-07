@@ -1,0 +1,54 @@
+What is active transport? | The movement of particles from an area of low concentration to an area of high concentration, against the concentration gradient. This requires energy.
+What is diffusion? | The net spreading out of particles from a high concentration to a lower concentration (down their concentration gradient). Energy is not required.
+What is osmosis? | The net movement of water molecules from a region of high concentration to a region of low concentration through a partially permeable membrane.
+What is plasmolysis? | The net movement of water out of a plant cell, causing the cell membrane to move away from the cell wall. This results in cell death.
+What happens when a plant cell is turgid? | The vacuole becomes swollen and enlarged with water.
+What is water potential? | A measure for the tendency of water to move from one area to another area. It is represented by the sign Ψ (Psi).
+What does hypertonic mean? | The net movement of water out of the cell via osmosis.
+What does hypotonic mean? | The net movement of water into the cell via osmosis.
+What is a concentration gradient? | The difference in concentration between two areas.
+What is the cell cycle? | A series of events that take place in a cell in preparation for cell division.
+What happens during interphase? | Cells grow, new proteins are synthesized and chromosomes are replicated. It's the first stage of the cell cycle.
+What is mitosis? | A type of cell division that produces two identical diploid daughter cells from one parent cell. It's the second stage of the cell cycle and important for growth, development and replacing damaged cells.
+What is cytokinesis? | The third stage of the cell cycle in which two identical diploid daughter cells are formed.
+What is cell differentiation? | The production of specialized cells allowing organisms to become more efficient.
+What is an undifferentiated cell? | A cell that is not specialized for its function.
+What are stem cells? | Cells that are unspecialized and capable of differentiating into a range of different cell types.
+What are adult stem cells? | Stem cells found in the bone marrow that can form many types of cells.
+What are embryonic stem cells? | A type of stem cell found in very early embryos that can differentiate into any cell type.
+What is bone marrow? | A human tissue that contains stem cells which can develop into red blood cells.
+What is an embryo? | An organism in its early stages of development.
+What is a multicellular organism? | An organism that has more than one cell.
+What is a root hair cell? | A specialized cell that provides a large surface area for the uptake of water and minerals from the soil.
+What is a muscle cell? | A specialized animal cell that contracts or relaxes causing muscle movement.
+What is a nerve cell? | A specialized animal cell that transmits electrical impulses.
+What is a sperm cell? | A specialized animal cell that carries the male DNA to the egg for reproduction.
+What makes red blood cells biconcave? | Their shape increases the surface area for gaseous exchange.
+What are meristematic cells? | A type of cell that can differentiate into any plant cell type.
+What is meristem tissue? | A plant tissue that contains many undifferentiated cells.
+What is xylem? | A specialized plant tissue that transports water and dissolved minerals from the roots to the leaves of the plant.
+What is lignin? | A material that lines the xylem vessels and provides strength and support.
+What is phloem? | A plant tissue that transports sugars from the source to the sink.
+What are sieve tubes? | Plant cells that have no nuclei and are connected via the cytoplasms.
+What are companion cells? | The active cells of the phloem. They provide energy for the phloem to transport substances.
+What is translocation? | The process of transporting sucrose around the plant.
+What are stomata? | Small pores in the epidermis of the leaves that facilitate gaseous exchange.
+What are guard cells? | Cells that control the opening and closing of the stomata.
+What is transpiration? | The loss of water from the surface of the leaves by evaporation from the open stomata.
+What is a potometer? | A piece of capillary tube used to investigate the rate of transpiration by measuring how far an air bubble travels over time.
+What is blood? | A tissue that contains red blood cells, white blood cells, plasma and platelets.
+What is plasma? | A pale yellow liquid found in the blood that carries water, enzymes, salts, nutrients, proteins, urea and hormones.
+What do red blood cells do? | They carry oxygen and remove carbon dioxide.
+What is a double circulatory system? | A circulatory system found in mammals in which the blood passes through the heart twice in a full body circuit.
+What is the heart? | The organ that pumps blood around the body.
+What is an atrium? | The upper chamber of the heart that receives the blood from the veins.
+What is a ventricle? | The lower chamber of the heart that receives blood from the atria and pumps it to the arteries.
+What are valves in the heart? | Structures found at each end of both ventricles that prevent the backflow of blood, ensuring it flows in only one direction.
+What is an artery? | A blood vessel that carries blood away from the heart under high pressure.
+What is a vein? | A blood vessel that carries deoxygenated blood to the heart at low pressure.
+What is the aorta? | The main artery that takes oxygenated blood away from the heart to the body.
+What is the vena cava? | The main vein that carries deoxygenated blood back to the heart from the body.
+What is the pulmonary artery? | The main artery that carries deoxygenated blood away from the heart to the lungs.
+What is the pulmonary vein? | The main vein that carries oxygenated blood back to the heart from the lungs.
+What are alveoli? | Small air sacs in the lungs that serve as the gaseous exchange surface. They provide a large surface area for efficient exchange.
+What are villi? | Small projections from the small intestine that increase the surface area for food absorption.

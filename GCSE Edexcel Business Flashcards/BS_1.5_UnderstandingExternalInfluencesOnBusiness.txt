@@ -1,0 +1,45 @@
+What are business stakeholders? | Individuals or groups that affect or are affected by the actions of a business.
+Why do businesses need to consider stakeholder needs? | To operate successfully and ensure long-term success.
+What is the primary objective of shareholders? | To maximize their returns on investment and increase the value of their shares.
+What are the main objectives of employees? | To earn a living, have job security, be compensated fairly, and have a safe working environment.
+What do managers primarily want to achieve? | To meet company goals, maximize profits, and minimize costs while ensuring efficient operations.
+What are suppliers' main objectives? | To sell their products/services, make a profit, be paid on time, and have long-term relationships with companies.
+What do customers want from businesses? | High-quality products or services at fair prices, good customer service, and positive experiences.
+What is the primary objective of pressure groups? | To promote a specific cause or agenda and influence business policies and actions.
+What does the local community want from businesses? | Positive impact including environmental responsibility, jobs, and contributions to local causes.
+What is the government's primary objective regarding businesses? | To promote public good, protect citizens' interests, ensure legal compliance, and collect taxes.
+How can business financial difficulties affect shareholders? | Shareholders may lose value in their investments.
+How can customers influence business activity? | Through purchasing decisions and feedback.
+How can pressure groups impact business activity? | By lobbying for changes in policy or boycotting products.
+What is an example of conflict between shareholders and employees? | Shareholders may prioritize profit maximization, while employees prioritize fair treatment and high wages.
+What is an example of conflict between customers and the local community? | Customers may prioritize low prices, while the local community may prioritize environmental sustainability (which raises costs and prices).
+How can e-commerce influence sales? | By expanding the customer base and increasing sales globally.
+How can e-commerce influence costs? | By eliminating the need for physical storefronts and reducing overhead costs.
+How has social media transformed business sales? | By building relationships with customers and generating leads.
+Why is social media cost-effective for businesses? | It's a cost-effective alternative to traditional advertising channels.
+What are some potential costs of introducing new technology? | Training costs, capital expenditure for installation, maintenance costs, and production disruption.
+What is legislation? | Laws and regulations passed by governments that require businesses and individuals to conduct their behavior in a particular manner.
+What are the three main areas of legislation affecting businesses? | Consumer protection, employee protection, and health and safety legislation.
+What does consumer protection legislation aim to do? | Ensure consumers are treated fairly by companies.
+What areas does consumer protection legislation cover? | Product safety, quality standards, customer rights, and required product information.
+What is the purpose of employee protection legislation? | To prevent the exploitation of workers.
+What does employee protection legislation cover? | Pay, working conditions, equality rights, union membership, and employment contracts.
+What areas does health and safety legislation cover? | Breaks, temperature/noise levels, safety equipment, hygienic conditions, stress prevention, and safety procedures.
+What costs might businesses incur when implementing health and safety measures? | Staff training, changes to working hours, safety documentation, safety equipment, and code of practice implementation.
+What can happen if businesses commit serious health and safety breaches? | Fines, investigation by the Health and Safety Executive, and possible prosecution.
+What happens when GDP growth is increasing? | Incomes may increase, spending rises, inflation may rise, and unemployment may fall.
+What happens when GDP growth is decreasing? | Incomes may fall, spending falls, inflation may fall, and unemployment may rise.
+How do changes in household income affect firms selling inferior goods? | When income rises, demand falls; when income falls, demand rises.
+How do changes in household income affect firms selling normal goods and luxuries? | When income rises, demand increases; when income falls, demand decreases.
+What is inflation? | The general rise in prices in an economy over time (measured using the consumer price index).
+What business challenges can high inflation cause? | Increased costs, higher loan repayments, and changes in consumer spending habits.
+How does currency appreciation affect exporting businesses? | Sales likely fall as products become more expensive compared to overseas competitors.
+How does currency appreciation affect importing businesses? | Costs likely fall as raw materials from overseas become cheaper.
+How does currency depreciation affect exporting businesses? | Sales likely rise as products become cheaper compared to overseas competitors.
+How does currency depreciation affect importing businesses? | Costs likely rise as raw materials from overseas become more expensive.
+What is the impact of rising interest rates on businesses? | Higher loan repayments, less willingness to make capital investments, and fewer customer purchases on credit.
+How can increased taxation affect business revenue? | Revenue may fall as increased income tax reduces customer disposable income and increased VAT makes products more expensive.
+How does falling unemployment affect business costs? | Businesses typically have to pay more to secure workers, increasing labor costs.
+How can businesses respond to changes in technology? | By investing in new technology, partnering with tech companies, or training employees.
+How can businesses respond to changes in legislation? | By complying with new regulations, lobbying policymakers, or seeking legal advice.
+How can businesses respond to changes in the economic climate? | By diversifying products, cutting costs, or seeking finance from lenders or investors.

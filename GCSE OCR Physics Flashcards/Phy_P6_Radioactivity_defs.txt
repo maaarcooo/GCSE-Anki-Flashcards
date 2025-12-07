@@ -1,0 +1,34 @@
+What is an alpha particle? | A positively charged particle with two protons and two neutrons. Highly ionising but stopped by a few centimetres of air.
+What is atomic number? | The number of protons in an atom of a specific element. Each element has a different atomic number.
+What is a beta particle? | A high speed electron emitted when a neutron converts into a proton. Ionising but stopped by thin aluminium sheet.
+What is a chain reaction? (Higher Tier) | Neutrons from fission being absorbed by other unstable nuclei, causing more fission reactions.
+What are electrons? | Negatively charged particles found in energy levels around the nucleus.
+What are energy levels? | Stable states where electrons exist around a nucleus. Electrons can move between levels by absorbing or emitting electromagnetic radiation.
+What are fission products? (Higher Tier) | Two smaller nuclei, 2-3 neutrons, and gamma rays - all released with kinetic energy during fission.
+What is a gamma ray? | Electromagnetic radiation from a nucleus with very high penetrating power. Requires several centimetres of lead to absorb.
+What is a Geiger-Muller tube? | A device used to detect ionising radiation.
+What is half-life? | Time for half the unstable nuclei in a sample to decay, or for count rate to halve.
+What are ions? | Atoms with a charge due to losing or gaining electrons.
+What is irradiation? | When an object is exposed to nuclear radiation. The object doesn't become radioactive.
+What are isotopes? | Atoms with same number of protons but different numbers of neutrons. Same atomic number, different mass number.
+What is mass number? | The total number of protons and neutrons in an atom.
+What is mass-energy equivalence? (Higher Tier) | All matter has associated energy. Mass can be converted into energy as radiation.
+What are negative ions? | Atoms that gained electrons and have a negative charge.
+What are neutrons? | Neutrally charged particles found in the nucleus.
+What is nuclear fission? (Higher Tier) | Splitting of large unstable nucleus into two smaller stable nuclei to produce energy. Used in nuclear power stations.
+What is nuclear fusion? (Higher Tier) | Joining of two small nuclei to form a larger one and release energy. Needs high pressure and temperature to overcome proton repulsion.
+What is a PET scanner? (Higher Tier) | Medical imaging device using radioactive tracers and detectors to form internal body images.
+What are positive ions? | Atoms that lost electrons and have a positive charge.
+What are protons? | Positively charged particles found in the nucleus.
+What is radioactive contamination? | Unwanted presence of radioactive atoms on other materials. Hazardous due to decay of contaminating atoms.
+What is radioactive decay? | Random process where unstable nuclei emit radiation to become more stable.
+What is the random nature of radioactive decay? | You cannot predict which nuclei will decay next or when - it's completely random.
+How can alpha particles be stopped? | By a few centimetres of air.
+How can beta particles be stopped? | By a thin sheet of aluminium.
+How can gamma rays be stopped? | By several centimetres of lead.
+What happens when a neutron converts to a proton? | A beta particle (high speed electron) is emitted.
+What charge do alpha particles have? | Positive charge.
+What charge do beta particles have? | Negative charge (they are electrons).
+What charge do gamma rays have? | No charge (they are electromagnetic radiation).
+Which type of radiation is most ionising? | Alpha particles.
+Which type of radiation is most penetrating? | Gamma rays.

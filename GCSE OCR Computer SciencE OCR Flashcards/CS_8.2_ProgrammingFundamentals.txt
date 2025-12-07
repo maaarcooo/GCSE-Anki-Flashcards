@@ -1,0 +1,64 @@
+What is string manipulation? | The use of programming techniques to modify, analyze or extract information from a string.
+What are examples of string manipulation techniques? | Case conversion, length, substrings, concatenation, and ASCII conversion.
+How do you convert a string to uppercase in Python? | Using the upper() method, e.g., Name.upper()
+How do you convert a string to lowercase in Python? | Using the lower() method, e.g., Name.lower()
+How do you convert a string to title case in Python? | Using the title() method, e.g., Book.title()
+How do you find the length of a string in Python? | Using the len() function, e.g., len(Password)
+What is a substring? | A sequence of characters extracted from a larger string.
+How do you extract a substring in Python? | Using slicing with the syntax: string[start:end]
+How do you extract characters from the beginning of a string in Python? | Using slicing with the syntax: string[:n] where n is the number of characters
+How do you extract characters from the end of a string in Python? | Using slicing with the syntax: string[n:] where n is the starting position
+What is concatenation? | Joining two or more strings together to form a single string.
+How do you concatenate strings in Python? | Using the + operator, e.g., FName + SName
+What is ASCII conversion? | Converting between ASCII characters and their numerical values.
+How do you convert a character to its ASCII value in Python? | Using the ord() function, e.g., ord("A") returns 65
+How do you convert an ASCII value to its character in Python? | Using the chr() function, e.g., chr(97) returns "a"
+What is file handling? | The use of programming techniques to work with information stored in text files.
+What are examples of file handling techniques? | Opening, reading, writing, and closing text files.
+How do you open a file for reading in Python? | file = open("filename.txt", "r")
+How do you open a file for writing in Python? | file = open("filename.txt", "w")
+How do you open a file for appending in Python? | file = open("filename.txt", "a")
+How do you close a file in Python? | file.close()
+How do you read a line from a file in Python? | file.readline()
+How do you write a line to a file in Python? | file.write("text\n")
+What happens when you open a file with mode "w" that already exists? | The existing file's contents will be overwritten.
+What happens when you open a file with mode "w" that doesn't exist? | A new file will be created.
+What happens when you open a file with mode "a"? | New content will be added to the end of the existing file.
+What is a database? | An organized collection of data that allows easy storage, retrieval, and management of information.
+What is a field in database terms? | One piece of information relating to one person, item or object (represented by a column).
+What is a record in database terms? | A collection of fields relating to one person, item or object (represented by a row).
+What are advantages of databases over text files? | Better handling of large data, multiple user access, efficient sorting/searching, and improved security.
+When would you use a text file instead of a database? | When working with small amounts of data.
+When would you use an array instead of a text file? | When working with small amounts of data that need to be processed in memory (RAM).
+What does SQL stand for? | Structured Query Language
+What is SQL used for? | A programming language used to interact with a database management system (DBMS).
+What are the three basic SQL commands for retrieving data? | SELECT, FROM, and WHERE
+What does the SELECT command do in SQL? | Specifies what field(s) to retrieve from the database.
+What does the FROM command do in SQL? | Specifies which table(s) to search in the database.
+What does the WHERE command do in SQL? | Filters the data based on specified conditions.
+What does the * (asterisk) symbol mean in SQL? | It's a wildcard that selects all fields in the table.
+How would you write an SQL query to select all fields from a table called "Customers"? | SELECT * FROM Customers;
+How would you write an SQL query to select name and age from a table called "Users" where age is greater than 30? | SELECT name, age FROM Users WHERE age > 30;
+What is an array? | An ordered, static set of elements in a fixed size memory location.
+What is a characteristic of arrays regarding data types? | An array can only store one data type.
+What does "zero indexed" mean for arrays? | The first element is at index 0, not 1.
+How do you create an array in Python? | Using square brackets, e.g., scores = [12, 10, 5, 2, 8]
+How do you access an element in an array in Python? | Using the index in square brackets, e.g., array[0]
+How do you modify an element in an array in Python? | Using assignment with the index, e.g., array[1] = 10
+How do you find the length of an array in Python? | Using the len() function, e.g., len(array)
+What is a 2D array? | An array with two dimensions that can be visualized as a table with rows and columns.
+How do you access an element in a 2D array in Python? | Using two indices, e.g., array[row][column]
+How do you create a 2D array in Python? | Using nested lists, e.g., array_2d = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+What are sub programs? | Sequences of instructions that perform specific tasks and can be called from the main program.
+What are the benefits of using sub programs? | Avoid duplicating code, improve readability and maintainability, and perform specific calculations.
+What are parameters in sub programs? | Values that are passed into a sub program, located in brackets after the name.
+What's the difference between a function and a procedure? | A function returns a value whereas a procedure does not.
+How do you create a function in Python? | Using the def keyword, e.g., def function_name(parameters): with a return statement.
+How do you create a procedure in Python? | Using the def keyword, e.g., def procedure_name(parameters): without a return statement.
+How do you call a function or procedure in Python? | Using the function/procedure name followed by parentheses containing any needed arguments.
+What is a global variable? | A variable declared at the outermost level of a program that can be accessed from any part of the program.
+What is a local variable? | A variable declared within a specific scope (like a function) that can only be accessed within that scope.
+When is a local variable destroyed? | When the execution of the block it's defined in ends.
+What is random number generation in programming? | A concept that involves a computer generating unpredictable numbers for use in programs.
+What are examples of applications for random number generation? | Simulating dice rolls, selecting random questions, national lottery, and cryptography.
+How do you generate a random integer between 1 and 10 in Python? | import random and then random.randint(1, 10)

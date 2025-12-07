@@ -1,0 +1,32 @@
+What are the two categories of programming languages? | Low-level languages and High-level languages
+Which generations of programming languages are considered low-level? | First generation (machine code) and Second generation (assembly)
+Which generation of programming languages is considered high-level? | Third generation (like Python, Java, Basic, C+)
+What is a low-level programming language? | A programming language that directly translates to machine code understood by the processor
+What is machine code? | A first-generation language written in binary code (0s and 1s) that is directly executable by the processor
+What is assembly code? | A second-generation language that uses mnemonics (abbreviated text commands) and needs translation into machine code
+What is the relationship between assembly instructions and machine code instructions? | One assembly language instruction translates to one machine code instruction
+What are three advantages of low-level languages? | Complete control over system components, occupy less memory and execute faster, direct manipulation of hardware
+What are three disadvantages of low-level languages? | Difficult to write and understand, machine dependent, more prone to errors
+What is a high-level programming language? | A language that uses English-like statements to allow users to program with easy to use code
+How many machine code instructions does one high-level language instruction translate into? | Many machine code instructions
+What are three advantages of high-level languages? | Easier to read and write, easier to debug, portable so can be used on any computer
+What are three disadvantages of high-level languages? | Unable to directly manipulate hardware, needs translation to machine code before running, may be less efficient
+What is a translator in programming? | A program that translates program source code into machine code so it can be executed by a processor
+What translates assembly code into machine code? | An assembler
+What translates high-level languages into machine code? | A compiler or interpreter
+What is a compiler? | A program that translates high-level languages into machine code all in one go
+What is an interpreter? | A program that translates high-level languages into machine code one line at a time
+When are compilers generally used? | When a program is finished and has been checked for syntax errors
+When are interpreters generally used? | During the development stage when a program is being written
+What happens when an interpreter finds an error? | The process stops immediately when it finds an error
+What are three advantages of compilers? | Speed of execution, optimizes the code, original source code will not be seen
+What are three disadvantages of compilers? | Can be memory intensive, difficult to debug, changes mean it must be recompiled
+What are three advantages of interpreters? | Stops when it finds a specific syntax error, easier to debug, requires less RAM to process the code
+What are three disadvantages of interpreters? | Slower execution, every time the program runs it has to be translated, no optimization
+What is an IDE? | An Integrated Development Environment - software designed to make writing high-level languages more efficient
+What are the four main tools/facilities in an IDE? | Editor, Error diagnostics, Run-time environment, and Translators
+What does the editor tool in an IDE provide? | An environment to write, edit and maintain high-level code with formatting tools, colored keywords, code editing, and commenting
+What does the error-diagnostics tool in an IDE do? | Helps identify, understand and fix errors in code through error highlighting and debuggers
+What is a debugger? | A tool that provides step-by-step instructions and shows what is happening to code line by line
+What does the run-time environment in an IDE do? | Gives users the ability to run and see the corresponding output of a high-level language
+What does the translator tool in an IDE do? | Built-in tool to compile or interpret code without needing extra software

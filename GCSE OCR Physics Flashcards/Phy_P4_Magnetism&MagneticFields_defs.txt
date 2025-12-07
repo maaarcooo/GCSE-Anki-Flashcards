@@ -1,0 +1,35 @@
+What is a magnetic field? | The region around a magnet where another magnet or magnetic material experiences a non-contact force.
+How do magnetic field lines show the strength and direction of a magnetic field? | The lines point from North to South, and their concentration represents the strength of the field.
+Where are the magnetic poles located on a magnet? | The regions of a magnet where the magnetic forces are strongest.
+What happens when like (matching) magnetic poles are brought near each other? | They repel each other.
+What happens when unlike (opposite) magnetic poles are brought near each other? | They attract each other.
+What is a permanent magnet? | A magnet that produces its own magnetic field.
+What is an induced magnet? | A material that becomes a magnet when placed in an existing magnetic field but loses its magnetism quickly once removed.
+What kind of forces does induced magnetism always produce? | Attractive forces.
+Which materials are magnetic? | Iron, steel, cobalt, and nickel.
+What happens when current flows through a wire? | A magnetic field is generated around the wire.
+What factors affect the strength of the magnetic field around a current-carrying wire? | The magnitude of the current and the distance from the wire.
+What is the Right-Hand Rule used for? | To determine the direction of the magnetic field produced around a current-carrying wire.
+How do you apply the Right-Hand Rule? | Point your thumb in the direction of conventional current flow, and your fingers wrap in the direction of the field lines.
+What is Fleming's Left-Hand Rule used for? | To determine the orientation of the force, current, and magnetic field when a current-carrying wire is placed in a magnetic field.
+How do you remember Fleming's Left-Hand Rule? | Thumb represents force, second finger represents current, and first finger represents magnetic field.
+What happens when a current-carrying wire is placed perpendicular to a magnetic field? | A force is exerted on the wire.
+What is the force on a current-carrying wire proportional to? | The magnetic flux density of the field, the current, and the length of the wire.
+What is a solenoid? | A wire wrapped into the shape of a coil that has a strong and uniform magnetic field inside it.
+How can you increase a solenoid's magnetic field strength? | By adding an iron core.
+What is an electromagnet? | A solenoid with an iron core.
+What is an electric motor? | A current-carrying coil of wire in a magnetic field where the sides of the coil experience forces in opposite directions, causing rotation.
+What is the generator effect? | When relative motion between an electrical conductor and a magnetic field induces a potential difference across the conductor.
+What is the unit of magnetic flux density? | Tesla.
+What are power cables and why are high voltages used in them? | Metal wires in the National Grid; high voltages reduce energy loss and make transportation more efficient.
+What is alternating current? | Current flow where charges continually change direction, usually at a set frequency.
+What is a microphone? | A device that converts pressure variations in sound into corresponding current variations.
+What is a loudspeaker? | A device that converts variations in current into vibrations of a diaphragm to produce sound waves.
+What is an alternator? | A device that uses the generator effect to generate alternating current.
+What is a dynamo? | A device that uses the generator effect to generate direct current.
+What is a transformer? | An iron core with primary and secondary coils of wire that can change the magnitude of an alternating voltage.
+What is a step-up transformer? | A transformer that produces a larger potential difference in the secondary coil than in the primary coil, due to more turns in the secondary coil.
+What is a step-down transformer? | A transformer that produces a smaller potential difference in the secondary coil than in the primary coil, due to fewer turns in the secondary coil.
+What is the turns ratio in a transformer? | The number of turns in the primary coil divided by the number of turns in the secondary coil.
+For a 100% efficient transformer, what is the turns ratio equal to? | The voltage ratio.
+What is the voltage ratio in a transformer? | The potential difference across the primary coil divided by the potential difference across the secondary coil.

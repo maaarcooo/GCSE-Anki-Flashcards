@@ -1,0 +1,65 @@
+What is the typical speed of wind? | 5-7 m/s
+What is the speed of sound? | 340 m/s
+What is typical walking speed in m/s? | ~1.4 m/s (5 km/h)
+What is typical running speed? | ~3 m/s (6 miles/hour)
+What is typical cycling speed? | ~4 m/s (15 km/h)
+What is the average human reaction time? | 0.25 seconds (250 milliseconds)
+What formula is used to estimate acceleration? | a = F/m (force divided by mass)
+How do you convert 96 km/h to m/s? | Divide by 3.6: 96 ÷ 3.6 = 26.7 m/s (or 96000÷3600 = 26.7)
+What are the two components of vehicle stopping distance? | Thinking distance and braking distance
+What is thinking distance? | The distance travelled during reaction time before you start braking
+What is braking distance? | The distance travelled while the brakes are applied until the vehicle stops
+What factors affect thinking distance? | Speed, reaction time, concentration, tiredness, distractions, drugs/alcohol
+What factors affect braking distance? | Speed, poor road conditions (icy/wet), bald tires, worn brake pads, weight
+Why does greater speed increase braking distance? | Greater distance is travelled during the same reaction time, so total stopping distance is greater
+What happens when braking hard? | Large deceleration creates large forces on passengers and vehicle, which can cause injury
+How do seatbelts reduce injury during crashes? | They stretch slightly under force, increasing stopping distance and reducing acceleration/force on passengers
+How do crumple zones work? | Soft areas at front of car crumple and absorb energy, increasing time taken to stop and reducing force on passengers
+How do airbags reduce injury? | They inflate instantly, increasing time for head to stop moving and reducing force on neck
+What are the main fossil fuels? | Coal, oil, and natural gas (non-renewable sources)
+How do fossil fuels generate electricity? | Combustion produces thermal energy, heats water to steam, which turns turbines
+How do nuclear fuels generate electricity? | Nuclear fission releases thermal energy used to turn turbines
+What are biofuels and how do they work? | Renewable sources that use combustion for thermal energy to turn turbines
+How does wind power generate electricity? | Wind directly turns turbines which generate electricity
+How does hydroelectricity work? | Water moving from height (with GPE) directly turns turbines to generate electricity
+How does tidal power work? | Wave action directly turns turbines in tidal barrages
+How do solar cells work? | Solar cells (photovoltaic cells) directly produce electricity from sun's energy
+When did energy consumption start rising sharply? | Late 1800s due to industrial revolution (sharp rise in coal use)
+When did nuclear power start being used? | Since the late 1900s
+When did renewable energy start being used significantly? | Only very recently, with hydroelectric and wind producing the most
+Why is electrical power transferred at high voltages? | To reduce current and therefore reduce energy lost to heat in power lines
+What do step-up transformers do? | Increase potential difference from power stations to power lines
+What do step-down transformers do? | Decrease potential difference from power lines to domestic use
+Why are transformers effective at reducing power loss? (Higher Tier) | Same power enters and leaves transformer. As pd increases, current decreases. Since power loss = I²R, reducing current reduces energy loss
+What type of electricity supply is mains electricity? | Alternating current (AC) at 50Hz and 230V
+What is the difference between AC and DC? | AC varies from positive to negative and constantly changes. DC is constant and fixed (positive)
+What are the three wires in a plug and their colors? | Live wire (brown), Neutral wire (blue), Earth wire (green and yellow striped)
+What does the live wire do? | Carries voltage from mains to appliance (dangerous even when circuit is off)
+What does the neutral wire do? | Completes the circuit
+What does the earth wire do? | Safety wire that stops appliance becoming live by providing low resistance path to ground
+What is red shift? | Light appears 'red shifted' from galaxies moving away from Earth - wavelength gets larger (towards red end of spectrum)
+What does red shift show about the universe? | The universe is expanding - distance between galaxies increases
+What are the two main pieces of evidence for the Big Bang? | Red shift (shows expanding universe) and CMBR (Cosmic Microwave Background Radiation)
+What is CMBR and why does it support Big Bang theory? | Background radiation present everywhere in sky. Originally short-wavelength radiation from hot young universe, stretched to microwaves as universe expanded
+How do stars form? | Dust and gas clouds drawn together by gravity, increasing temperature and pressure until fusion occurs
+What happens during nuclear fusion in stars? | Lighter nuclei (mainly hydrogen) fuse to form helium, creating large amounts of energy
+What keeps a star stable? | Equilibrium between energy released from fusion and gravitational collapse
+What happens when a massive star runs out of fuel? | Star collapses, increases pressure/temperature, heavier elements fuse, eventually produces supernova, becomes neutron star or black hole
+What happens when an average-sized star runs out of fuel? | Star collapses, produces planetary nebula, becomes white dwarf
+What determines the radiation a solar body emits? | Temperature of the body - affects intensity and wavelength distribution
+What is the order of planets in the solar system? | Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+What are the smaller planets made of? | Rock (Mercury, Venus, Earth, Mars)
+What are the larger planets made of? | Gas (Jupiter, Saturn, Uranus, Neptune)
+Why do larger planets tend to have rings? | Their strong gravitational field attracts debris that orbits the planet
+Which planets don't have moons? | Venus and Mercury
+How was our Moon formed? | Large Mars-sized object collided with Earth, debris ejected and came together to form Moon
+What are the two types of satellite orbits? | Polar orbit and geostationary orbit
+What are polar orbits used for and what are their characteristics? | Surveillance and weather forecasting. Orbit over poles at low height with ~90 minute period
+What are geostationary orbits used for and what are their characteristics? | Communications. Orbit over equator with 24-hour period, appear fixed from Earth
+What happens to a planet's orbital speed if it moves closer to the sun? | Gravitational attraction increases, force increases, acceleration increases, so orbital speed increases
+What determines Earth's temperature? | Balance between incoming radiation absorbed and radiation emitted
+What causes global warming? | Increased greenhouse gases absorb more radiation than is emitted, causing temperature to rise
+What are P and S waves? | P waves: longitudinal, faster, pass through solids and liquids. S waves: transverse, only pass through solids
+How do P and S waves show Earth's core is liquid? | P waves detected on opposite side of Earth from earthquake, but no S waves reach there (S waves can't pass through liquids)
+How does SONAR work? | Sound waves sent down, time for reflection back is used to calculate water depth
+Why are lower frequency waves more penetrating in SONAR? | Lower frequencies transfer less energy, so less energy is lost and they travel further

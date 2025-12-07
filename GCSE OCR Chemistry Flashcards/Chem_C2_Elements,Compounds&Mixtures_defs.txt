@@ -1,0 +1,45 @@
+What is an element? | A substance made up of only one type of atom.
+What is a mixture? | Contains at least two different elements or compounds which are not chemically bonded together. Mixtures may melt or boil over a range of temperatures.
+What is a pure substance (chemistry definition)? | A substance which contains only one compound or element.
+How can pure substances be identified? | Using melting point - pure substances have a sharp melting point.
+What is a molecule? | A group of at least two atoms held together by covalent bonds.
+What is an alloy? | A metal compound made by combining two or more metals together to give greater strength or resistance to corrosion.
+What is a covalent bond? | A shared pair of electrons between two non-metals.
+What is an ionic bond? | The bond formed when a metal atom loses electron(s) to form a positively charged ion and a non-metal gains these electron(s) to form a negatively charged ion.
+What are electrostatic forces? | The strong forces of attraction between oppositely charged ions.
+What is an ionic compound? | Chemical compound formed of ions, held together by strong electrostatic forces.
+What are intermolecular forces? | The forces which exist between molecules, affecting properties like boiling/melting point.
+What is an electron shell? | Different energy levels in atoms, occupied by electrons.
+What does Group number tell us about an element? | It determines how many electrons are in the element's outer electron shell.
+What does Period number tell us about an element? | It determines how many electron shells the element has.
+What is an ion? | An atom or molecule with an electric charge due to the loss or gain of electrons.
+Where are metals found in the periodic table? | To the left and towards the bottom of the periodic table.
+Where are non-metals found in the periodic table? | Towards the right and top of the periodic table.
+What is relative atomic mass? | The average mass of an atom of an element compared to 1/12th the mass of an atom of carbon-12.
+What is relative molecular mass? | The average mass of one molecule of an element or compound compared to 1/12th the mass of an atom of carbon-12.
+What is relative formula mass? | The sum of the relative atomic masses of the atoms in the numbers shown in the formula. It is numerically equal to the mass of one mole of a substance in grams.
+What is empirical formula? (Higher Tier) | The simplest whole number ratio of atoms of each element in a compound.
+What is chromatography? | A process used to separate substances in a mixture based on distribution between a mobile phase and a stationary phase.
+What is filtration? | A separation technique used to separate an insoluble solid from a solution.
+What is crystallisation? | A separation technique to obtain soluble solids from solutions by heating the solution until crystals form, letting it cool, then filtering out the crystals.
+What is evaporation? | A separation technique where a solution is slowly heated so the solvent evaporates to leave dry crystals.
+What is simple distillation? | A separation technique to separate a liquid from a solution by heating it so only the liquid with the lowest boiling point evaporates, then condensing it.
+What is fractional distillation? | A process used to separate a mixture of liquids with different boiling points into different fractions within a fractionating column.
+What is paper chromatography? | A type of chromatography using paper as the stationary phase and a solvent as the mobile phase to separate substances based on their solubility.
+What is thin layer chromatography (TLC)? | A technique using a thin layer of alumina or silica fixed to a plate as the stationary phase to separate mixtures.
+What is gas chromatography? | A technique to separate volatile liquids using a solid or solid-coated tube (stationary phase) and a gas (mobile phase) passed through under pressure at high temperature.
+What is a mobile phase in chromatography? | The fluid (gas or liquid) which moves through the system, carrying the mixture to be separated.
+What is a stationary phase in chromatography? | The nonmoving phase which the mobile phase passes over during chromatography.
+What is a locating agent? | A chemical which reacts with a colourless substance to produce a coloured product, helping identify substances in chromatography.
+What is the Rf value used for? | To identify substances within a mixture, calculated as the distance traveled by the substance divided by the distance traveled by the solvent.
+What is a giant covalent structure? | A molecular structure containing many atoms covalently bonded together, resulting in high melting points.
+What is diamond? | A giant covalent structure of carbon atoms, each forming four covalent bonds with four other carbon atoms.
+What is graphite? | A giant covalent structure of carbon atoms, each forming three covalent bonds with three other atoms, creating layers of hexagonal rings with one delocalised electron per carbon atom.
+What are fullerenes? | Molecules of carbon atoms with hollow shapes, based on hexagonal rings but may also contain rings with five or seven carbon atoms.
+What is graphene? | A single layer of graphite with properties that make it useful in electronics and composites.
+What are simple molecules? | Molecules containing a fixed number of atoms covalently bonded together, with low boiling points due to weak intermolecular forces.
+What are nanoparticles? (Separate Sciences Only) | Particles with diameters between 1 nm to 100 nm that can exhibit properties different from the same material in bulk.
+What is a polymer? | Large long-chain molecules made up of lots of small monomers joined together by covalent bonds.
+How can melting point data be used? | To evaluate the purity of a substance - a pure substance should have a sharp melting point.
+What is the difference between the chemistry definition and everyday definition of a pure substance? | Chemistry: contains only one compound or element. Everyday: has nothing added to it (e.g., "pure milk").
+What is the retention time in gas chromatography? | The time it takes for a component to pass through the tube, which can be used to identify the component.

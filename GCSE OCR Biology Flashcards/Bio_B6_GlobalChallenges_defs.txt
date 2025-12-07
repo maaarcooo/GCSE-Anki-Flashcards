@@ -1,0 +1,87 @@
+What is Acquired immunodeficiency syndrome (AIDS)? | The later stage of HIV infection where the weakened immune system becomes susceptible to other infections.
+What is afforestation? | Growing trees to replace those that have been cut down.
+What is an antibiotic? | A medication that helps cure bacterial disease by killing infective bacteria inside the body.
+What is antibiotic resistance? | The ability of bacteria to become resistant to antibiotics, providing evidence for evolution.
+What is an antibiotic resistance marker? (Higher Tier) | A gene that produces a protein which enables a cell to become resistant to antibiotics.
+What is an antigen? | A protein found on the surface of pathogens that induces an immune response.
+What is an antiseptic? | A medication that helps kill microorganisms that cause disease.
+What is an antiviral? | A medication that helps cure viral disease by killing infective viruses inside the body.
+What are aseptic techniques? (Separate sciences) | Techniques used to culture microorganisms under sterile conditions to minimize contamination.
+What is athlete's foot? | A fungal disease transmitted by touching infected skin, causing a red flaky rash between toes.
+What is autoclaving? (Separate sciences) | A method used to sterilize glassware and growth media in a strongly heated container/oven.
+What are bacteria? | Single-celled prokaryotic organisms (not all bacteria are pathogenic).
+What is barley powdery mildew? | A fungal plant disease causing white fluffy growth on leaves, eventually leading to plant death.
+What is a benign tumour? | A non-cancerous tumour that cannot spread around the body.
+What is biodiversity? | The variety of different organisms living in an ecosystem.
+What is blood? | A tissue containing red blood cells, white blood cells, plasma, and platelets.
+What is bronchitis? | A non-communicable disease causing inflammation of the bronchi and bronchioles.
+What is the capture-recapture method? | A technique to estimate population size by capturing, marking, releasing, and recapturing organisms.
+What is cancer? | The result of changes in cells that lead to uncontrolled growth and division.
+What are carcinogens? | Chemicals or agents that cause cancer.
+What is cardiovascular disease? | A non-communicable disease affecting the heart or blood vessels.
+What is a cell wall? (Separate sciences) | An outer layer made of cellulose fibers that provides strength, support, and acts as a barrier to pathogens.
+What is cervical cancer? | A non-communicable disease resulting from prolonged infection by HPV.
+What are cilia? | Hair-like structures on epithelial cells that beat to waft substances away.
+What is cirrhosis? | A non-communicable disease causing scarring of the liver, often due to excess alcohol consumption.
+What is a communicable disease? | A disease caused by a pathogen that can spread between individuals, not inherited or caused by environmental factors.
+What is conservation? | The preservation and careful management of the environment or natural resources.
+What is coronary heart disease? | A non-communicable disease involving blockage of coronary arteries and disruption of oxygen supply to the heart.
+What is crown gall disease? | A bacterial plant disease caused by Agrobacterium tumefaciens that infects stems and roots, causing tumours.
+What is a cuticle? (Separate sciences) | A waxy layer on the leaf that acts as a barrier to pathogens.
+What is a disease? | An illness that affects animal or plant health.
+What is an ecosystem? | The community of organisms (biotic) and non-living (abiotic) components of an area and their interactions.
+What is ecotourism? | Tourism directed toward natural environments to benefit local conservation schemes.
+What is a fertiliser? (Separate sciences) | Natural or artificial materials added to soils to provide essential nutrients and improve plant growth.
+What is flaming? (Separate sciences) | A method used to sterilize equipment (usually bottlenecks) to prevent contamination.
+What are fungi? | Eukaryotic pathogens that can be single-celled or multicellular, e.g., yeast and mushrooms.
+What is genetic engineering? (Higher Tier) | Modifying an organism's genome by inserting a desired gene from another organism to introduce desirable characteristics.
+What is genetic modification? (Separate sciences) | Altering the genetic information of an organism.
+What is a genome? | An organism's complete genetic material.
+What is a habitat? | The place where living organisms live, including all biotic and abiotic factors.
+What is health? | The well-being of an individual with regard to their physical and mental state.
+What is human chorionic gonadotropin (hCG)? (Separate sciences) | A hormone present in the urine of pregnant women.
+What is human immunodeficiency virus (HIV)? | A communicable viral disease transmitted through bodily fluids, via unprotected sex and sharing of needles.
+What is human papillomavirus (HPV)? | A communicable viral disease transmitted through unprotected sex.
+What is hydroponics? (Separate sciences) | A method of growing plants in something other than soil, while adding nutrients.
+What is the immune system? | The body's defense mechanism against foreign bodies.
+What are immunosuppressant drugs? | Medications that suppress the immune system and must be taken after a transplant to prevent rejection.
+What is ligase? (Higher Tier) | An enzyme used to join pieces of DNA together by binding complementary sticky ends.
+What is a lymphocyte? (Separate sciences) | A type of white blood cell made by the body to protect against disease and infection.
+What is malaria? | A disease caused by a protist spread by mosquitoes, causing recurring fever which can be fatal.
+What is a malignant tumour? | A cancerous tumour that grows rapidly and can spread around the body.
+What are monoclonal antibodies? (Separate sciences) | Antibodies produced from a single clone of cells, specific to one binding site on one protein antigen.
+What is a non-communicable disease? | A disease that cannot be transmitted as it is caused by environmental factors or is inherited, not pathogenic.
+What is a non-specific defence system? | The defence system that protects against a variety of pathogens.
+What is a pathogen? | A bacteria, virus or any other microorganism that can cause disease.
+What is a pesticide? (Separate sciences) | A chemical used to control pests around crops.
+What is a placebo? | An inactive version of a drug, indistinguishable from the real drug but has no effect on the recipient.
+What is a plasmid? (Higher Tier) | A circular loop of double-stranded DNA found in prokaryotic cells, used as a vector in genetic engineering.
+What are platelets? | Cell fragments involved in the clotting of blood.
+What is pollution? | Contamination or destruction of the natural environment due to human intervention.
+What is polymerase chain reaction (PCR)? (Separate sciences) | A technique used to rapidly amplify fragments of DNA into millions of copies.
+What is a pooter? | Equipment used to collect small insects by drawing them into a chamber via a tube by sucking on the mouthpiece.
+What is prostate cancer? (Separate sciences) | Cancer of the prostate gland in men.
+What is a protist? | A eukaryotic, single-celled pathogen from the kingdom Protista.
+What is a quadrat? | A square grid used for sampling a known area to determine the abundance and distribution of organisms.
+What is random sampling? | A sampling technique used to avoid bias in which the sample area is chosen at random.
+What is a restriction enzyme? (Higher Tier) | An enzyme that cuts DNA in specific places producing sticky ends.
+What is Salmonella? | A bacterial disease in animals due to consumption of undercooked foods like meat and eggs (food poisoning).
+What is selective breeding? | A process in which desired organisms are bred to produce offspring with desirable characteristics.
+What is a species? | A group of organisms that can interbreed and produce fertile offspring.
+What are statins? | Drugs used to lower cholesterol levels, used in treating some cardiovascular diseases.
+What is a stem cell? | An unspecialized cell capable of differentiating into a range of different cell types.
+What is a stent? | A wire mesh used in treating coronary heart disease by widening arteries to maintain the heart's oxygen supply.
+What are sticky ends? (Higher Tier) | Single-stranded DNA ends of double-stranded DNA that stick out and can bind to another DNA fragment.
+What is a stroke? | Brain damage where blood supply to a region is cut off, due to blocked arteries or bleeding in brain blood vessels.
+What is sustainability? (Separate sciences) | The ability to maintain something for future generations.
+What is a tissue transplant? | An operation to replace damaged tissue with healthy tissue from a donor.
+What is tobacco mosaic virus (TMV)? | A viral plant disease affecting chloroplasts, producing a 'mosaic' pattern on leaves and limiting plant growth.
+What is a transect? | A line along which samples are taken to measure abundance and distribution of organisms in an ecosystem.
+What is transplant rejection? | The rejection of transplant tissue by the immune system of the recipient's body.
+What is tuberculosis (TB)? | A communicable bacterial disease that damages lung tissue and suppresses the immune system.
+What is a tumour? | A mass of cells formed due to uncontrolled cell division.
+What is type 2 diabetes? | A condition in which a person develops insulin resistance or doesn't produce enough insulin.
+What is vaccination? | A method of introducing small quantities of inactive or dead pathogens to stimulate antibody production.
+What is a vector? (Higher Tier) | A carrier used to transfer a gene from one organism to another.
+What is a virus? | A type of pathogen that can infect any living organism but can only reproduce inside a living host.
+What are white blood cells? | Cells of the immune system that protect the body from pathogens by producing antibodies and antitoxins.

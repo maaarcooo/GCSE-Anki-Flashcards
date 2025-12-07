@@ -1,0 +1,52 @@
+What is the active site of an enzyme? | The part of the enzyme which is specific to the substrate and has a complementary shape to it.
+What is the equation for aerobic respiration? | Glucose + Oxygen → Carbon Dioxide + Water
+What are amino acids? | Small molecules that make up a protein.
+What does amylase do? | An enzyme that breaks down carbohydrates into simple sugars. It is produced in the pancreas and salivary glands.
+What is the equation for anaerobic respiration in animals? | Glucose → Lactic Acid
+What is a carbohydrate? | A large molecule that is synthesised from simple sugars.
+What is the cell membrane? | A selectively permeable barrier which controls the movement of substances into and out of the cell. It also has receptor molecules on the surface for cell-to-cell signalling.
+What is cellular respiration? | A continuously occurring chemical process in all living cells that releases energy (ATP) from the breakdown of organic compounds like glucose.
+What is the cell wall made of and what's its function? | An outer layer made of cellulose fibres that provides the plant cell with strength and support.
+What are chloroplasts? | The organelles that are the site of photosynthesis. They contain chlorophyll which absorbs light energy and enzymes needed for photosynthesis.
+What is a chromosome? | A long, coiled molecule of DNA that carries genetic information in the form of genes.
+What is a cover slip? | A small piece of glass placed on top of the specimen to protect it from the lens.
+What is denaturation? | The permanent change in the shape of an enzyme's active site that stops the enzyme functioning normally.
+What is DNA? | A polymer made up of four nucleotides, each consisting of a phosphate group and a sugar with one of four bases attached: Adenine (A), Thymine (T), Cytosine (C) and Guanine (G).
+What are enzymes? | Biological catalysts that increase the rate of chemical reactions.
+What is enzyme specificity? | Enzymes will only act on specific substrates that have a complementary shape to the active site of the enzyme.
+What is a eukaryotic cell? | A type of cell found in plants and animals that has a nucleus and other membrane-bound organelles.
+What is an exothermic reaction? | A reaction that releases energy, usually in the form of light or heat.
+What is the eyepiece lens? | The lens that further magnifies the image produced by the objective lens.
+What is a fatty acid? | A carboxylic acid that has a long carbon chain. Fatty acids react with glycerol to make lipids.
+What is genetic material? | The material that stores the genetic information.
+What is a light microscope? | A microscope that uses light to produce an image of a specimen.
+What is a limiting factor? | A factor that when in short or inadequate supply limits the rate of a reaction.
+What does lipase do? | An enzyme that breaks down lipids into fatty acids and glycerol.
+What is a lipid? | A large molecule that is synthesised from three fatty acids and a glycerol molecule.
+What is the lock and key hypothesis? | A theory that describes how substrates must be the correct shape to fit the active site of an enzyme.
+How do you calculate magnification? | Magnification = image size / actual size
+What are mitochondria? | The organelle which is the site of aerobic respiration. It contains enzymes required for cellular respiration.
+What is a monomer? | A small molecule which can be bonded to other identical monomers to form a large polymer. Monomers usually contain a carbon-carbon double bond, C=C.
+What is a nucleotide? | The monomers of DNA that consist of a common sugar, a phosphate group and a base attached to the sugar. The chemical base can be one of A, C, T or G.
+What is the nucleus? | An organelle found in most eukaryotic cells that contains the cell's genetic material and controls the activities of the cell.
+What is the objective lens? | The lens found closest to the specimen that magnifies the image.
+What is palisade mesophyll? | A specialised plant tissue that carries out photosynthesis.
+What is a permanent vacuole? | An organelle found in plant cells which stores cell sap and helps maintain the cell's turgidity.
+What is photosynthesis and its equation? | An endothermic reaction in chloroplasts converting carbon dioxide and water into glucose and oxygen using light energy. 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (using sunlight energy)
+What are photosynthetic organisms? | Organisms that are the main producers of food and therefore biomass for life on earth.
+What is a plasmid? | A circular loop of double-stranded DNA found in the cytoplasm of prokaryotic cells, free to move unlike chromosomal DNA.
+What is a polymer? | Many small molecules (monomers) chemically joined together to make 1 large molecule.
+What is a prokaryotic cell? | A unicellular organism that lacks a nucleus and other membrane-bound organelles e.g. bacteria.
+What is a protein? | A large molecule synthesised from amino acid monomers.
+What is protein synthesis? | The formation of proteins from amino acids which takes place in the ribosomes.
+What is resolution in microscopy? | The ability to see two cells as two separate entities (measured in dpi).
+What are ribosomes? | Organelles which are the site of protein synthesis.
+What is a Scanning Electron Microscope (SEM)? | A microscope that uses reflected electrons to produce a 3D image of a specimen with lower resolution.
+What is a slide? | A thin piece of glass on which the specimen is placed.
+What is transcription? | The unzipping of the DNA molecule around the gene, copying it to mRNA in the nucleus.
+What is translation? | Translating the mRNA sequence to an amino acid sequence during protein synthesis.
+What is a Transmission Electron Microscope (TEM)? | A microscope that uses transmitted electrons to produce a 2D image of a specimen with higher resolution, showing details of organelles.
+What is xylem? | A specialised plant tissue that transports water and dissolved minerals from the roots to the leaves of the plant.
+What happens during cellular respiration? | Energy is released from glucose through chemical reactions, producing ATP that cells can use.
+How do temporary vacuoles in animal cells differ from permanent vacuoles in plant cells? | Animal cells have small temporary vacuoles used for storage and transportation, while plant cells have large permanent vacuoles that store cell sap and maintain turgidity.
+What are the two main types of microscopes that use electrons? | Scanning Electron Microscope (SEM) which produces 3D images with lower resolution, and Transmission Electron Microscope (TEM) which produces 2D images with higher resolution.

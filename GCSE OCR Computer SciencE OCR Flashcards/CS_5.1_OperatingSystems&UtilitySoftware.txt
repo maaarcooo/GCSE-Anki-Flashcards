@@ -1,0 +1,27 @@
+What is an operating system? | Software that provides an interface between the user and the hardware in a computer system.
+What are the five main functions of an operating system? | 1) Provide a user interface 2) Memory management & multitasking 3) Peripheral management & device drivers 4) User management 5) File management
+What is a Command Line Interface (CLI)? | A user interface that requires users to interact with the operating system using text-based commands.
+What is a Graphical User Interface (GUI)? | A user interface that uses visual elements like windows, icons, menus & pointers (WIMP) for user interaction.
+What is a menu interface? | Successive menus presented to a user with a single option at each stage, often used with buttons or keypads.
+What is a Natural Language Interface (NLI)? | A user interface that uses spoken word to respond to spoken or textual inputs from a user.
+What are two advantages of a CLI? | Uses less system resources; useful for automation of tasks
+What are two disadvantages of a CLI? | Requires users to remember commands; typing errors are common
+What are two advantages of a GUI? | Intuitive and user-friendly; requires no previous knowledge to use
+What are two disadvantages of a GUI? | Uses more system resources; can be slower to find and execute commands
+What is memory management? | The process of allocating main memory (RAM) between different programs that are open at the same time.
+What is multitasking? | A process where the OS manages system resources to give users the perception of using multiple programs simultaneously.
+What is peripheral management? | The process of managing how peripherals (hardware) interact with software.
+What is a device driver? | A piece of software used to control a piece of hardware.
+What is plug-and-play (PnP) functionality? | Automatically detecting and configuring new peripherals without manually installing device drivers or restarting the system.
+What is user management? | The process enabling different users to log onto a computer with individual settings and access rights.
+What is file management? | The process of creating, organizing, manipulating, and accessing files and folders on a computer system.
+What file operations can users perform through file management? | Create, name, rename, copy, move, and delete files/folders
+What is utility software? | Software designed to help maintain, enhance and troubleshoot/repair a computer system.
+What is defragmentation software? | Software that groups fragmented files back together to improve access speed.
+Which type of storage can defragmentation be used on? | Only on magnetic storage (like hard disk drives).
+What is compression software? | Software that reduces the amount of secondary storage required by performing an algorithm on the original data.
+What is lossy compression? | A type of compression that physically removes data from the original file to reduce its size; the original file cannot be recreated.
+What is lossless compression? | A type of compression that uses mathematics to order data more efficiently; the original files can be recreated as no data is lost.
+What is encryption software? | Software that scrambles data using an algorithm from plain-text into cipher-text to make it un\What is task manager? | Software built into the operating system that allows users to monitor system resources to help troubleshoot potential problems.
+What system information does task manager provide? | Processes, performance, app history, start-up apps, users, and services.
+How does a hard disk become fragmented? | When files are deleted, they leave gaps. New files are added over time, and these gaps get filled, causing data to become fragmented.

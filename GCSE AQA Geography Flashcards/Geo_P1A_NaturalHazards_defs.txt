@@ -1,0 +1,55 @@
+What is a natural hazard? | A naturally occurring event that is a threat to a population.
+What is hazard risk? | The probability that a natural hazard will negatively affect a population.
+What is a tectonic hazard? | A natural hazard caused by the physical processes and movements of tectonic plates.
+What are tectonic plates? | Large slabs of the Earth's crust that sit and move on top of the liquid mantle.
+What is the mantle? | The area underneath the crust which contains magma.
+What is magma? | Molten rock found beneath the Earth's surface.
+What is continental crust? | The thicker, less dense crust that makes up the continents.
+What is oceanic crust? | The thinner, denser crust that makes up the ocean floor.
+What is a convection current? | The movement of a fluid caused by a difference in temperature or density.
+What is a plate margin? | The point at which two plates meet.
+What is a conservative plate margin? | A plate margin where two plates are moving alongside each other.
+What is a constructive plate margin? | A plate margin where two plates are moving away from each other.
+What is a destructive plate margin? | A plate margin where two plates are moving towards each other.
+What is subduction? | A process that occurs at a destructive plate margin when a plate is pushed below another plate, forcing it to sink into the mantle.
+What is a hotspot? | An area where unusually hot magma breaks through the middle of a plate and travels up to the surface, creating a volcano.
+What is a tsunami? | A large wave caused by a large amount of water being displaced when plates move.
+What is a geological hazard? | A hazard caused by processes on the land.
+What is an atmospheric hazard? | Hazards caused by the weather and processes in the atmosphere.
+What is a hydrological hazard? | A hazard caused by the movement of water on the land.
+What is climate change? | A distinct change in global or regional patterns of climate, such as changes in temperature or precipitation patterns.
+What are fossil fuels? | Fuels made up of the remains of organic material, such as oil, coal and gas.
+What are greenhouse gases? | Gases in the Earth's atmosphere that trap energy in the Earth's system and contribute to the greenhouse effect (carbon dioxide, methane, water vapour and nitrous oxides).
+What is the Greenhouse Effect? | A natural process where greenhouse gases trap the energy from the Sun inside the Earth's atmosphere, warming the Earth's surface.
+What is the Enhanced Greenhouse Effect? | A process where the Earth's surface is heated by the greenhouse effect at a higher rate due to increased greenhouse gas emissions from human activities.
+What is mitigation in relation to climate change? | Reducing the causes of climate change, so that climate change slows or even stops.
+What is adaptation in relation to climate change? | Responding to climate change by coming up with ways to live and cope with the effects.
+What is Carbon Capture and Storage (CCS)? | The process of capturing carbon dioxide that would normally be emitted into the atmosphere and storing it underground in reservoirs.
+What is atmospheric circulation? | The general movements of air around the Earth due to pressure and temperature.
+What is a pressure belt? | A region of the Earth which is generally under the same pressure.
+What is the Coriolis Effect? | The effect of the Earth's rotation on wind movements.
+What is the Hadley Cell? | At the equator, hot moist air rises, moves to higher latitudes (30°) and sinks.
+What is the Ferrel Cell? | At around 60° either side of the equator, moist air rises, and travels to lower latitudes at around 30° where it sinks, along with air travelling from the equator.
+What is the Polar Cell? | At 60° north or south of the equator, moist air rises, and travels to the poles (90°), where it sinks.
+What is a tropical storm? | A very large, spinning storm with high winds and torrential rain that forms in the tropics.
+What is a hurricane? | A tropical storm that hits the USA, Latin America or the Caribbean.
+What is a typhoon? | A tropical storm that hits India, Japan or the Philippines.
+What is a cyclone? | A tropical storm that hits Oceania or Madagascar.
+What is the eye of a tropical storm? | An area of a tropical storm with extremely low pressure and calm conditions.
+What is the eyewall of a tropical storm? | An area of a tropical storm with the most intense, powerful winds and torrential rain.
+What is a storm surge? | A rise in sea level caused when a tropical storm pushes a large amount of sea water onto the shore.
+What are primary effects of a hazard? | The effects that are directly caused by the hazard itself.
+What are secondary effects of a hazard? | The effects that are a result of the primary effects.
+What are immediate responses to a hazard? | Actions taken as soon as the hazard happens and in its immediate aftermath (hours, days, and potentially a week or so after the event).
+What are long-term responses to a hazard? | Actions taken after the immediate responses when the effects of the hazard have been minimised (weeks, months, and years after the event).
+What is monitoring in relation to natural hazards? | Detecting and recording physical changes and warning signs of a hazard.
+What is prediction in relation to natural hazards? | Using monitoring as well as historical trends and computer-based modelling to predict when a hazardous event may occur.
+What is protection in relation to natural hazards? | Increasing the resistance of a population to natural hazards by physically designing things that will withstand natural hazards.
+What is planning in relation to natural hazards? | Having systems in place, such as evacuation routes, so that if a hazardous event does occur, the population is prepared in advance.
+What is the Quaternary Period? | The geological time period that started 2.6 million years ago and extends into the present.
+What are Milankovitch Cycles? | The cyclical variations in the Earth's orbit around the Sun.
+What is eccentricity in relation to Earth's orbit? | The changing of the orbit of the Earth around the Sun from a circular shape to an ellipse.
+What is obliquity or axial tilt? | The tilt of the Earth's axis, which changes from 21.5° and 24.5°.
+What is precession? | The 'wobble' of the Earth's axis.
+What is an ice core? | A cylinder of ice extracted from an ice sheet or glacier, which is used to analyse past environmental conditions.
+What is a marine sediment core? | A cylinder of ocean sediments removed from the ocean floor, which is used to analyse past environmental conditions.

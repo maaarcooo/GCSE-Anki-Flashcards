@@ -1,0 +1,56 @@
+What is diffusion? | The spreading out of particles resulting in net movement from an area of higher concentration to an area of lower concentration. It is passive (no energy required).
+Which molecules can move by diffusion across cell membranes? | Small molecules like oxygen, glucose, amino acids and water. Larger molecules like starch and proteins cannot.
+Why can single-celled organisms rely on diffusion alone for transport? | They have a relatively large surface area to volume ratio and low metabolic demands.
+What are three factors that affect the rate of diffusion? | 1) Concentration gradient (greater difference = faster rate) 2) Temperature (higher temperature = faster rate) 3) Surface area of membrane (larger area = faster rate)
+What is osmosis? | The movement of water from a less concentrated solution to a more concentrated one through a partially permeable membrane. It is a passive process.
+What happens to an animal cell in a hypotonic solution (lower concentration outside)? | Water moves into the cell causing it to swell and potentially burst.
+What happens to a plant cell in a hypertonic solution (higher concentration outside)? | Water moves out of the cell causing it to become soft and eventually plasmolysis occurs (cell membrane pulls away from cell wall).
+What is turgor pressure in plants? | The pressure caused by water moving into cells by osmosis, essential for keeping leaves and stems rigid.
+What is active transport? | The movement of particles from an area of lower concentration to an area of higher concentration (against the concentration gradient). It requires energy from respiration.
+Give two examples of active transport in living organisms. | 1) Root hair cells taking up mineral ions from soil 2) Absorption of glucose and amino acids from gut into bloodstream
+What is mitosis? | A type of cell division where one cell divides to form two identical daughter cells.
+What happens during interphase (stage 1 of the cell cycle)? | The cell grows, organelles increase in number, proteins are synthesized, chromosomes are replicated, and energy stores increase.
+What happens during mitosis stage (stage 2 of the cell cycle)? | Chromosomes line up at the equator of the cell and spindle fibers pull each chromosome to opposite sides of the cell.
+What happens during cytokinesis (stage 3 of the cell cycle)? | Two identical daughter cells form when the cytoplasm and cell membranes divide, each containing the same 46 chromosomes as the original cell.
+What is the importance of mitosis in multicellular organisms? | It's important for growth, development, replacing damaged cells, and asexual reproduction.
+What is cell differentiation? | The process where cells gain new sub-cellular structures to become specialized for specific roles.
+What are stem cells? | Undifferentiated cells that can divide to produce many more similar cells, some of which can differentiate into different cell types.
+How do sperm cells show specialization? | Streamlined head and long tail for swimming, many mitochondria for energy, and acrosome with digestive enzymes to break down egg cell membrane.
+How do nerve cells show specialization? | Long axon to carry impulses over long distances, many dendrites to form connections with other cells, and nerve endings with mitochondria to produce neurotransmitters.
+How do muscle cells show specialization? | Special proteins (actin and myosin) for contraction, lots of mitochondria for energy, and ability to store glycogen for respiration.
+How do root hair cells show specialization? | Large surface area from root hairs, large permanent vacuole affecting water movement, and mitochondria for active transport of minerals.
+How do xylem cells show specialization? | Lignin deposition causing cell death and hollow tubes, joined end-to-end for water transport, and spiral lignin reinforcement to withstand pressure.
+How do phloem cells show specialization? | Cell walls form sieve plates allowing movement between cells, and companion cells provide energy through their mitochondria.
+What are the characteristics of embryonic stem cells? | They form when egg and sperm fuse, can differentiate into any type of body cell, and can be cultured in labs.
+What are the characteristics of adult stem cells? | Found in bone marrow, can form many types of cells (but not any type), including blood cells.
+What are meristems in plants? | Stem cells found in root and shoot tips that can differentiate into any type of plant cell throughout the plant's life.
+How can plant meristems be useful? | They can be used to make clones with desirable features (like disease resistance), for research, or to save rare plants from extinction.
+What is surface area to volume ratio? | The size of the surface area of an organism compared to its volume. It's calculated as surface area:volume in lowest whole numbers.
+Why is surface area to volume ratio important for organisms? | If it's large, the organism is less likely to need specialized exchange surfaces or transport systems because diffusion alone is sufficient.
+How do lungs maximize gas exchange? | Alveoli create a large surface area, have thin walls for short diffusion pathways, and efficient blood supply maintains a steep concentration gradient.
+How does the small intestine maximize absorption? | Villi increase surface area and have a single layer of cells creating a thin membrane for absorption.
+How do leaves maximize gas exchange? | Flattened shape and internal air spaces increase surface area for carbon dioxide to enter cells.
+What is a double circulatory system? | A system with two circuits: one circuit pumps deoxygenated blood to the lungs, and the other pumps oxygenated blood around the body.
+Why do mammals need a double circulatory system? | Because their higher metabolic rate requires a faster system to deliver oxygen and nutrients.
+What are the four chambers of the heart? | Right atrium, right ventricle, left atrium, and left ventricle.
+Why is the left ventricle wall thicker than the right ventricle wall? | Because it needs to pump blood all around the body (high pressure), while the right ventricle only pumps to the lungs (lower pressure).
+What is the function of heart valves? | To ensure blood flows in one direction and does not flow backwards.
+How are arteries adapted for their function? | Layers of muscle make them strong, and elastic fibers allow them to stretch to withstand high pressure.
+How are veins adapted for their function? | Wide lumen allows low pressure blood to flow, and valves ensure blood flows in the right direction.
+How are capillaries adapted for their function? | One cell thick walls create a short diffusion pathway, and permeable walls allow substances to move across.
+How are red blood cells adapted for their function? | Contain hemoglobin to transport oxygen, no nucleus for more space, biconcave shape for maximum surface area, and flexible to fit through narrow vessels.
+What is plasma and what does it transport? | Plasma is the liquid part of blood made mostly of water. It transports blood cells, platelets, amino acids, carbon dioxide, urea, and other water-soluble substances.
+What is transpiration? | The loss of water vapor from leaves and stems of a plant, occurring as a consequence of gaseous exchange.
+How does the transpiration stream work? | As water evaporates from leaves, more water is pulled up through the xylem due to water molecules being attracted to each other, creating a continuous stream.
+How are xylem vessels adapted for their function? | Lignin deposition makes them hollow tubes, they join end-to-end to form a continuous pathway, and lignin strengthens them to withstand water pressure.
+How do root hair cells help with water uptake? | They have a large surface area to absorb water via osmosis from the soil.
+How do guard cells control water loss? | They are kidney-shaped with thin outer walls and thick inner walls, changing shape when full of water to open stomata. They are also light sensitive.
+Why are more stomata found on the lower surface of leaves? | To minimize water loss as the lower surface is shaded and cooler, while still allowing gas exchange.
+How does increased light intensity affect transpiration rate? | It increases photosynthesis, causing more stomata to open for gas exchange, which increases water evaporation and transpiration rate.
+How does increased temperature affect transpiration rate? | Molecules move faster, increasing evaporation and photosynthesis rate, which opens more stomata and increases transpiration.
+How does increased air movement (wind) affect transpiration rate? | It removes water vapor from around the leaf, creating a steeper concentration gradient that increases diffusion and transpiration rate.
+How does increased humidity affect transpiration rate? | Higher humidity reduces the concentration gradient between inside and outside the leaf, decreasing diffusion and transpiration rate.
+What is a potometer used for? | To investigate how environmental factors affect water uptake and transpiration rate in plants.
+What is translocation? | The movement of food substances (made in leaves) up or down the phloem for immediate use or storage.
+How are phloem cells adapted for their function? | Elongated cells with sieve plates (holes in cell walls), few organelles to allow cell sap movement, and companion cells with mitochondria to provide energy.
+What is the difference between transpiration and translocation? | Transpiration is the loss of water vapor from leaves, while translocation is the movement of food substances through the phloem.

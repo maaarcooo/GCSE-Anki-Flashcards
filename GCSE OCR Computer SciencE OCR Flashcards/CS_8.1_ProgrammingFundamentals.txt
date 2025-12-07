@@ -1,0 +1,38 @@
+What is a variable? | A named memory location that holds data that can change during program execution.
+What is a constant? | Fixed data that cannot change during program execution (like Pi).
+What is assignment? | The process of storing data in a variable or constant using the '=' symbol.
+What is an operator? | A symbol that instructs a computer to perform a specific operation on values.
+What is the modulus operator? | Returns the remainder after division (MOD in OCR, % in Python).
+What is the quotient operator? | Returns the whole number result of division (DIV in OCR, // in Python).
+What is an input? | A value read from an input device and then processed by a program.
+What is an output? | A value sent to an output device from a program.
+What are the three core programming constructs? | Sequence, Selection, and Iteration.
+What is sequence in programming? | Lines of code that run one line at a time in the order they are written.
+What is selection in programming? | When the flow of a program changes depending on conditions (using if-then-else or switch statements).
+What is iteration in programming? | Repeating a line or block of code using a loop.
+What are the two types of iteration? | Count controlled (fixed number of repeats) and condition controlled (repeats until a condition is met).
+How can you identify which programming construct is being used? | Look for keywords: if/elseif/else/switch/case indicate selection; for/while/do indicate iteration; if none appear, it's likely sequence.
+What is a FOR loop used for? | Count controlled iteration - repeating code a fixed number of times.
+What is a WHILE loop used for? | Condition controlled iteration - repeating code until a condition is met, with the check before entering the loop.
+What is a DO WHILE loop used for? | Condition controlled iteration - repeating code until a condition is met, with the loop iterating once before the check.
+What is the addition operator in Python? | + (plus sign)
+What is the subtraction operator in Python? | - (minus sign)
+What is the multiplication operator in Python? | * (asterisk)
+What is the division operator in Python? | / (forward slash)
+What is the exponentiation operator in Python? | ** (double asterisk) - equivalent to ^ in OCR
+How do you check if a number is odd or even? | Use the modulus operator (%) - if number % 2 == 0, the number is even.
+What are the three Boolean operators? | AND, OR, and NOT
+What does "AND" return when combining true and false? | False (both values must be true to return true)
+What does "OR" return when combining true and false? | True (at least one value must be true to return true)
+What does "NOT" do to a Boolean value? | Inverts it (NOT true becomes false, NOT false becomes true)
+What comparison operators can be used in Boolean conditions? | == (equal to), != (not equal to), < (less than), <= (less than or equal to), > (greater than), >= (greater than or equal to)
+What are the basic primitive data types? | Integer, Real, Character, String, and Boolean
+What is an Integer data type used for? | Whole numbers (10, -5, 0)
+What is a Real data type used for? | Numbers with a fractional part (3.14, -2.5, 0.0)
+What is a Character data type used for? | Single characters ('a', 'B', '6', '£')
+What is a String data type used for? | Sequence of characters ("Hello world", "ABC", "@#!%")
+What is a Boolean data type used for? | True or false values
+What is casting? | Converting one data type to another data type
+How do you convert a string to an integer in Python? | Use int() function - int("10") becomes 10
+How do you convert an integer to a string in Python? | Use str() function - str(5) becomes "5"
+What happens when you convert a real number (5.7) to an integer? | The fractional part is removed (becomes 5)

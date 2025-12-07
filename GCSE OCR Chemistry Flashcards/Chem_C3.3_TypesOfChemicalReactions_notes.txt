@@ -1,0 +1,37 @@
+What is oxidation in terms of oxygen? | Gain of oxygen
+What is reduction in terms of oxygen? | Loss of oxygen
+What happens when acids dissolve in water? | They release H+ ions
+What happens when alkalis dissolve in water? | They release OH- ions
+What is neutralization? | Acid reacting with alkali or base to form a salt plus water
+What is the ionic equation for any neutralization reaction? | H+ + OH- → H2O
+What general equation represents acid reacting with metal carbonate? | Acid + metal carbonate → salt + water + carbon dioxide
+What general equation represents acid reacting with metal? | Acid + metal → salt + hydrogen gas
+What determines the salt produced in acid reactions? | The acid used and the positive ions (metal) in the base
+What salt is produced with hydrochloric acid? | Chlorides
+What salt is produced with nitric acid? | Nitrates
+What salt is produced with sulfuric acid? | Sulfates
+What does pH measure? | Relative acidity and alkalinity
+What is the pH range? | 0 to 14
+What pH value is neutral? | pH 7
+What pH values indicate acidity? | pH values less than 7
+What pH values indicate alkalinity? | pH values greater than 7
+What is OIL RIG and what does it mean? | OIL RIG stands for Oxidation Is Loss, Reduction Is Gain (of electrons)
+What is oxidation in terms of electrons? | Loss of electrons
+What is reduction in terms of electrons? | Gain of electrons
+What is a strong acid? | An acid completely ionized in aqueous solution
+What is a weak acid? | An acid partially ionized in aqueous solution
+Give examples of strong acids | Hydrochloric acid, nitric acid, sulfuric acid
+Give examples of weak acids | Ethanoic acid, citric acid, carbonic acid
+What is the difference between strong/weak and concentrated/dilute? | Strong/weak refers to degree of ionization; concentrated/dilute refers to amount of substance in given volume
+How does pH change as hydrogen ion concentration increases? | As hydrogen ion concentration increases by a factor of ten, pH decreases by one unit
+How do pH values relate to acid strength? | Stronger acids have pH values closer to 0
+How do pH values relate to alkali strength? | Stronger alkalis have pH values closer to 14
+Name two ways to measure pH | pH meter and universal indicator
+What color is methyl orange in acidic solution? | Red
+What color is methyl orange in neutral or alkaline solution? | Yellow
+What color is phenolphthalein in acidic or neutral solution? | Colorless
+What color is phenolphthalein in alkaline solution? | Pink
+What color is red litmus in acidic solution? | Red
+What color is red litmus in alkaline solution? | Blue
+What color is blue litmus in acidic solution? | Red
+What color is blue litmus in alkaline or neutral solution? | Blue

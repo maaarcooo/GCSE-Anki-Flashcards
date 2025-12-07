@@ -1,0 +1,25 @@
+What is activation energy? | The minimum amount of energy that particles must collide with to react.
+What is actual yield? (Higher Tier) | The mass of product obtained from a reaction. It's normally less than theoretical yield due to incomplete reactions, side reactions and loss of product.
+What is atom economy? (Higher Tier) | The measure of the amount of starting materials that end up as useful products.
+What is a by-product? (Higher Tier) | A secondary product made in the reaction of something else.
+What is a catalyst? | A substance that increases the rate of reaction by providing a different reaction pathway with a lower activation energy. They are not used up during the reaction.
+What is a closed system? | A system in which nothing can get in and nothing can get out. A reversible reaction will eventually reach equilibrium in a closed system.
+What is dynamic equilibrium? | When a reversible reaction reaches a state where the rate of the forward reaction equals the rate of the backward reaction. The concentration of reactants and products remains constant.
+How does increasing concentration affect equilibrium? | If reactant concentration increases, more products will be formed until equilibrium is reached again. If product concentration decreases, more reactants will react until equilibrium is reached again.
+How does concentration affect reaction rate? | Increasing concentration means reacting particles are closer together. They collide more often, leading to more successful collisions and a faster reaction rate.
+How does pressure affect equilibrium? | Increasing pressure shifts equilibrium towards the side with fewer moles of gas. Decreasing pressure shifts equilibrium towards the side with more moles of gas.
+How does pressure affect reaction rate? | Increasing pressure of gaseous reactants brings particles closer together. They collide more often, leading to more successful collisions and a faster reaction rate.
+How does surface area affect reaction rate? | Increasing surface area exposes more reacting particles (greater surface area to volume ratio). This leads to more frequent successful collisions and increases reaction rate.
+How does temperature affect equilibrium? | Increasing temperature shifts equilibrium towards the endothermic reaction. Decreasing temperature shifts equilibrium towards the exothermic reaction.
+How does temperature affect reaction rate? | Higher temperature gives particles more kinetic energy so they move faster. They collide more often and more particles have the activation energy needed to react.
+What are enzymes? | Biological catalysts which speed up biochemical reactions so that organisms can survive.
+What is Le Chatelier's principle? | If a reaction at equilibrium is subjected to a change in concentration, temperature or pressure, the position of equilibrium will move to counteract the change.
+What is molar volume? | The volume occupied by one mole of gaseous molecules.
+What is the molar volume at RTP? | 24 dm³ - the volume occupied by one mole of molecules of any gas at room temperature and pressure.
+What is percentage yield? (Higher Tier) | The percentage ratio of the actual yield of product from a reaction compared with the theoretical yield.
+What is rate of reaction? | The measure of the amount of product formed or reactant used over time. Units may be g/s, cm³/s or mol/s.
+What is a reaction profile? | A diagram used to show the relative energies of reactants and products, the activation energy and the overall energy change of a reaction.
+What is a reversible reaction? | A reaction in which the products can react together to reform the reactants. Shown by the symbol ⇌.
+What is a standard solution? (Higher Tier) | A solution containing a known concentration of a substance.
+What is theoretical yield? (Higher Tier) | The maximum possible mass of product that can be obtained from a reaction.
+What is titration? (Higher Tier) | A technique used where a solution of known concentration is used to determine the concentration of an unknown solution.

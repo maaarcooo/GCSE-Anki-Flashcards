@@ -1,0 +1,15 @@
+What is an exothermic reaction? | A reaction that transfers energy to the surroundings, causing the temperature of the surroundings to increase.
+Give three examples of exothermic reactions. | Combustion, many oxidation reactions, and neutralization.
+What are two everyday applications of exothermic reactions? | Self-heating cans (e.g., for coffee) and hand warmers.
+What is an endothermic reaction? | A reaction that takes in energy from the surroundings, causing the temperature of the surroundings to decrease.
+Give two examples of endothermic reactions. | Thermal decomposition and the reaction between citric acid and sodium hydrogencarbonate.
+What is a practical application of endothermic reactions? | Some sports injury packs are based on endothermic reactions.
+What is required for chemical reactions to occur? | Reacting particles must collide with each other and with sufficient energy.
+What is activation energy? | The minimum amount of energy that particles must have to react.
+What does a reaction profile show? | It shows the relative energies of reactants and products, the activation energy, and the overall energy change of a reaction.
+What does the arrow in a reaction profile represent? | The overall energy change of the reaction.
+(HT) What energy changes occur during a chemical reaction? | Energy is taken in to break bonds in the reactants, and energy is released when bonds in the products are formed.
+(HT) How do you calculate the overall energy change in a chemical reaction? | Sum of energy to break bonds MINUS sum of energy released when bonds form.
+(HT) When is a reaction endothermic in terms of bond energies? | When the energy needed to break bonds is GREATER than the energy released when bonds form.
+(HT) When is a reaction exothermic in terms of bond energies? | When the energy needed to break bonds is LESS than the energy released when bonds form.
+How can you distinguish between endothermic and exothermic reactions? | By measuring the temperature change of the surroundings - temperature increases in exothermic reactions and decreases in endothermic reactions.
