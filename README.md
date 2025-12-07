@@ -5,12 +5,13 @@
 
 ## Anki import guidelines
 
-Import text file
+Method 1: Import text file
 - Use Anki desktop app
 - Import the text file
 - Select separate with **pipe**
 
-Import apkg file
+Method 2: Import apkg file
+- Included all decks of the subject
 - Use Anki desktop app
 - Import the apkg file
 
