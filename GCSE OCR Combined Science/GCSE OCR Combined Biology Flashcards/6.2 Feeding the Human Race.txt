@@ -1,0 +1,38 @@
+What is selective breeding (artificial selection)? | Selecting individuals with desirable characteristics and breeding them together over many successive generations.
+Why must selective breeding be repeated for many generations? | Not all offspring will show desired characteristics, so only those with desired traits are selected and bred together repeatedly.
+How does artificial selection differ from natural selection in terms of which individuals mate? | In natural selection, selection pressures prevent certain individuals from mating (dead, sick, unable to compete). In artificial selection, humans segregate individuals allowed to mate.
+What happens to livestock not selected for breeding in artificial selection? | They face early slaughter, while the mating population are kept alive and well looked after.
+Give three examples of characteristics animals are selectively bred for. | Cows/goats/sheep for milk or meat production, chickens for large eggs, domestic dogs for gentle nature.
+What animal are all domestic dogs (Canis familiaris) descended from? | Wolves.
+Give four characteristics that plants are selectively bred for. | Disease resistance, increased crop yield, hardiness to weather conditions (drought tolerance), better tasting fruits.
+Name three vegetables that have been selectively bred from wild brassica. | Cauliflower, cabbage, broccoli (also Brussels sprouts, kale, kohlrabi).
+What is inbreeding? | When only the 'best' animals or plants (which are closely related to each other) are bred together.
+What is a gene pool? | The number of different alleles (versions of genes) in a population.
+What are two risks of inbreeding due to reduced gene pool? | Organisms inheriting harmful genetic defects and organisms being vulnerable to new diseases.
+What is genetic engineering? | A process which involves modifying the genome of an organism to introduce desirable characteristics.
+What does genetic engineering involve doing with genes? | Taking genes from one organism and placing them into the cells of another organism (another species).
+What is an organism called that has received genetic material from another organism? | Genetically modified (GM) or transgenic organism.
+What is recombinant DNA? | DNA of an organism that contains DNA from another organism as well.
+How has bacteria been genetically modified to help diabetics? | The gene for human insulin has been inserted into bacteria, which produce human insulin that can be collected and purified for medical use.
+How have crops been genetically modified to resist insect pests? | A gene from a bacterium that produces a poison that kills insects has been inserted, making them resistant to insect pests like caterpillars.
+What is 'golden rice' and why was it created? | Rice genetically modified to produce a chemical that turns into vitamin A in the human body, helping prevent vitamin A deficiency.
+Give two benefits of genetic engineering of food products. | Improvement of crop yields and making crops more nutritious to fight deficiency diseases.
+Give three risks of genetic engineering of food products. | Possible spread of genes to wild plants (creating superweeds), unknown effects on human health, religious and ethical concerns about tampering with nature.
+How can genetic engineering reduce biodiversity? | Fewer plant species are used when herbicides are applied, which can impact insects and insect-eating birds.
+[Higher Tier] What are restriction enzymes used for in genetic engineering? | To isolate the required gene, leaving it with 'sticky ends' (a short section of unpaired bases).
+[Higher Tier] What is a vector in genetic engineering? | A plasmid used to introduce new DNA into a host (plasmids are circles of DNA found inside bacterial cells).
+[Higher Tier] Why are sticky ends important in genetic engineering? | They allow the plasmid and isolated gene to be joined together because they have corresponding/matching sequences.
+[Higher Tier] What enzyme is used to join the plasmid and isolated gene together? | DNA ligase enzyme.
+[Higher Tier] When will DNA ligase link two pieces of DNA together? | When two pieces of DNA have matching sticky ends (because they have been cut by the same restriction enzyme).
+[Higher Tier] Why is an antibiotic resistance gene used as a marker in genetic modification? | It is linked to the new gene with a desirable trait, allowing scientists to select the insertion point of the new gene.
+[Higher Tier] What happens when genetically engineered bacteria reproduce? | The plasmids are copied as well, so the recombinant plasmid quickly spreads as bacteria multiply and they all express the gene.
+[Higher Tier] Why are genetically engineered bacteria placed in a fermenter? | To reproduce quickly in controlled conditions and make large quantities of the human protein.
+What percentage of the world's arable land is now under GM crops? | Just over 10% of the world's arable land.
+Give one advantage of GM crops regarding chemical use. | Reduced use of chemicals such as herbicides and pesticides - better for the environment, cheaper and less time-consuming for farmers.
+Give one advantage of GM crops regarding crop yields. | Increased yields from crops as they are not competing with weeds for resources or suffering from pest damage.
+Give one disadvantage of GM crops regarding cost. | Increased costs of seeds - companies charge more to cover development costs, meaning smaller, poorer farmers cannot compete with larger farms.
+Give one disadvantage of GM crops regarding chemical dependency. | Increased dependency on certain chemicals (herbicides that crops are resistant to), often made by the same companies that produce the seed.
+What is a risk of inserted genes being transferred to wild plants? | Genes could be transferred by pollination, which could reduce usefulness of the GM crop (e.g., if weeds gain the herbicide resistance gene).
+How can GM crops affect biodiversity? | Reduced biodiversity as there are fewer plant species when herbicides have been used, impacting insects and insect-eating birds.
+What has some research shown about the growth of GM plants? | Plants that have had genes inserted into them do not grow as well as non-GM plants.
+Why must biotechnological solutions increase agricultural productivity? | More people plus less available land means that agricultural productivity must rise.

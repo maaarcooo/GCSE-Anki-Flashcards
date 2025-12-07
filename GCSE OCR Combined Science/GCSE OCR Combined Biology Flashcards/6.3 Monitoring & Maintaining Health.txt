@@ -1,0 +1,81 @@
+What is the WHO definition of health? | A state of complete physical, mental and social well-being, not merely the absence of disease or infirmity.
+What are communicable diseases? | Diseases caused by pathogens (microorganisms) that can spread between individuals.
+What are non-communicable diseases? | Diseases not caused by pathogens that cannot be passed between individuals and have longer-lasting effects.
+Give three examples of non-communicable diseases. | Asthma, coronary heart disease (CHD), and most cancers.
+What is a pathogen? | Any microorganism that causes disease in another organism.
+Name four types of pathogens. | Bacteria, fungi, protists, and viruses.
+How does tuberculosis (TB) spread? | Direct transmission via airborne droplets.
+How does malaria spread? | Indirectly via female mosquitoes (animal vector).
+What are the five main ways pathogens can spread? | Via water, air, body fluids, contact, and animal vectors.
+How does handwashing help reduce disease spread? | It removes pathogens from hands, preventing transmission through contact.
+What is the role of stomach acid in defence against disease? | It kills pathogens that have been swallowed in food or water.
+What do lysozymes in tears do? | Break down and kill bacteria on or around the eye surface.
+What are the two main types of white blood cells? | Lymphocytes (around 25%) and phagocytes (around 75%).
+What is phagocytosis? | The process where phagocytes engulf and digest pathogens.
+What do lymphocytes produce? | Antibodies to destroy pathogenic cells and antitoxins to neutralise toxins.
+What are antibodies? | Y-shaped proteins with a shape specific to antigens on pathogens.
+What is agglutination? | When antibodies cause pathogens to clump together, making them unable to move easily.
+What are platelets? | Fragments of cells involved in blood clotting and forming scabs.
+What is fibrin? | Insoluble protein that forms a mesh across wounds to trap red blood cells and form clots.
+Why is blood clotting important? | It prevents blood loss and seals wounds to prevent microorganism entry.
+What is the skin's role in defence? | It covers almost all body parts to prevent pathogen infection.
+How do mucus and cilia in airways protect against disease? | Mucus traps pathogens; cilia waft mucus up to the throat to be expelled.
+What is the difference between non-specific and specific immunity? | Non-specific acts the same way against all pathogens; specific targets particular antigens.
+What are memory cells? | Lymphocytes that recognise specific pathogens and remain after infection.
+What is a secondary immune response? | A faster, larger antibody response when encountering the same pathogen again.
+What is an antigen? | A molecule found on the surface of a cell.
+What is an antitoxin? | A protein that neutralises toxins produced by bacteria.
+What do vaccines contain? | Harmless versions of pathogens (killed, attenuated, or fragments).
+How do vaccines work? | They trigger an immune response, producing memory cells and antibodies without causing disease.
+What is herd immunity? | Protection of unvaccinated individuals when most of the population is vaccinated.
+Give one advantage of vaccination. | Diseases that were once common are now rare due to widespread vaccinations.
+Give one disadvantage of vaccination. | Vaccines don't always give immunity and can have side effects.
+What is an epidemic? | A localised outbreak of disease.
+What is a pandemic? | A global outbreak of disease.
+What does WHO stand for? | World Health Organisation.
+What is an antibiotic? | A chemical substance produced by one microorganism that has a toxic effect on pathogenic organisms.
+Do antibiotics work against viruses? | No, they generally only work against bacterial pathogens.
+What is an antiviral? | A medicine that acts against viruses only.
+What is an antiseptic? | A product that kills microorganisms but is toxic if taken internally (used externally on skin).
+What are the three stages of drug development? | Preclinical testing (cells/computer models), whole organism testing (animals), and clinical trials (humans).
+What is tested during preclinical testing? | Efficacy (effectiveness) and toxicity (harmful side effects).
+What is a double-blind trial? | A trial where neither doctors/nurses nor patients know who receives the active drug or placebo.
+What is a placebo? | An inactive substance given to some patients in clinical trials for comparison.
+Give one plant source of medicine. | Foxglove (digitalis for heart disease) or willow bark (aspirin for pain).
+Who discovered penicillin? | Alexander Fleming from Penicillium mould.
+What are the main risk factors for coronary heart disease? | Poor diet, stress, smoking, genetic predisposition, age, and gender.
+What are coronary arteries? | Blood vessels that supply the heart muscle with oxygen and nutrients.
+What causes coronary heart disease? | Fatty deposits (plaques) blocking coronary arteries, reducing blood flow.
+What is angina? | Severe chest pains caused by partial blockage of coronary arteries.
+What causes a heart attack? | Complete blockage of coronary arteries preventing heart muscle cells from respiring.
+What is atherosclerosis? | Damage to arteries causing plaque buildup of cholesterol and white blood cells.
+How does smoking increase cardiovascular disease risk? | Chemicals in smoke damage arteries, causing atherosclerosis.
+What is a stent? | A metal or plastic mesh inserted to keep arteries clear after angioplasty.
+What is angioplasty? | A procedure where a balloon is inflated in blocked arteries to flatten plaque.
+What is coronary bypass surgery? | Using a blood vessel from elsewhere to create a new passage for blood flow around blockages.
+What is obesity? | Significant weight gain that increases risk of diseases like type 2 diabetes.
+What is malnutrition? | Eating fewer calories than burned or having an unbalanced diet.
+What is BMI? | Body Mass Index = weight (kg) ÷ height² (m²).
+What is cancer? | Uncontrolled cell division forming tumours.
+What causes cancer? | Mutations caused by carcinogens (chemicals) or radiation (UV, radioactive decay).
+What is a benign tumour? | A tumour that grows slowly and doesn't spread to other body parts.
+What is a malignant tumour? | A cancerous tumour that grows quickly and can spread to other organs.
+What is metastasis? | When cancerous cells spread from a tumour to form secondary tumours in other organs.
+What is chemotherapy? | Using chemicals to kill cancerous cells.
+What is radiotherapy? | Using X-rays to kill cancerous cells.
+What are the three most frequent cancers in the UK? | Breast, lung, and bowel cancers.
+What are stem cells? | Undifferentiated cells that can divide to produce specialised cells.
+Where are embryonic stem cells found? | On the inside layer of a 5-day old embryo.
+What can embryonic stem cells differentiate into? | All different types of specialised cells found in the body.
+Where are adult stem cells found? | Bone marrow, skin, liver, brain, and umbilical cord blood.
+What can adult stem cells differentiate into? | A limited number of cell types (mainly blood cells from bone marrow).
+What is therapeutic cloning? | Creating an embryo with the same genes as a patient to produce stem cells that won't be rejected.
+Give one benefit of using stem cells in medicine. | Great potential to treat diseases like diabetes and paralysis.
+Give one risk of using stem cells. | Cultured stem cells could become infected with viruses or accumulate mutations.
+Give one ethical issue with embryonic stem cells. | Some believe embryos are human life and shouldn't be destroyed.
+What was the Human Genome Project? | An international effort completed in 2003 to determine the DNA sequence of the entire human genome.
+How can the human genome help predict diseases? | Identifying genes that predispose people to diseases allows better lifestyle advice and early treatment.
+How can the human genome help treat inherited disorders? | It allows quick identification of faulty alleles so people can be tested and treatments developed.
+Give one benefit of genomic medicine. | Development of new medicines tailored to genetic variations.
+Give one drawback of genomic medicine. | People told they have high disease risk may suffer increased anxiety and stress.
+How might people with genetic diseases be discriminated against? | Employers may not hire them, insurers may charge more, or they may face pressure not to have children.

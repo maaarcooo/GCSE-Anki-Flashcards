@@ -1,0 +1,83 @@
+What is cellular respiration? | The process of transferring energy from the breakdown of glucose
+Where is energy stored after respiration? | In ATP (adenosine triphosphate) molecules
+What is ATP? | A molecule that stores energy like a rechargeable battery
+List three processes that organisms need energy for | Chemical reactions to build molecules, muscle contraction, keeping warm
+Is cellular respiration universal? | Yes, it occurs continuously in all living cells
+What type of reaction is cellular respiration? | Exothermic (releases energy as heat)
+What is aerobic respiration? | Chemical reaction in cells that uses oxygen to break down glucose to release energy
+Where does most aerobic respiration occur? | In the mitochondria
+What is the word equation for aerobic respiration? | glucose + oxygen → carbon dioxide + water
+What is the balanced symbol equation for aerobic respiration? | C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O
+How many ATP molecules does aerobic respiration produce per glucose molecule? | Approximately 32 ATP molecules
+What is anaerobic respiration? | Chemical reaction in cells that breaks down glucose without oxygen
+How much energy does anaerobic respiration release compared to aerobic? | Much less energy (only 2 ATP per glucose)
+Why is glucose breakdown incomplete in anaerobic respiration? | Because oxygen is not available, so energy remains stored in the breakdown products
+What is the word equation for anaerobic respiration in animals? | glucose → lactic acid
+What is the balanced equation for anaerobic respiration in animals? | C₆H₁₂O₆ → 2C₃H₆O₃
+When does anaerobic respiration mainly occur in animals? | During vigorous exercise in muscle cells
+What is lactic acid? | The product of anaerobic respiration in animals
+What happens when lactic acid builds up in muscles? | It lowers pH, making conditions acidic, which can denature enzymes
+What is oxygen debt? | The amount of oxygen needed to break down accumulated lactic acid
+What is the word equation for anaerobic respiration in plants/fungi? | glucose → ethanol + carbon dioxide
+What is the balanced equation for anaerobic respiration in plants/fungi? | C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂
+What is fermentation? | Anaerobic respiration in yeast (a fungus)
+Why is fermentation economically important? | Used in bread making (CO₂ helps dough rise) and brewing (produces ethanol for beer)
+When do plants use anaerobic respiration? | When in waterlogged soil with little oxygen available
+Compare oxygen requirement: aerobic vs anaerobic | Aerobic needs oxygen, anaerobic does not need oxygen
+Compare glucose breakdown: aerobic vs anaerobic | Aerobic is complete, anaerobic is incomplete
+Compare energy released: aerobic vs anaerobic | Aerobic releases a lot, anaerobic releases a little
+What are the products of aerobic respiration? | Carbon dioxide and water
+What are the products of anaerobic respiration in animals? | Lactic acid
+What are the products of anaerobic respiration in yeast? | Ethanol and carbon dioxide
+Can organisms use molecules other than glucose for respiration? | Yes, proteins, lipids, and other carbohydrates can be used
+How does temperature affect respiration rate? | Respiration is controlled by enzymes, so temperature affects the rate
+How does pH affect respiration rate? | Respiration is controlled by enzymes, so pH affects the rate
+What is a monosaccharide? | A simple sugar consisting of a single monomer unit (e.g. glucose, fructose)
+What is the molecular formula of glucose? | C₆H₁₂O₆
+What is a disaccharide? | A sugar made when two monosaccharides join together
+Give two examples of disaccharides | Maltose (two glucose) and sucrose (glucose + fructose)
+What is a polysaccharide? | Long chains of many monomer units forming a polymer
+Name three polysaccharides made from glucose | Starch, glycogen, and cellulose
+Why are polysaccharides useful as storage molecules? | They are insoluble
+What elements do carbohydrates contain? | Carbon, hydrogen, and oxygen
+Where are carbohydrates broken down in the human body? | In the mouth and small intestine by enzymes
+What are proteins made from? | Long chains of amino acids joined together
+What elements do amino acids contain? | Carbon, nitrogen, hydrogen, and oxygen
+How many standard amino acids make up human proteins? | 20 different amino acids
+Give three examples of proteins | Enzymes, haemoglobin, ligaments, keratin
+Where are proteins broken down in the human body? | In the stomach and small intestine by enzymes
+What determines a protein's function? | Its 3-D shape
+What happens if the amino acid sequence changes slightly? | A completely different protein is formed
+What are lipids made from? | One glycerol molecule bonded to three fatty acid chains (triglycerides)
+What elements do lipids contain? | Carbon, hydrogen, and oxygen
+Do lipids form polymers? | No, they don't form long chains of repeating units
+What is the difference between fats and oils? | Fats are solid at room temperature, oils are liquid
+What enzyme breaks down lipids in the human body? | Lipases
+Where are lipids broken down in the human body? | In the small intestine
+What is Benedict's test used for? | Testing for reducing sugars (glucose)
+What colour is Benedict's reagent initially? | Blue
+What temperature is used for Benedict's test? | 75°C for 5 minutes in a water bath
+What colour indicates a positive Benedict's test? | Orange to dark red
+What colour gradient shows increasing sugar concentration in Benedict's test? | Blue → green → yellow → orange → red
+What is the iodine test used for? | Testing for starch
+What colour is iodine solution initially? | Orange-brown
+What colour indicates a positive iodine test for starch? | Blue-black
+What is the biuret test used for? | Testing for protein
+What is biuret solution made from? | Sodium hydroxide and copper sulphate
+What colour is biuret solution initially? | Blue
+What colour indicates a positive biuret test? | Violet or purple
+What is the emulsion test used for? | Testing for lipids
+What chemical is used in the emulsion test? | Ethanol
+What indicates a positive emulsion test? | A cloudy emulsion forms
+What volume of ethanol is used in the emulsion test? | 4 cm³
+What safety precaution is needed when using biuret solution? | Wear goggles (contains copper sulphate which is dangerous to eyes)
+Why is iodine a hazard? | It is an irritant to the eyes
+Why must ethanol be kept away from Bunsen burners? | Ethanol is highly flammable
+Why is sodium hydroxide hazardous? | It is corrosive
+Why does body temperature rise during exercise? | Heat is released from exothermic respiration reactions
+What apparatus is used to demonstrate heat production in respiration? | Vacuum flasks, thermometer, cotton wool, and germinating seeds
+Why use germinating seeds in the heat production experiment? | They are actively respiring and producing heat
+Why use dead/boiled seeds as a control? | They are not respiring, so provide a comparison
+What result shows respiration produces heat? | Temperature increases in flask with germinating seeds but not in flask with dead seeds
+How long should the heat production experiment run? | 4 days
+Why invert the flask in the heat production experiment? | To hold thermometer and cotton wool in place

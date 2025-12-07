@@ -1,0 +1,43 @@
+What is DNA? | Deoxyribonucleic acid - the chemical molecule containing instructions for growth and development of all organisms.
+What type of molecule is DNA? | A polymer made from repeating subunits called monomers.
+What are the monomers in DNA called? | Nucleotides.
+What shape does DNA form? | A double helix - a double-stranded spiral like a twisted ladder.
+Where is DNA located in eukaryotic cells? | In the nucleus, contained within chromosomes.
+What does DNA carry instructions for? | Making all the proteins required for life.
+Is everyone's DNA unique? | Yes, except for identical twins.
+What is DNA's role in characteristics? | It determines the characteristics of all living organisms.
+What are enzymes? | Biological catalysts made of protein that speed up chemical reactions without being changed or used up.
+What is metabolism? | The sum of all reactions happening in a cell or organism, where molecules are synthesised or broken down.
+Why are enzymes necessary? | They allow metabolic reactions to occur at a rate that can sustain life.
+What is a substrate? | The molecule being changed in a chemical reaction that the enzyme acts upon.
+What is the active site? | A specially shaped region on an enzyme that binds to the substrate.
+What is enzyme specificity? | Enzymes usually only work with one type of substrate due to complementary shapes between the active site and substrate.
+What is the lock and key hypothesis? | A model explaining enzyme action where the enzyme is like a lock and the substrate is the key that fits into the active site.
+How do enzymes and substrates meet? | Through random collisions as both molecules move about in liquid.
+What happens after substrate binds to active site? | The chemical reaction takes place, then products are released and the enzyme is unchanged.
+How does increasing temperature initially affect enzyme reactions? | It increases the rate as molecules have more kinetic energy, move faster, and collide more often.
+What is optimum temperature? | The temperature at which an enzyme works fastest (about 37°C for most human enzymes).
+What happens when temperature exceeds the optimum? | Bonds holding the enzyme break, the active site loses its shape, and the enzyme denatures irreversibly.
+Can a denatured enzyme work? | No, the substrate no longer fits the active site and the reaction stops.
+Why does enzyme activity stop at high temperatures? | The enzyme has been denatured and cannot catalyse the reaction.
+What is the optimum pH for most human enzymes? | pH 7 (neutral).
+What is the optimum pH for stomach enzymes? | pH 2 (acidic).
+What is the optimum pH for duodenum enzymes? | pH 8 or 9 (alkaline).
+How does pH affect enzyme structure? | pH too far from optimum disrupts or breaks bonds holding the amino acid chain together.
+What happens to enzyme activity away from optimum pH? | The active site shape changes, substrate no longer fits, reducing the rate of activity.
+Can extreme pH denature enzymes? | Yes, moving too far from optimum pH causes denaturation and the reaction stops.
+How does substrate concentration affect enzyme activity? | Greater substrate concentration increases enzyme activity and rate of reaction.
+Why does substrate concentration increase reaction rate? | More substrate molecules increase the likelihood of enzyme-substrate complex formation.
+What happens when all active sites are occupied? | The reaction rate plateaus - substrate molecules "queue up" for available active sites.
+What is the saturation point? | When all enzyme active sites are full and further substrate addition doesn't increase reaction rate.
+What happens to reaction rate at saturation? | It stops increasing despite adding more substrate because there are no free active sites.
+What enzyme breaks down starch? | Amylase.
+What does amylase break starch into? | Maltose (a disaccharide of glucose).
+How can starch be detected? | Using iodine solution - it changes from brown/orange to blue-black if starch is present.
+What indicates starch has been completely broken down? | Iodine solution remains orange-brown and stops turning blue-black.
+How is rate of reaction calculated? | Rate = Change ÷ Time OR Rate = 1 ÷ Time.
+What does "change" refer to in rate calculations? | Amount of substrate used up OR amount of product formed.
+If reaction time is shorter, what does this mean for rate? | The rate is greater (faster reaction).
+How do you calculate rate from time alone? | Rate = 1 ÷ Time.
+What happens at optimum pH in the amylase experiment? | Iodine remains orange-brown in the shortest time because enzyme works fastest.
+Why does iodine take longer to stop changing colour away from optimum pH? | Enzymes are becoming denatured and cannot bind with or break down starch efficiently.
