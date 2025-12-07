@@ -1,0 +1,30 @@
+What is the purpose of the CPU? | To fetch, decode and execute instructions
+What is the CPU often called in relation to a computer? | The brain of the computer
+What is the basic function cycle of a computer? | Take an input, process data, and produce an output
+What is the Fetch-Execute Cycle? | The cycle that the CPU runs through billions of times per second to make a computer work
+What happens during the fetch stage? | The next instruction or data is fetched from the computer's memory (RAM)
+What happens during the decode stage? | The CPU works out what is required from the instruction
+What happens during the execute stage? | The CPU carries out the instruction that was fetched
+What are examples of actions that take place during the execute stage? | Performing calculations, storing results in memory, or fetching data from a different memory location
+What are the 4 key components of the CPU? | Arithmetic Logic Unit (ALU), Control Unit (CU), Cache, and Registers
+What is the function of the Arithmetic Logic Unit (ALU)? | Performs arithmetic operations and logical decisions
+What is the function of the Control Unit (CU)? | Coordinates data movement around the CPU and decodes instructions fetched from memory
+What is the function of Cache? | Provides quick access to frequently used instructions and data
+Why does cache improve CPU performance? | It prevents the CPU from having to repeatedly fetch frequently used instructions from RAM
+What are Registers? | Extremely small, extremely fast memory located in the CPU, each with a specific purpose
+What is the Von Neumann Architecture? | A CPU design proposed in the 1940s that outlines how computer memory, input/output devices, and processor work together
+What are the 4 main registers in Von Neumann Architecture? | Program Counter (PC), Memory Address Register (MAR), Memory Data Register (MDR), and Accumulator (ACC)
+What is the function of the Program Counter (PC)? | Holds the memory address of the next instruction to be executed and increments by 1 as the fetch-decode-execute cycle runs
+What is the function of the Memory Address Register (MAR)? | Holds the memory address of where data or instructions are to be fetched from
+What is the function of the Memory Data Register (MDR)? | Stores the data or instruction which has been fetched from memory
+What is the function of the Accumulator (ACC)? | Stores the results of any calculations that have taken place in the ALU
+What are the 3 common characteristics of the CPU? | Clock Speed, Cache Size, and Number of Cores
+How is clock speed measured? | In Hertz (Hz)
+What does clock speed measure? | The number of fetch-decode-execute cycles that can take place in 1 second
+What does a clock speed of 3.5GHz mean? | The CPU can perform up to 3.5 billion instructions per second
+How does larger cache size improve CPU performance? | More frequently used instructions can be stored, reducing the need to fetch from RAM
+What is a multi-core processor? | A processor with multiple separate processing units that can fetch, decode, and execute instructions simultaneously
+How do multiple cores increase CPU performance? | Each core can process instructions independently, multiplying the total instructions processed per second
+What is an embedded system? | A computer system with a single function, inside a larger mechanical unit
+What are examples of embedded systems? | Heating thermostats, hospital equipment, washing machines, dishwashers, coffee machines, satellite navigation systems, factory equipment, traffic lights
+What are three properties of embedded systems? | Small size, use less power than general-purpose computers, and lower cost
