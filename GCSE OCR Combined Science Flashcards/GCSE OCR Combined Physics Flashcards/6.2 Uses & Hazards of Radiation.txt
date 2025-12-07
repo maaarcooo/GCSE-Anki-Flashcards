@@ -1,0 +1,28 @@
+What is contamination? | The unwanted presence of materials containing radioactive atoms on other materials.
+What makes a substance radioactive? | It contains radioactive atoms that emit radiation.
+How does contamination occur? | When a radioactive isotope gets onto a material where it should not be, often due to a radiation leak.
+Does contamination make a material radioactive? | Yes, the contaminated material becomes radioactive because it now contains radioactive atoms.
+What is irradiation? | The process of exposing a material to alpha, beta or gamma radiation.
+Does irradiation make a material radioactive? | No, irradiating a material does not make it radioactive.
+What can irradiation do to living cells? | It can kill living cells.
+How is irradiation used for surgical equipment? | Surgical equipment is irradiated before use to kill any micro-organisms on it.
+How is irradiation used for food? | Food can be irradiated to kill micro-organisms, making it last longer without going mouldy.
+What is the only way a material can become radioactive? | If the material becomes contaminated with radioactive atoms.
+Which is more dangerous, contamination or irradiation? | Contamination has the potential to cause far more harm due to continuous exposure to radiation.
+Why is contamination particularly dangerous inside the human body? | The internal organs will be irradiated as the radioactive source emits radiation as it moves through the body.
+What type of radiation exposure occurs with irradiation? | The object is exposed to radiation from outside but does not become radioactive.
+What type of radiation exposure occurs with contamination? | The object becomes radioactive and emits radiation itself.
+How is irradiation prevented? | By using shielding such as lead clothing.
+How is contamination prevented? | By safe handling of sources and airtight safety clothing.
+What causes irradiation? | The presence of radioactive sources outside the body.
+What causes contamination? | Inhalation or ingestion of radioactive sources.
+Why is it important to reduce exposure to radiation? | Radiation can mutate DNA in cells and cause cancer.
+What is shielding used for? | To absorb radiation.
+What do people use to reduce irradiation when working with radioactive materials? | Lead lined suits that absorb most of the radiation.
+What do people use to prevent contamination in areas with radiation leaks? | Airtight suits that prevent radioactive atoms from getting inside the person.
+What happened at Chernobyl in 1986? | An incident at the nuclear power plant caused an explosion, releasing large amounts of radioactive material.
+How large is the exclusion zone around Chernobyl? | Around 2,600 square kilometres.
+Why is there still an exclusion zone around Chernobyl? | The level of radiation in the area is still very high.
+What was Alexander Litvinenko contaminated with? | Polonium-210.
+How was polonium-210 used to poison Alexander Litvinenko? | It was secretly put into a cup of tea he was drinking.
+Is contamination usually intentional? | No, contamination is almost always a mistake or an accident.

@@ -1,0 +1,47 @@
+What three ways can forces change the shape of stationary objects? | Stretching, bending, and compressing
+What is compression? | Forces in opposite directions acting towards an object
+What is stretching? | Forces in opposite directions acting away from an object
+What is bending? | Forces acting towards each other but at different points on an object, or forces at an angle to each other
+How many forces are needed to change the shape of a stationary object? | More than one force
+What is elastic deformation? | When objects return to their original shape after the stretching force is removed
+What is plastic deformation? | When objects remain stretched and do not return to their original shape after the force is removed
+Give three examples of materials that undergo elastic deformation. | Rubber bands, fabrics, steel springs
+Give three examples of materials that undergo plastic deformation. | Plastic, clay, glass
+What does Hooke's Law state? | The extension of an elastic object is directly proportional to the force applied, up to the limit of proportionality
+What is the limit of proportionality? | The point beyond which force and extension are no longer directly proportional
+What is the equation for Hooke's Law? | F = k × x (Force = spring constant × extension)
+What are the units for force in Hooke's Law? | Newtons (N)
+What are the units for spring constant? | Newtons per metre (N/m)
+What are the units for extension in Hooke's Law? | Metres (m)
+What does the spring constant represent? | How stiff the spring is
+How does spring constant relate to stiffness? | The higher the spring constant, the higher the stiffness
+How do you calculate extension? | Final length − Original length
+What does a linear region on a force-extension graph indicate? | Force is proportional to extension and the spring obeys Hooke's Law
+What does a non-linear region on a force-extension graph indicate? | Force and extension are no longer directly proportional (beyond limit of proportionality)
+What is the spring constant equal to on a force-extension graph? | The gradient of the linear part of the graph
+What happens when work is done on a spring? | Energy is transferred to its elastic potential energy store
+What is elastic potential energy? | The energy stored in an elastic object when work is done on the object
+What is the equation for elastic potential energy? | Eₑ = ½ × k × e²
+What are the units for elastic potential energy? | Joules (J)
+When are work done and elastic potential energy equal? | When the spring has not exceeded its limit of proportionality
+If extension is doubled, what happens to work done? | It is quadrupled (×4)
+What is the purpose of investigating force and extension? | To investigate the relationship between force and extension for a spring
+What is the independent variable in the force-extension experiment? | Force (F)
+What is the dependent variable in the force-extension experiment? | Extension (x)
+What equipment is needed to investigate Hooke's Law? | Clamp and stand, ruler, spring, masses (5 × 100g), mass hanger, pointer/fiducial marker
+What is the resolution of the ruler? | 1 mm
+How do you calculate the force applied by a mass? | F = mg (mass × gravitational field strength)
+What value is used for gravitational field strength in calculations? | 10 N/kg
+What does a straight line through the origin on a force-extension graph show? | The force is proportional to extension
+What is parallax error? | Error caused by not reading measurements at eye level
+What is a fiducial marker? | A pointer used to measure extension more accurately
+Why should you wait after adding a mass? | To allow the spring to fully extend before taking the reading
+What safety equipment should be worn during the experiment? | Goggles (in case the spring snaps)
+Why place a mat below the masses? | To prevent damage if the masses fall
+Why use a G clamp? | To secure the clamp stand to the desk so it doesn't fall over
+What does "proportional" mean mathematically? | A straight line going through the origin
+What does "linear" mean mathematically? | A straight line (but not necessarily through the origin)
+What does "non-linear" mean? | A graph that is not a straight line (curved)
+What should you check to ensure Hooke's Law applies? | That the spring has not gone past its limit of proportionality
+Why repeat the experiment three times? | To calculate an average length and improve reliability
+What common mistake is made when calculating extension? | Calculating the increase in length each time instead of total extension from original length

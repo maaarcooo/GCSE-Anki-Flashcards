@@ -1,0 +1,46 @@
+What is wasted energy? | Energy that is not useful for the intended purpose and is dissipated to the surroundings.
+What does "dissipated" mean? | Spread out to the surroundings.
+What is useful energy? | Energy that is transferred from store to store and used for an intended purpose.
+What are the three common forms of wasted energy transfers? | Heating, light, and sound.
+How does friction cause energy waste? | It transfers energy from the kinetic store by heating to objects and surroundings.
+How can friction be reduced in machines? | By lubricating the parts that rub together.
+What is thermal conductivity? | The rate of energy transfer by conduction across a material.
+Do materials with high thermal conductivity heat up faster or slower? | Faster.
+What is fibreglass made of? | Woven material with glass fibres held together, with trapped air between fibres.
+Why is fibreglass a good insulator? | The trapped air has low thermal conductivity.
+What are two ways cavity wall insulation reduces heat loss? | It has lower thermal conductivity than wall material and increased thickness slows cooling rate.
+What is efficiency? | The ratio of useful energy output from a system to its total energy input.
+What is the formula for efficiency using energy? | Efficiency = useful output energy transfer / total input energy transfer
+What is the formula for efficiency using power? | Efficiency = useful power output / total power input
+Can efficiency be greater than 1 or 100%? | No, it is always between 0-1 (or 0-100%).
+Does efficiency have units? | No, efficiency has no units.
+How do you convert efficiency from decimal to percentage? | Multiply by 100.
+What are four causes of energy waste in machines? (Higher Tier) | Friction, air resistance, electrical resistance, and noise.
+How can bearings improve efficiency? (Higher Tier) | They prevent components from directly rubbing together, reducing friction.
+How can electrical resistance be reduced? (Higher Tier) | Use components with lower resistance or reduce the current.
+How can air resistance be reduced? (Higher Tier) | By streamlining the shapes of moving objects.
+How does noise waste energy? (Higher Tier) | Sound waves cause air particles to vibrate, transferring energy by heating to surroundings.
+How can noise be reduced in machinery? (Higher Tier) | Tighten loose parts to reduce vibration and lubricate parts.
+What two factors does energy transferred by an appliance depend on? | How long it's switched on and its power rating.
+What does the power rating of an appliance measure? | The energy transferred per unit time (per second).
+A 2000 W kettle transfers how much energy per second? | 2000 J per second.
+What three things are shown on an appliance power label? | Potential difference required, frequency of supply, and power rating in watts.
+In an electric heater, what is the useful energy transfer? | From thermal store of heating element to thermal store of air in room by heating.
+In an electric heater, what is the wasted energy transfer? | Energy dissipated to surroundings by radiation (light).
+In an electric motor lifting a load, what is the useful energy transfer? | From kinetic store of motor to gravitational potential store of load.
+In an electric motor, what causes wasted energy? | Friction causes temperature rise, transferring energy to thermal store of surroundings.
+In a filament bulb, what is the useful energy transfer? | From thermal store of filament wire to surroundings by radiation as visible light.
+In a filament bulb, what is the main wasted energy transfer? | Energy transferred by heating to surroundings (most energy is heat, not light).
+In an electric kettle, what is the useful energy transfer? | From thermal store of heating element to thermal store of water by heating.
+What are three wasted energy transfers in an electric kettle? | To kettle casing, to surroundings from casing, and to surroundings as water evaporates.
+Name three appliances that use electric motors. | Vacuum cleaners, washing machines, and refrigerators.
+What happens if you plug an appliance into a mains voltage much higher than stated? | It could fuse, set fire, or become damaged.
+In the insulation experiment, what is the independent variable? | Type of material.
+In the insulation experiment, what is the dependent variable? | Temperature in °C.
+In the insulation experiment, what are three control variables? | Volume of water, starting temperature, and thickness of material.
+In the insulation experiment, how often should temperature be recorded? | Every 2 minutes for 20 minutes or until water reaches room temperature.
+In the insulation experiment graph, which curve shows the best insulator? | The shallowest curve (takes longest for temperature to drop).
+Why does temperature fall faster at high temperatures in the insulation experiment? | Greater temperature difference creates higher rate of energy transfer.
+What is one systematic error in the insulation experiment? | Heat escapes through sides of beaker (only top is covered).
+What is one random error in the insulation experiment? | Heat escapes through the thermometer hole if it's too big.
+What safety precaution should be taken with hot water in the insulation experiment? | Don't touch hot water directly; run burns under cold water for at least 5 minutes.

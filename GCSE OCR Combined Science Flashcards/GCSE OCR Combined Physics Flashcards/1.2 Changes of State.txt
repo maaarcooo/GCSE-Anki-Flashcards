@@ -1,0 +1,48 @@
+What are the six changes of state between solids, liquids and gases? | Melting (solid→liquid), Freezing (liquid→solid), Evaporating (liquid→gas), Condensing (gas→liquid), Subliming (solid→gas), Desubliming (gas→solid)
+What is conservation of mass during a change of state? | The number of molecules doesn't change during a change of state, so mass stays the same
+Does internal energy change during a change of state? | Yes, internal energy increases with temperature increase (from solid to gas)
+Are changes of state physical or chemical changes? | Physical changes - they are usually reversible
+How are molecules arranged in a solid? | Very close together in a regular pattern, vibrating about fixed positions
+How are molecules arranged in a liquid? | Close together (no gaps) but not in a regular pattern, able to slide past each other
+How are molecules arranged in a gas? | Widely separated (about 10 times further apart), moving randomly at high speeds
+What is internal energy? | The total energy stored inside a system by particles due to their motion (kinetic energy) and positions (potential energy)
+What two forms of energy make up internal energy? | Kinetic energy (due to motion/vibration) and potential energy (due to position relative to each other)
+How does heating affect internal energy? | Heating increases internal energy by increasing the kinetic energy of particles
+What is temperature related to? | The average kinetic energy of molecules
+What happens when kinetic energy of molecules increases? | Temperature increases and molecules move faster
+What can increased internal energy cause? | Either temperature increase OR a change of state
+During a change of state, what happens to kinetic energy? | Kinetic energy remains the same (temperature stays constant)
+During a change of state, what happens to potential energy? | Potential energy increases, breaking bonds between molecules so they move further apart
+What is specific heat capacity? | The amount of energy required to raise the temperature of 1 kg of a substance by 1°C
+What does low specific heat capacity mean? | The substance heats up and cools down quickly (takes less energy to change temperature)
+What does high specific heat capacity mean? | The substance heats up and cools down slowly (takes more energy to change temperature)
+What is the specific heat capacity of water? | 4200 J/kg°C
+What is the equation for change in thermal energy? | ΔQ = mcΔθ where ΔQ = change in thermal energy, m = mass, c = specific heat capacity, Δθ = temperature change
+What are the units for specific heat capacity? | J/kg°C (joules per kilogram per degree Celsius)
+What is specific latent heat? | The amount of thermal energy required to change the state of 1 kg of a substance with no change in temperature
+What are the two types of specific latent heat? | Specific latent heat of fusion (solid↔liquid) and specific latent heat of vaporisation (liquid↔gas)
+What are the units for latent heat? | J/kg (joules per kilogram)
+What is specific latent heat of fusion? | The thermal energy required to convert 1 kg of solid to liquid with no change in temperature
+What is specific latent heat of vaporisation? | The thermal energy required to convert 1 kg of liquid to gas with no change in temperature
+What is the equation for thermal energy during a change of state? | Q = mL where Q = thermal energy, m = mass, L = specific latent heat
+What is the specific latent heat of fusion for water? | 330 kJ/kg
+What is the specific latent heat of vaporisation for water? | 2.26 MJ/kg
+How much more energy does evaporating water require compared to melting ice? | About seven times more energy
+When is specific heat capacity used? | For a change in temperature in the same state
+When is specific latent heat used? | For a change in state but no change in temperature
+Why does temperature remain constant during melting? | Energy is being used to break bonds between molecules (increase potential energy), not to increase kinetic energy
+What happens to bonds during a change of state? | Bonds between molecules break, allowing them to move further apart
+On a heating curve, what do flat sections represent? | Changes of state where temperature remains constant
+On a heating curve, what do sloped sections represent? | Temperature increase while substance remains in same state (kinetic energy increasing)
+What energy is the latent heat of fusion used for? | Breaking bonds between solid molecules during melting
+What energy is the latent heat of vaporisation used for? | Breaking bonds so liquid particles can separate into gas
+In Experiment 1, what is measured to find specific heat capacity of water? | Mass of water, voltage, current, temperature change, and time
+How is energy supplied calculated in the water experiment? | Electrical energy (J) = voltage (V) × current (A) × time (s)
+What does the gradient of energy vs (mass × temperature change) represent? | The specific heat capacity of water
+What should be plotted on a heating curve for ice? | Temperature (y-axis) against time (x-axis)
+What should happen to temperature while ice is melting? | Temperature should remain constant at 0°C
+Why must the immersion heater be handled carefully? | It gets very hot during the experiment
+Why should you stir ice water constantly when heating? | To ensure even heating and accurate temperature measurements
+What systematic error must be avoided with the digital balance? | Ensure it is set to zero before taking mass measurements
+Why might specific heat capacity values be larger than expected? | If the immersion heater efficiency is less than 1 (some energy lost)
+Where should gradients be taken on a heating curve? | Only in the straight-line region, after the heater itself has warmed up

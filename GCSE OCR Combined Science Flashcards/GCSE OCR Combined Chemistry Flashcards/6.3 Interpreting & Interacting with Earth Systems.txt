@@ -1,0 +1,62 @@
+What was the surface of early Earth like for millions of years? | Molten, with no atmosphere surrounding the planet.
+How did Earth's early atmosphere form? | Volcanoes released gases from Earth's interior through violent eruptions. Earth's gravity prevented gases from escaping into space.
+What was the composition of Earth's early atmosphere? | Mainly carbon dioxide (CO₂) and water vapour, with little or no oxygen. Also nitrogen, hydrogen, ammonia, and methane.
+Which planets today have atmospheres similar to early Earth? | Venus and Mars (mainly CO₂).
+What happened to water vapour as Earth cooled? | It condensed and fell to the surface, forming the oceans.
+Why did CO₂ levels decrease in early Earth's atmosphere? | CO₂ dissolved in the oceans (it is water soluble) and carbonate substances precipitated, forming sediments.
+How did oxygen levels increase in Earth's atmosphere? | Primitive plants and algae began photosynthesising, using CO₂ and releasing oxygen.
+What is the word equation for photosynthesis? | Carbon dioxide + water → glucose + oxygen (in the presence of light and chlorophyll).
+When did algae first evolve? | Around 2.7 billion years ago.
+What is the current composition of Earth's atmosphere? | Around 20% oxygen, 80% nitrogen, and tiny amounts of other gases.
+What percentage of atmospheric oxygen is produced by marine algae? | About 90%.
+What happens to shortwave radiation from the sun when it strikes Earth? | It is absorbed and re-emitted from Earth's surface as infrared radiation.
+What are greenhouse gases? | Gases that can absorb and store energy, trapping heat in Earth's atmosphere (e.g., carbon dioxide, methane, water vapour).
+What is the enhanced greenhouse effect? | Increasing levels of greenhouse gases trapping extra heat energy, causing significant upset to Earth's natural conditions.
+What is the difference between the greenhouse effect and enhanced greenhouse effect? | The greenhouse effect maintains Earth's temperature around 15°C. The enhanced greenhouse effect, due to increased greenhouse gas concentrations, leads to global warming.
+What are the sources of carbon dioxide? | Combustion of wood and fossil fuels, respiration, thermal decomposition of carbonate rocks, and acids reacting with carbonates.
+What are the sources of methane? | Digestive processes of animals, decomposition of vegetation, bacterial action in swamps and rice paddy fields.
+Why is CO₂ increasing in the atmosphere? | Burning fossil fuels releases CO₂, and deforestation reduces the number of plants removing CO₂ through photosynthesis.
+What is the general equation for burning fossil fuels? | Fossil fuel + oxygen → energy + H₂O + CO₂
+What is the photosynthesis equation for removing CO₂? | 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
+Why does increased industrialisation increase methane? | More waste creates more landfill sites where decomposition produces methane.
+Why does deforestation increase atmospheric CO₂? | Fewer plants are available to remove CO₂ during photosynthesis.
+What correlation exists between CO₂ and global temperature? | There is a clear correlation - as CO₂ increases, global temperature increases.
+Why is historical climate data less accurate? | Lack of accurate instrumentation and methods, fewer measurement locations, and no satellites or easy transport.
+What methods estimate past climate conditions? | Analysis of fossil records, tree rings, and gas bubbles trapped in ice.
+What percentage of climate scientists believe human activity causes climate change? | About 97%.
+What is climate change? | A long-term shift in worldwide weather patterns and conditions.
+How does climate change cause rising sea levels? | Melting of polar ice caps and glaciers.
+What are the effects of rising sea levels? | Coastal erosion, flooding of wetlands, habitat destruction, flooding of low-lying cities, and increased soil salinity.
+What are the effects of frequent and intense droughts? | Crop failure, collapse of agricultural production, food shortages, hardship, and starvation.
+How does climate change affect storms? | Warmer ocean surfaces mean more moisture enters the atmosphere, making storms and hurricanes more energetic and destructive.
+What are climate mitigation strategies? | Adapting to changing climate rather than trying to change it (e.g., changing crops grown, flood defences, heat sinks in buildings).
+What is the major source of atmospheric pollution? | Combustion of fossil fuels.
+What are examples of fossil fuels? | Coal, oil, natural gas, oil shales, and tar sands.
+What is natural gas mainly composed of? | Methane (CH₄).
+What pollutants are released when burning fossil fuels? | Carbon dioxide, carbon monoxide, oxides of nitrogen, oxides of sulfur, unburned hydrocarbons, and carbon particulates.
+When does complete combustion occur? | When there is excess oxygen present.
+What are the products of complete combustion of hydrocarbons? | Water (H₂O) and carbon dioxide (CO₂).
+What is the complete combustion equation for propane? | C₃H₈ + 5O₂ → 3CO₂ + 4H₂O
+When does incomplete combustion occur? | When there is insufficient oxygen.
+What are the products of incomplete combustion? | Unburnt fuel (soot), carbon monoxide (CO), and water (H₂O).
+What are incomplete combustion equations for methane? | 2CH₄ + 3O₂ → 2CO + 4H₂O or CH₄ + O₂ → C + 2H₂O
+Why is carbon monoxide dangerous? | It is extremely poisonous, colourless, and odourless. It combines with haemoglobin and prevents it from carrying oxygen, potentially causing death.
+What problems does soot cause? | Respiratory problems, makes buildings look unclean, accelerates corrosion, and blackens statues.
+What is sulfur dioxide responsible for? | Acid rain.
+How does sulfur dioxide form acid rain? | SO₂ dissolves in rainwater, forming an acidic solution (it is a non-metal oxide).
+What damage does acid rain cause? | Corrosion to metal structures and carbonate rocks, damage to aquatic organisms, polluted crops and water, irritation to lungs, throats, and eyes.
+Where do oxides of nitrogen come from? | Largely from vehicle exhausts.
+What problems do oxides of nitrogen cause? | Contribute to acid rain, produce photochemical smog, and cause breathing difficulties (especially for asthmatics).
+What is potable water? | Water that has been processed and is safe for human consumption and daily use.
+What is the difference between pure water and potable water? | Pure water contains only H₂O molecules; potable water may contain dissolved minerals and salts in small quantities.
+What characteristics should potable water have? | pH between 6.5-8.5, very small quantities of dissolved substances, free of bacteria or harmful microbes.
+What is fresh water? | Water relatively free from dissolved substances (e.g., rainwater).
+What is surface water? | Water collected in reservoirs, lakes, and rivers.
+What is groundwater? | Water stored underground in aquifers (porous rocks).
+What are the two important steps in water treatment? | Filtration (removing debris) and sterilisation (removing bacteria/microbes).
+How is water filtered? | Wire mesh screens remove large debris, then sand beds and gravel filter smaller particles.
+How is water sterilised? | Using ultraviolet light, ozone, or by bubbling chlorine gas through the water.
+What is desalination? | Treatment of seawater to remove salt by distillation or reverse osmosis.
+How does reverse osmosis work? | Salt water passes through a semi-permeable membrane that only allows water molecules through, stopping larger molecules and ions.
+Why is desalination expensive? | It consumes large amounts of energy.
+Where is desalination commonly used? | In regions with very hot climates like Saudi Arabia.

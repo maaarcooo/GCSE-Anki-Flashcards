@@ -1,0 +1,58 @@
+What is electrolysis? | The breakdown of an ionic compound when an electric current is passed through it (molten or in solution).
+What is an electrolyte? | A liquid or solution that can conduct electricity (ionic compound molten or dissolved).
+Why can't covalent compounds undergo electrolysis? | They cannot conduct electricity.
+What is an electrode? | A rod of metal or graphite through which electric current flows into or out of an electrolyte.
+What is the anode? | The positive electrode in electrolysis.
+What is the cathode? | The negative electrode in electrolysis.
+What is a cation? | A positively charged ion attracted to the cathode.
+What is an anion? | A negatively charged ion attracted to the anode.
+What mnemonic helps remember which electrode is positive/negative? | PANIC - Positive Anode Negative Is Cathode.
+Why can't solid ionic compounds conduct electricity? | Ions are in fixed positions and cannot move to carry charge.
+When can ionic compounds conduct electricity? | When molten or dissolved in solution (ions can move freely).
+Which direction do electrons flow during electrolysis? | From anode to cathode (alphabetical order).
+Which direction do positive ions move during electrolysis? | Towards the cathode (negative electrode).
+Which direction do negative ions move during electrolysis? | Towards the anode (positive electrode).
+What is a binary ionic compound? | A compound with just two elements joined by ionic bonding.
+What products form from electrolysis of binary molten compounds? | The metal at the cathode and the non-metal at the anode.
+What product always forms at the cathode in molten binary compounds? | The metal.
+What product always forms at the anode in molten binary compounds? | The non-metal.
+Why must electrodes be inert? | So they don't participate in side reactions with the electrolyte.
+What are common inert electrode materials? | Graphite or platinum.
+What ions do water molecules produce during electrolysis? | H⁺ and OH⁻ ions.
+What determines which ions are discharged in aqueous solutions? | Relative reactivity of the elements involved.
+At the anode, which ions are discharged if halides are present? | Halide ions (Cl⁻, Br⁻, I⁻) are discharged to form halogens.
+At the anode, what is discharged if no halides are present? | OH⁻ ions are discharged to form oxygen gas.
+At the cathode, when is hydrogen produced instead of the metal? | When the metal is above hydrogen in the reactivity series.
+At the cathode, when is the metal produced? | When the metal is below hydrogen in the reactivity series (less reactive than hydrogen).
+Which ion is more likely to be discharged - concentrated or dilute? | The more concentrated ion.
+What is oxidation in terms of electrons? | Loss of electrons.
+What is reduction in terms of electrons? | Gain of electrons.
+What happens at the anode in terms of oxidation/reduction? | Oxidation - negative ions lose electrons.
+What happens at the cathode in terms of oxidation/reduction? | Reduction - positive ions gain electrons.
+What is electroplating? | Coating metals in a thin layer of a different metal using electrolysis.
+In electroplating, what is the cathode? | The object you want to coat.
+In electroplating, what is the anode? | The metal you want to coat with.
+In electroplating, what is the electrolyte? | A solution containing ions of the coating metal.
+In purifying copper, what is the anode made of? | Impure copper ore.
+In purifying copper, what is the cathode made of? | Pure copper.
+In purifying copper, what is the electrolyte? | Copper(II) sulfate solution.
+In purifying copper, what happens to the anode? | It decreases in mass as copper atoms lose electrons; impurities collect underneath.
+In purifying copper, what happens to the cathode? | It increases in mass as copper ions gain electrons and form copper atoms.
+What is the key difference between inert and non-inert electrodes? | Non-inert electrodes take part in the process; inert ones don't.
+[Higher Tier] What is a half equation? | An equation showing oxidation or reduction at one electrode, including electron transfer.
+[Higher Tier] Half equation for lead ions at cathode (from PbBr₂)? | Pb²⁺ + 2e⁻ → Pb
+[Higher Tier] Half equation for bromide ions at anode (from PbBr₂)? | 2Br⁻ → Br₂ + 2e⁻
+[Higher Tier] Half equation for aluminium ions at cathode (from Al₂O₃)? | Al³⁺ + 3e⁻ → Al
+[Higher Tier] Half equation for oxide ions at anode (from Al₂O₃)? | 2O²⁻ → O₂ + 4e⁻
+[Higher Tier] Half equation for copper ions at cathode (aqueous)? | Cu²⁺ + 2e⁻ → Cu
+[Higher Tier] Half equation for chloride ions at anode (concentrated)? | 2Cl⁻ → Cl₂ + 2e⁻
+[Higher Tier] Half equation for hydrogen ions at cathode (aqueous)? | 2H⁺ + 2e⁻ → H₂
+[Higher Tier] Half equation for hydroxide ions at anode (dilute)? | 4OH⁻ → O₂ + 2H₂O + 4e⁻
+[Higher Tier] What must be balanced in half equations? | Number of atoms/ions AND charges on each side.
+[Higher Tier] Half equation for copper at anode during purification? | Cu → Cu²⁺ + 2e⁻
+[Higher Tier] Half equation for copper at cathode during purification? | Cu²⁺ + 2e⁻ → Cu
+What product forms at the cathode from concentrated NaCl solution? | Hydrogen gas.
+What product forms at the anode from concentrated NaCl solution? | Chlorine gas.
+What product forms at the anode from dilute NaCl solution? | Oxygen gas.
+What product forms at the cathode from concentrated CuSO₄ solution? | Copper metal (copper is less reactive than hydrogen).
+What product forms at the anode from dilute H₂SO₄? | Oxygen gas.

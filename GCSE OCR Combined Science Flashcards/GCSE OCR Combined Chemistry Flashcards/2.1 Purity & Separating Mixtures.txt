@@ -1,0 +1,45 @@
+What is a pure substance in chemistry? | A single element or compound that contains no other substances.
+What is a mixture? | Two or more elements or compounds physically mixed together but not chemically combined.
+How do pure substances differ from mixtures in terms of melting points? | Pure substances melt at specific and sharp temperatures; mixtures have a range of melting points.
+Why do impurities lower and broaden the melting point range? | Different substances in the mixture have different melting points, causing a gradual temperature change during melting.
+What does a horizontal plateau on a cooling curve indicate? | The substance is pure and has a sharp melting point.
+How does an impure substance appear on a cooling curve? | It shows a gradual decrease in temperature as it freezes, not a flat plateau.
+What is the formula for percentage change? | Percentage change = (final value - original value) / original value × 100
+What is relative atomic mass (Ar)? | The average mass of atoms of an element measured relative to carbon-12.
+What is relative formula mass (Mr)? | The total mass of a molecule calculated by adding up the relative atomic masses of all atoms present.
+How do you calculate Mr for water (H₂O)? | (2 × 1) + 16 = 18
+What is an empirical formula? | The simplest whole number ratio of atoms of each element in a molecule.
+What is the empirical formula of hexane (C₆H₁₄)? | C₃H₇ (dividing both by 2)
+How do you find the empirical formula of an ionic compound from a lattice structure? | Identify the ions, write them down, and balance the charges so overall charge is zero.
+What is the formula for percentage by mass of an element? | % mass = (Ar × number of atoms of element) / Mr of compound × 100
+What is an alloy? | A mixture of metals, or a metal mixed with other elements.
+Why are alloys harder than pure metals? | Different sized atoms distort the regular arrangement, making layers harder to slide over each other.
+What is a formulation? | A mixture designed as a useful product, made by following an exact recipe.
+Give three examples of formulations. | Paint, medicines, and food.
+What separation technique removes an undissolved solid from a liquid? | Filtration (or centrifugation).
+What is the filtrate in filtration? | The liquid that passes through the filter paper.
+What is the residue in filtration? | The solid particles that are too large to pass through the filter paper.
+What is crystallisation used for? | Separating a dissolved solid from a solution when the solid is much more soluble in hot solvent than cold.
+How do you test if a solution is saturated during crystallisation? | Dip a clean, dry, cold glass rod into the solution; if crystals form on the rod, it's saturated.
+What is simple distillation used for? | Separating a liquid and soluble solid from a solution, or a pure liquid from a mixture of liquids.
+What happens in the condenser during distillation? | Vapour cools and condenses, turning into pure liquid.
+What is fractional distillation used for? | Separating two or more miscible liquids with different boiling points.
+What is the purpose of the fractionating column? | Glass beads increase surface area so substances with higher boiling points condense, allowing lower boiling point substances to evaporate.
+At what temperature would you collect ethanol from an ethanol-water mixture? | 78°C (ethanol's boiling point).
+What two techniques would you use to separate rock salt (sand, salt, and water)? | Filtration to remove sand, then crystallisation to separate salt from water.
+What is chromatography used for? | Separating substances and providing information to help identify them.
+Why is pencil used to draw the baseline in paper chromatography? | Ink would run into the chromatogram along with the samples.
+What is the mobile phase in paper chromatography? | The solvent in which sample molecules can move (e.g., water or ethanol).
+What is the stationary phase in paper chromatography? | The chromatography paper itself.
+Why do substances separate in chromatography? | Different substances have different solubilities and travel at different rates.
+What is the stationary phase in thin-layer chromatography (TLC)? | A thin layer of an inert substance (e.g., silica) on a flat, unreactive surface.
+What is the Rf value? | Retention factor = distance moved by compound ÷ distance moved by solvent.
+Does the Rf value have units? | No, it is a ratio.
+What does one spot on a chromatogram indicate? | The substance is pure.
+What does more than one spot on a chromatogram indicate? | The substance is a mixture (impure).
+What is the mobile phase in gas chromatography? | An unreactive carrier gas (e.g., nitrogen).
+What is the stationary phase in gas chromatography? | A thin layer of an unreactive liquid (e.g., silica or aluminium powder).
+What does the number of peaks on a gas chromatogram tell you? | The number of compounds in the mixture.
+What does the height of a peak on a gas chromatogram indicate? | How much of each compound is present (higher peak = more compound).
+What does the position of a peak on a gas chromatogram show? | The retention time (how long it took to move through the column).
+Which compound has the strongest interaction with the stationary phase in gas chromatography? | The one with the largest retention time (furthest peak).

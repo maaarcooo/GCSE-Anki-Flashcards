@@ -1,0 +1,56 @@
+What is intraspecific variation? | Variation within populations of the same species.
+What causes intraspecific variation? | Different alleles found in the population that originated from mutations of an ancestral gene.
+What are mutations? | Rare, random changes that occur continuously in the sequence of DNA bases in a gene or chromosome.
+What do most mutations do to proteins? | Most mutations do not alter the protein or only alter it slightly so its appearance or function is not changed.
+How can mutations affect enzyme function? | If the shape of the active site on an enzyme changes, the substrate may no longer be able to bind to the active site.
+What can happen when a mutation produces a new allele? | On rare occasions, the new allele gives the individual a survival advantage over other members of the species.
+What can increase the frequency of mutations? | Gamma rays, x-rays, ultraviolet rays (ionising radiation) and certain types of chemicals (e.g. tar in tobacco).
+Why are increased mutation rates linked to cancer? | Increased rates of mutation can cause cells to become cancerous.
+What is natural selection? | The process where individuals with characteristics most suited to the environment have a higher chance of survival and reproduction.
+What causes the range of variation in a species? | A variety of alleles formed by mutation.
+Why do organisms compete for survival? | They produce more offspring than the environment is able to support, leading to competition for food and other resources.
+What happens to alleles of individuals best suited to survive? | The alleles are passed to their offspring at a higher rate than those with characteristics less suited to survival.
+Who developed the theory of natural selection? | Charles Darwin.
+What is Darwin's theory also known as? | Survival of the fittest.
+What is evolution? | The change in adaptive features of a population over time as a result of natural selection.
+What happens when the environment changes? | Selection might favour individuals with different characteristics or with new alleles.
+What happens if two populations evolve to be too different? | They can no longer interbreed to produce fertile offspring, forming two new species.
+What are fossils? | Preserved remains of organisms or other features left by organisms, such as footprints, burrows and faeces.
+How can fossils be dated? | Fossils and the rocks they are found in can be chemically dated.
+What do fossils show about life forms? | Evidence for the gradual change from simple life forms to more complex life forms.
+What are hominids? | Humans and their ancestors.
+Who was Ardi? | A female fossil hominid of the species Ardipithecus ramidus, found in Ethiopia, 4.4 million years old.
+What features did Ardi have? | Mixture of ape and human features - climbed trees, had short legs but long arms, chimp-sized brain, but walked upright.
+Who was Lucy? | A fossil hominid of the species Australopithecus afarensis, found in Ethiopia, 3.2 million years old.
+What features did Lucy have? | More human-like than Ardi - arched feet, no ape-like big toe, slightly larger brain, walked upright more efficiently.
+Who was Turkana Boy? | A male hominid fossil of the species Homo erectus, found in Kenya by Richard Leakey in 1984, 1.6 million years old.
+What features did Turkana Boy have? | Even more human-like than Lucy - legs and arms closer to human proportions, much larger brain (similar to human), walked upright very efficiently.
+What is an antibiotic? | A chemical that can kill or inhibit the growth and reproduction of bacteria.
+How quickly do bacteria reproduce? | On average, every 20 minutes.
+How does antibiotic resistance evolve? | A chance mutation causes some bacteria to become resistant; when treated with antibiotic, resistant bacteria survive and reproduce; genes for resistance are passed on at higher frequency.
+What did Charles Darwin do? | Spent five years on HMS Beagle studying plants and animals around the world and developed the theory of evolution by natural selection.
+Who was Alfred Russel Wallace? | A scientist who independently developed his own theory of evolution based on natural selection.
+When did Wallace publish with Darwin? | They published scientific papers together in 1858.
+What is Wallace best known for? | His work studying warning colouration in species (particularly butterflies) and developing the theory of speciation.
+How has evolution theory impacted classification? | Modern biologists now classify species based on how closely related they are to each other.
+How has evolution theory impacted biodiversity conservation? | Led to the realisation that conserving genetic diversity is very important to help species adapt to changing environments.
+What are seed banks used for? | Storing biodiversity of plant species - seeds can be used to grow new plants if wild plants become extinct.
+How long can seeds remain dormant? | Thousands of years as long as conditions promote dormancy.
+What is artificial classification? | Classification using comparisons of observable and non-evolutionary features to group organisms.
+What is natural classification? | Classification based on evolutionary relationships between organisms using information about common ancestors and common structural features.
+Who developed the natural classification system? | Swedish naturalist Linnaeus.
+What is the binomial system? | A naming system where the scientific name has two parts: genus (capital letter) and species (lower case letter).
+How should binomial names be typed? | Always in italics (indicating Latin), e.g. Homo sapiens.
+What is the sequence of classification? | Kingdom, Phylum, Class, Order, Family, Genus, Species.
+What is molecular phylogeny? | Classification based on DNA sequence similarities.
+How do DNA sequences show relationships? | The more similar the base sequences in the DNA of two species, the more closely related they are.
+What else can be compared besides DNA? | Similarities in amino acid sequences in proteins can also determine how closely related organisms are.
+What features can mutations affect in structural proteins? | A structural protein like collagen may lose its strength if its shape changes.
+What is an example of beneficial mutation? | A bird develops a mutation changing feather colours, making it more attractive and breeding more frequently.
+What is an example of harmful mutation? | Sickle cell anaemia in humans.
+What did Darwin observe during his voyage? | Variation in members of the same species and that individuals with characteristics most suited to their environment were more likely to survive and reproduce.
+What book did Darwin publish? | On the Origin of Species (published in 1859, one year after publishing papers with Wallace).
+What advantage do seed banks provide? | Seeds can be selected for particular advantageous characteristics like pest resistance or drought resistance.
+What methods were originally used for classification? | Morphology (overall form and shape) and anatomy (detailed body structure determined by dissection).
+What technological advances improved classification? | Microscopes, knowledge of biochemistry, and DNA sequencing allowed a more scientific approach.
+What is the mnemonic for classification order? | King Philip Came Over For Gran's Spaghetti (Kingdom, Phylum, Class, Order, Family, Genus, Species).

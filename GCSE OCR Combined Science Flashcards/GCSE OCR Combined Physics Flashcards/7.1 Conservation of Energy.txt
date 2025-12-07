@@ -1,0 +1,42 @@
+What does the law of conservation of energy state? | Energy cannot be created or destroyed, it can only be transferred from one store to another.
+In a closed system, what happens to the total amount of energy? | The total amount of energy remains constant.
+What is dissipated energy? | Energy that is spread out to the surroundings by heating and radiation, often described as wasted energy.
+What are the three types of thermodynamic systems? | Open (exchanges energy and matter), closed (exchanges energy only), and isolated (exchanges neither).
+When a bat hits a ball, what useful energy transfer occurs? | Energy transfers from the kinetic store of the bat to the kinetic store of the ball.
+When boiling water in a kettle, where does energy transfer from? | From the mains supply electrically to the thermal store of the heating element, then by heating to the water's thermal store.
+In a trampoline jump, what is the sequence of useful energy transfers? | Elastic potential energy → kinetic energy → gravitational potential energy.
+What is specific heat capacity? | The amount of energy required to raise the temperature of 1 kg of a substance by 1°C.
+What is the equation for mechanical work done? | W = F × s (work = force × distance)
+What is the equation for kinetic energy? | E = ½mv² (where m = mass, v = speed)
+What is the equation for gravitational potential energy? | E = mgh (where m = mass, g = gravitational field strength, h = height)
+What is the equation for elastic potential energy? | Eₑ = ½kx² (where k = spring constant, x = extension)
+What is the equation for electrical energy transferred? | E = P × t or E = I × V × t (where P = power, I = current, V = voltage, t = time)
+What is the equation for thermal energy change? | ΔE = mcΔθ (where m = mass, c = specific heat capacity, Δθ = temperature change)
+What is a kilowatt-hour? | A unit of energy equal to 1 kW of power sustained for 1 hour.
+How do you convert joules to kilowatt-hours? | Divide joules by 3.6 × 10⁶
+How do you convert kilowatt-hours to joules? | Multiply kW h by 3.6 × 10⁶
+When an object is projected upwards, what energy transfer occurs? | Energy transfers from the kinetic store to the gravitational potential store as height increases.
+When a moving car hits a wall, where does the kinetic energy go? | Mostly to the thermal store of the surroundings (dissipated), the wall, and sound waves.
+When a vehicle accelerates, what is the energy transfer? | Energy transfers from the chemical store of fuel to the kinetic store of the vehicle.
+When a vehicle slows down, where does energy transfer to? | To the thermal store of the surroundings via friction (tyres/ground, brakes/pads) and sound.
+What is kinetic energy? | The amount of energy an object has as a result of its mass and speed.
+What is gravitational potential energy? | The energy an object has due to its height in a gravitational field.
+What is elastic potential energy? | The energy stored in an elastic object when work is done on the object (stretching, bending, or compressing).
+At what point does a vertical spring have maximum elastic potential energy? | At maximum extension or compression.
+At what point does a vertical spring have maximum kinetic energy? | When passing through its resting position at maximum speed.
+When does an object have maximum gravitational potential energy? | When it is at its highest point.
+What happens to energy when a spring is stretched beyond its limit of proportionality? | The elastic potential energy equation (½kx²) no longer applies accurately.
+In a closed system, what must be equal? | Total energy transferred into the system must equal total energy transferred out.
+What is mechanical work? | Work done when a force acts over a distance.
+When pushing a box across a floor, what energy transfer occurs? | Energy transfers mechanically from the kinetic store of the person to the kinetic store of the box.
+What additional energy transfers occur when pushing a box on a floor? | Energy transfers by heating to the thermal store of the floor (friction) and surroundings (sound).
+What is electrical work done by a power supply? | Energy transferred electrically from the power supply to components when current flows.
+In a circuit with a lamp, what energy transfers occur? | Chemical store of cell → electrical transfer → thermal store of lamp → heating and radiation to surroundings.
+What equation links energy, charge and voltage? | E = Q × V (where Q = charge in coulombs, V = potential difference in volts)
+What is the relationship between power, current and voltage? | P = IV (power = current × voltage)
+What units are used for the kilowatt-hour equation? | Energy in kW h = Power in kW × Time in hours
+How many joules equal 1 kW h? | 3.6 × 10⁶ J
+What is the value of gravitational field strength on Earth? | 10 N/kg (or 9.8 N/kg for more precise calculations)
+What does the spring constant represent? | The stiffness of a spring, measured in N/m (newtons per metre).
+When energy is transferred "by heating", what happens? | Energy increases the kinetic store of particles, raising temperature or causing a change of state.
+What are the units for specific heat capacity? | J/kg°C (joules per kilogram per degree Celsius)

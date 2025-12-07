@@ -1,0 +1,79 @@
+What is the radius of an atom? | About 1 × 10⁻¹⁰ metres
+What particles are found in the nucleus? | Protons and neutrons only
+What is the charge of the nucleus? | Positive (because protons are positive and neutrons are neutral)
+What determines which element an atom is? | The number of protons in the nucleus
+How does the radius of the nucleus compare to the atom? | The nucleus radius is about 10,000 times smaller than the atom
+Where is virtually all the atom's mass concentrated? | Inside the nucleus
+What are energy levels? | Particular distances from the nucleus where electrons orbit
+What happens when an electron moves from a lower to higher energy level? | It absorbs electromagnetic radiation (excitation)
+What happens when an electron moves from a higher to lower energy level? | It emits electromagnetic radiation (de-excitation)
+What is ionisation? | When an atom gains or loses an electron from the outer energy level
+What is an ion? | An atom or particle with a non-zero charge
+How are positive ions formed? | When electrons are knocked out from an atom
+How are negative ions formed? | When the outer shell of an atom gains an electron
+What happens when electrons absorb electromagnetic radiation? | They move to a higher energy level
+Why do dark coloured objects appear dark? | They are good absorbers of radiation and do not reflect the energy that hits them
+What happens to an electron after it has moved up an energy level? | It becomes unstable and eventually moves back down, emitting electromagnetic radiation
+How are colours in the visible spectrum produced? | From electrons moving down energy levels and emitting electromagnetic radiation
+What is the relative mass of a proton? | 1
+What is the relative charge of a proton? | +1
+What is the relative mass of a neutron? | 1
+What is the relative charge of a neutron? | 0
+What is the relative mass of an electron? | 1/2000 (Negligible)
+What is the relative charge of an electron? | -1
+Why is the total charge within an atom zero? | The number of electrons equals the number of protons
+What is the atomic number? | The number of protons in an atom (also called proton number)
+What does the atomic number equal in a neutral atom? | The number of electrons
+What is the mass number? | The total number of protons and neutrons in the nucleus
+How do you calculate the number of neutrons? | Mass number - Atomic number
+In nuclear notation, where is the mass number written? | Top number (above the element symbol)
+In nuclear notation, where is the atomic number written? | Lower number (below the element symbol)
+What are isotopes? | Atoms of the same element with equal protons but different numbers of neutrons
+Do isotopes have different chemical properties? | No, only different masses
+Why do some isotopes appear unstable? | They have an imbalance of protons and neutrons
+How many protons and electrons do different isotopes of the same element have? | The same number
+Why are some atomic nuclei unstable? | Due to an imbalance in the forces within the nucleus
+What is radioactive decay? | The process of unstable nuclei emitting radiation to become more stable
+Is radioactive decay predictable? | No, it is a random process
+What types of nuclear radiation can be emitted? | Alpha, Beta, Gamma, and Neutrons
+What is an alpha particle? | A helium nucleus consisting of 2 protons and 2 neutrons
+What is the charge of an alpha particle? | +2
+What is a beta particle? | A fast-moving electron
+How is a beta particle produced? | When a neutron changes into a proton and an electron in the nucleus
+What is the charge of a beta particle? | -1
+What are gamma rays? | Electromagnetic waves with the highest energy
+What is the charge of gamma rays? | No charge (0)
+What is activity? | The rate at which unstable nuclei from a source of radiation decay
+What is the unit of activity? | Becquerels (Bq)
+What does 1 Becquerel mean? | 1 nucleus decaying per second
+What device is commonly used to detect radiation? | Geiger-Muller tube (connected to a Geiger counter)
+What is count-rate? | The number of decays recorded each second by a detector
+In alpha decay, how does the mass number change? | Decreases by 4
+In alpha decay, how does the atomic number change? | Decreases by 2
+In beta minus decay, how does the mass number change? | Stays the same
+In beta minus decay, how does the atomic number change? | Increases by 1
+In gamma decay, how does the mass number change? | Stays the same
+In gamma decay, how does the atomic number change? | Stays the same
+What is the parent nucleus? | The nucleus that decays
+What is the daughter nucleus? | The nucleus remaining after decay
+Must nuclear equations balance? | Yes, both mass numbers and atomic numbers must balance on left and right
+Which type of radiation has the shortest range in air? | Alpha (few centimetres)
+What is the range of beta in air? | Few tens of centimetres
+What is the range of gamma in air? | Infinite (not absorbed by air)
+What material stops alpha radiation? | Paper
+What material stops beta radiation? | Few millimetres of aluminium
+What reduces gamma radiation? | Few millimetres of lead (only partially stops it)
+Which type of radiation is most ionising? | Alpha
+Which type of radiation is least ionising? | Gamma
+What is the penetrating power trend from alpha to gamma? | Penetrating power increases (alpha least, gamma most)
+What is the ionisation trend from alpha to gamma? | Ionisation decreases (alpha most, gamma least)
+What is half-life? | The time it takes for the number of nuclei of a radioactive isotope to decrease by half
+Can half-life also refer to activity? | Yes, the time for activity to fall to half its original level
+Do different isotopes have different half-lives? | Yes, they vary from fractions of a second to billions of years
+Is half-life constant for a particular isotope? | Yes
+What is the half-life of Carbon-14? | 5,700 years
+After one half-life, what percentage of original material remains? | 50%
+After two half-lives, what percentage of original material remains? | 25%
+After three half-lives, what percentage of original material remains? | 12.5%
+How do you calculate the number of half-lives that have passed? | Divide the time period by the length of one half-life
+If a sample goes from 2 million atoms to 500,000 atoms, how many half-lives occurred? | 2 half-lives

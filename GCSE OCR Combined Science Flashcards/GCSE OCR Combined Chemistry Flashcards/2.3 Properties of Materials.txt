@@ -1,0 +1,59 @@
+What group is carbon located in on the periodic table? | Group 4
+How many covalent bonds can carbon form? | Four covalent bonds
+What are allotropes? | Different forms of the same element
+How many carbon atoms does each carbon atom bond with in diamond? | Four other carbon atoms, forming a tetrahedron
+Does diamond conduct electricity? | No, it does not conduct electricity
+Why doesn't diamond conduct electricity? | All outer shell electrons are held in covalent bonds, so there are no freely moving charged particles
+What is diamond's melting point like? | Very high melting point
+Why does diamond have a very high melting point? | The four covalent bonds are very strong and extend in a giant lattice, requiring large amounts of energy to break
+What is diamond's density? | 3.51 g/cm³
+What are two uses of diamond? | Jewellery and coating blades in cutting tools
+How many carbon atoms does each carbon bond with in graphite? | Three others, forming layers of hexagons
+Does graphite conduct electricity? | Yes, graphite conducts electricity
+Why can graphite conduct electricity? | Each carbon has one free electron that can migrate along the layers and carry charge
+Why is graphite soft and slippery? | Layers are attracted by weak intermolecular forces, so they can slide over each other
+What is graphite's density? | 2.25 g/cm³
+What are three uses of graphite? | Pencils, industrial lubricant (engines and locks), and inert electrodes for electrolysis
+What is graphene? | A single layer of graphite - a sheet of carbon atoms covalently bonded in a continuous hexagonal layer
+How thick is graphene? | One atom thick (essentially a 2D molecule)
+Does graphene conduct electricity? | Yes, it has free electrons that move along its surface
+Is graphene strong or weak? | Extremely strong but also amazingly light
+Is graphene transparent? | Yes, it absorbs only 2.3% of visible light
+Is graphene flexible? | Yes, the strong bonds between carbon atoms are very flexible
+What are fullerenes? | Carbon allotropes that form hollow tubes or spheres
+What shapes do fullerenes usually contain? | Hexagons, but can also contain pentagons or heptagons
+What was the first fullerene discovered? | Buckminsterfullerene (buckyball)
+How many carbon atoms are in buckminsterfullerene? | 60 carbon atoms forming 20 hexagons and 12 pentagons
+What are three uses of fullerenes? | Targeted drug delivery systems, catalysts, and lubricants
+What are nanotubes? | Graphene rolled into a cylinder - a type of fullerene
+What is a key property of nanotubes? | High tensile strength and resistance to breaking or stretching
+Do nanotubes conduct electricity? | Yes, like graphene they can conduct electricity
+What does the energy needed for a state change depend on? | The strength of forces between particles
+What happens during melting? | A solid changes into a liquid
+What is required for melting? | Heat energy which transforms into kinetic energy
+What happens during boiling? | A liquid changes into a gas
+Where do bubbles form during boiling? | Below the surface of the liquid and from within the liquid
+What happens during freezing? | A liquid changes into a solid
+At what temperature does water freeze and melt? | 0°C
+What happens during evaporation? | A liquid changes into a gas
+Where does evaporation occur? | Only at the surface of liquids
+What happens during condensation? | A gas changes into a liquid, usually on cooling
+What happens during sublimation? | A solid changes directly into a gas
+What two substances can sublimate? | Iodine and solid carbon dioxide
+If the temperature is below the melting point, what state is the substance? | Solid state
+If the temperature is between melting and boiling points, what state is the substance? | Liquid state
+If the temperature is above the boiling point, what state is the substance? | Gas state
+What are bulk properties? | Physical properties that arise from many atoms, ions or molecules acting together
+Give two examples of bulk properties. | Electrical conductivity and melting/boiling points
+Do individual atoms possess bulk properties? | No, they arise from many atoms acting together
+Why don't simple molecules conduct electricity? | There are no free charged particles
+Why do ionic compounds conduct when molten or dissolved? | Ions are free to move and carry a charge
+Why don't giant covalent structures conduct electricity? | There are no free charged particles (except graphite and fullerenes)
+Why do metals conduct electricity? | Delocalised electrons are free to move and carry charge throughout the structure
+What does brittle mean? | A substance cracks or breaks when external force is applied
+What does malleable mean? | A substance changes shape without cracking or breaking
+Why are metals malleable? | Atoms are arranged in layers which slide over each other when force is applied
+Why are ionic and giant covalent substances brittle? | Their bonds break if force is applied
+What is the state of most polymers at room temperature? | Solid
+What types of forces exist in polymers? | Strong covalent bonds between atoms but intermolecular forces between polymer molecules
+How do polymer intermolecular forces compare to simple molecules? | Larger than simple molecules but weaker than ionic or covalent bonds

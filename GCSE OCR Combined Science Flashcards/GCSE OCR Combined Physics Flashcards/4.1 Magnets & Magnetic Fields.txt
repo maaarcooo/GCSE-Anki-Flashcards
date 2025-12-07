@@ -1,0 +1,44 @@
+What are the two poles of a magnet called? | North and south
+State the law of magnetism | Like poles repel, opposite poles attract
+Is the force between magnetic poles a contact or non-contact force? | Non-contact force
+Name three magnetic materials | Iron, cobalt, nickel (steel also contains iron so is magnetic)
+How can you test if a material is a magnet rather than just a magnetic material? | Bring it close to a known magnet - if it can be repelled, it's a magnet. If only attracted, it's a magnetic material
+What is a permanent magnet? | A magnet made from permanent magnetic materials that produces its own magnetic field and will not lose its magnetism
+What is an induced magnet? | A magnetic material that temporarily becomes a magnet when placed in a magnetic field
+What happens when a magnetic material is removed from a magnetic field? | It loses most/all of its magnetism quickly
+Define a magnetic field | The region around a magnet where a force acts on another magnet or magnetic material
+How do you show the direction of a magnetic field? | With arrows on field lines, always pointing from north to south
+Where is the magnetic field strongest around a bar magnet? | At the poles (where field lines are closest together)
+What happens to magnetic field strength as distance from the magnet increases? | It becomes weaker (field lines get further apart)
+What is a uniform magnetic field? | A field with the same strength and direction at all points
+Where does a uniform magnetic field occur? | In the gap between opposite poles of two magnets held close together
+How do you show a uniform magnetic field in a diagram? | Equally spaced parallel field lines with arrows all pointing the same direction
+What tool is used to investigate magnetic field patterns? | Plotting compass
+Why does a compass needle point north on Earth? | Earth's core is magnetic and creates a magnetic field
+Is Earth's geographic North Pole a magnetic north or south pole? | Magnetic south pole (which attracts the north pole of a compass)
+What happens when current flows through a wire? | A magnetic field is produced around the wire
+What shape is the magnetic field around a current-carrying wire? | Concentric circles
+Does a current-carrying wire have magnetic poles? | No (circular field pattern indicates no poles)
+What is the right-hand thumb rule for a wire? | Thumb points in direction of current, fingers curl in direction of magnetic field
+What happens to the magnetic field if current direction is reversed? | The direction of the magnetic field reverses
+Name two factors that affect magnetic field strength around a wire | Size of current and distance from the wire
+What happens to the magnetic field if there is no current in the wire? | No magnetic field is produced
+What is a solenoid? | A wire coiled into a cylindrical shape
+What does the magnetic field around a solenoid resemble? | A bar magnet
+Describe the magnetic field inside a solenoid | Strong and uniform
+How do you determine which end of a solenoid is the north pole? | View from the end - if current flows anticlockwise, it's the north pole
+How do you determine which end of a solenoid is the south pole? | View from the end - if current flows clockwise, it's the south pole
+Name three ways to increase the strength of a solenoid's magnetic field | Increase current, increase number of coils, add an iron core
+Why does adding an iron core strengthen a solenoid? | The iron becomes an induced magnet, combining with the solenoid's field to create a much stronger overall magnet
+What happens to the poles of a solenoid if the current direction changes? | The north and south poles are reversed
+What is the only property that can be changed in a permanent magnet? | Nothing - it produces its own constant magnetic field
+When two bar magnets attract, what happens to the field lines between them? | Strong magnetic field pushes the poles together with a uniform field between opposite poles
+When two bar magnets repel, what happens to the field lines between them? | Like poles repel and there is no field in the region between the poles
+What type of pole is at Earth's geographic South Pole? | Magnetic north pole (field lines point out)
+What material must a conducting wire be to produce a magnetic field? | Any material, as long as current is flowing through it
+In a top view, what symbol shows current flowing out of the page? | Circle with a dot in the centre
+In a top view, what symbol shows current flowing into the page? | Circle with a cross in the centre
+What happens to field lines as current through a wire increases? | They become more concentrated (closer together)
+What is the magnetic field pattern around a flat circular coil? | Field lines circle around each part of the coil, passing through the centre
+Do magnetic field lines ever touch or cross? | No, never
+Where do you measure to determine field strength in a diagram? | Spacing between field lines (closer = stronger)

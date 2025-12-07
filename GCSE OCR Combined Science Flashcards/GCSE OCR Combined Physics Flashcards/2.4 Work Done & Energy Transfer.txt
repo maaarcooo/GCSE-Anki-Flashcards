@@ -1,0 +1,39 @@
+What is work done in physics? | Work is done when an object is moved over a distance by a force applied in the direction of its displacement.
+What happens to energy when work is done on an object? | Energy is transferred. The amount of energy transferred (in joules) equals the work done (also in joules).
+What is the formula for work done? | W = F × s (Work done = force × distance)
+What are the units for work done? | Joules (J) or newton-metres (N m)
+If a force is applied to an object but it doesn't move, how much work is done? | No work is done.
+What is a system in physics? | An object or group of objects being studied.
+When is energy transferred in a system? | When there is a change to the system (when it moves away from equilibrium).
+Name the 8 energy stores. | Kinetic, Gravitational potential, Elastic potential, Electrostatic, Magnetic, Chemical, Nuclear, Thermal.
+What is kinetic energy? | Energy in the store of moving objects.
+What is gravitational potential energy? | Energy objects gain when they are lifted above ground.
+What is elastic potential energy? | Energy objects have when they are stretched.
+What are the 4 energy transfer pathways? | Mechanical working, Electrical working, Heating by particles, Heating by radiation.
+What is mechanical working? | When a force acts on an object (e.g. pulling, pushing, stretching, squashing).
+What is electrical working? | A charge (current) moving through a potential difference (e.g. charge flowing around a circuit).
+What is heating by particles? | Energy transferred from a hotter object to a colder one.
+What is heating by radiation? | Energy transferred by electromagnetic waves (e.g. light).
+What does the left side of a Sankey diagram represent? | The total energy transferred into the system.
+What does the straight arrow in a Sankey diagram represent? | The useful energy output.
+What do the bent arrows in a Sankey diagram represent? | The wasted energy.
+What does the width of arrows in a Sankey diagram represent? | The width is proportional to the amount of energy being transferred.
+State the conservation of energy equation for a Sankey diagram. | Total energy in = Useful energy out + Wasted energy
+What is power? | The rate of energy transfer or the rate of work done.
+What is the formula for power? | P = E/t or P = W/t (Power = energy transferred ÷ time or work done ÷ time)
+What are the units for power? | Watts (W)
+What does 1 watt equal? | 1 joule per second (1 W = 1 J/s)
+What does 1 kilowatt equal? | 1000 watts (1 kW = 1000 W)
+What is the typical power rating of a torch? | 1 W
+What is the typical power rating of an electric light bulb? | 100 W
+What is the typical power rating of an electric cooker? | 10,000 W = 10 kW
+If two motors lift the same weight by the same height, which one has more power? | The motor that does it faster has more power.
+Changes in speed are related to which energy store? | Kinetic energy.
+Changes in height are related to which energy store? | Gravitational potential energy.
+Changes in the shape of materials are related to which energy store? | Elastic potential energy.
+In the bucket example, what is the equation for work done when lifting? | W = mgh (mass × gravitational field strength × height)
+What energy transfer occurs when a battery powers a torch? | Energy is transferred electrically from the chemical store of the battery to the thermal store of the bulb.
+What energy transfer occurs when an object falls? | Energy is transferred mechanically from the gravitational potential store to the kinetic store.
+A car brake applies 500 N of force over 23 m. Calculate the work done. | W = 500 × 23 = 11,500 J
+A 12 kg bucket is lifted 15 m (g = 10 N/kg). Calculate the work done. | W = 12 × 10 × 15 = 1800 J
+An oven with power 2500 W is used for 50 minutes. Calculate energy transferred. | E = 2500 × 3000 s = 7,500,000 J

@@ -1,0 +1,49 @@
+What is an atom? | The smallest particle of matter that retains the properties of an element, made of protons, neutrons, and electrons.
+What are the three subatomic particles in an atom? | Protons, neutrons, and electrons.
+Where are protons and neutrons located in an atom? | In the nucleus at the centre of the atom.
+Where are electrons located in an atom? | Moving around the nucleus in orbital paths called shells.
+What is the relative mass of a proton? | 1
+What is the relative mass of a neutron? | 1
+What is the relative mass of an electron? | 1/1836 (negligible)
+What is the relative charge of a proton? | +1
+What is the relative charge of a neutron? | 0 (neutral)
+What is the relative charge of an electron? | -1
+What is the atomic number (Z)? | The number of protons in the nucleus of an atom.
+What is the mass number (A)? | The total number of protons and neutrons in the nucleus.
+How do you calculate the number of neutrons? | Mass number (A) - Atomic number (Z)
+What is an isotope? | Atoms of the same element with the same number of protons and electrons but different numbers of neutrons.
+Do isotopes have the same chemical properties? | Yes, because they have the same number of electrons in their outer shells.
+What is an ion? | An atom or group of atoms with an electrical charge (positive or negative).
+What is a cation? | A positively charged ion formed when an atom loses electrons.
+What is an anion? | A negatively charged ion formed when an atom gains electrons.
+How many electrons does a neutral atom have? | The same number as protons (equal to the atomic number).
+What is the radius of an atom approximately? | 1 × 10⁻¹⁰ metres
+How much smaller is the nucleus compared to the atom? | About 10,000 times smaller in radius.
+Where is most of the atom's mass located? | In the nucleus (protons and neutrons).
+Who proposed the "billiard ball" model in 1803? | John Dalton
+What were Dalton's three key ideas about atoms? | 1) Matter is made of indivisible atoms, 2) Atoms of same element are identical, 3) Different atoms combine to form substances.
+Who discovered the electron and when? | J.J. Thomson in 1897
+What was Thomson's model called? | The plum pudding model
+What did the plum pudding model propose? | Negative electrons spread throughout a sphere of positive charge.
+Who conducted the gold foil experiment? | Ernest Rutherford (with Geiger and Marsden) in 1909
+What did Rutherford's experiment show? | Most of the atom is empty space with a dense positive nucleus at the centre.
+What was Rutherford's model called? | The nuclear model
+Who developed the Bohr model and when? | Niels Bohr in 1913
+What did Bohr propose about electrons? | Electrons orbit the nucleus in fixed shells or orbitals at set distances.
+Which orbitals have higher energy in Bohr's model? | Orbitals further from the nucleus.
+What did Bohr's model explain? | Why atoms don't collapse due to attraction between positive nucleus and negative electrons.
+What was discovered from further investigation of the nucleus? | The proton
+How do you find the number of protons in an atom? | Look at the atomic number (Z).
+If beryllium has atomic number 4 and mass number 9, how many neutrons does it have? | 5 neutrons (9 - 4 = 5)
+If Mg²⁺ ion has atomic number 12, how many protons does it have? | 12 protons (number of protons doesn't change when forming ions)
+If Mg²⁺ ion has atomic number 12, how many electrons does it have? | 10 electrons (lost 2 electrons due to 2+ charge)
+What are the three isotopes of hydrogen? | Hydrogen-1 (no neutrons), Hydrogen-2/Deuterium (1 neutron), Hydrogen-3/Tritium (2 neutrons)
+How is an isotope symbol written? | Chemical symbol or name followed by a dash and the mass number (e.g., C-14 or ¹⁴C)
+Why does forming an ion not change the number of protons? | Because ions are formed by gaining or losing electrons, not protons.
+What makes atoms of different elements different? | Their number of protons (atomic number).
+Why are electron masses described as negligible? | Because one proton has the same mass as approximately 1,840 electrons.
+What are nucleons? | Protons and neutrons collectively.
+Do atoms have an overall charge? | No, neutral atoms have equal numbers of protons and electrons.
+Why do atoms form ions? | To obtain full outer electron shells and become stable.
+What happens to the charge when an atom loses electrons? | It becomes positively charged (more protons than electrons).
+What happens to the charge when an atom gains electrons? | It becomes negatively charged (more electrons than protons).

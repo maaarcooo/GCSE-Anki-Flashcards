@@ -1,0 +1,77 @@
+What is a gene? | A short length of DNA found on a chromosome that codes for a particular characteristic by forming different proteins.
+What are alleles? | Variations of the same gene.
+How many alleles does each gene have? | Two alleles - one inherited from the mother and one from the father.
+What is a phenotype? | The observable characteristics of an organism, such as eye colour or blood type.
+What is a genotype? | The combination of alleles that control each characteristic.
+What is a dominant allele? | An allele that only needs to be inherited from one parent for the characteristic to show up in the phenotype.
+What is a recessive allele? | An allele that needs to be inherited from both parents for the characteristic to show up in the phenotype.
+What does homozygous mean? | When the two alleles of a gene are the same.
+What does homozygous dominant mean? | Having two copies of the dominant allele.
+What does homozygous recessive mean? | Having two copies of the recessive allele.
+What does heterozygous mean? | When the two alleles of a gene are different.
+How are dominant alleles represented in genetic diagrams? | With a capital letter.
+How are recessive alleles represented in genetic diagrams? | With the same letter as the dominant allele but in lower case.
+What is a gamete? | A sex cell - sperm and ovum in animals, pollen nucleus and ovum in plants.
+What is a chromosome? | Thread-like structures of DNA carrying genetic information in the form of genes, located in the nucleus of cells.
+What is the genome? | The entire set of genetic material of an organism.
+What does the Human Genome Project reveal? | All the genes and their locations in human DNA.
+What is variation? | Differences between individuals of the same species.
+What is genetic variation? | Differences caused by genes (the genome).
+Give examples of genetic variation in humans. | Blood group, eye colour, gender, ability to roll tongue, whether ear lobes are free or fixed.
+What is environmental variation? | Differences caused by interactions between the organism and its environment.
+Give examples of environmental variation. | Scarring from accidents, weight gain from diet, language and accent from upbringing, plant height affected by light.
+What is continuous variation? | When there are many small degrees of difference for a characteristic between individuals that can be measured on a scale.
+Give examples of continuous variation. | Height, mass, finger length.
+What causes continuous variation? | Often a combination of genetic and environmental causes.
+What type of graph does continuous variation produce? | Smooth bell-shaped curves.
+What is discontinuous variation? | When there are distinct differences for a characteristic with no crossover between categories.
+Give examples of discontinuous variation. | Blood group (A, B, AB, O), gender (male or female), tongue rolling ability.
+What causes discontinuous variation? | Usually genetic variation alone.
+What type of graph does discontinuous variation produce? | Step-shaped graphs with distinct categories.
+How do mutations introduce variation? | Mutations are changes in DNA base sequence that can introduce new allele variants into the gene pool.
+When do mutations affect phenotype? | Only when they alter the protein significantly enough to impact its function.
+What is sexual reproduction? | A process involving the fusion of nuclei of two gametes to form a zygote, producing offspring that are genetically different from each other.
+What are the gametes in animals? | Sperm cells and egg cells.
+What are the gametes in flowering plants? | Pollen cells and egg cells.
+What is fertilisation? | The fusion of gamete nuclei.
+What type of cell division produces gametes? | Meiosis.
+What is an advantage of sexual reproduction? | Increases genetic variation, allowing species to adapt to new environments and giving survival advantage.
+What is a disadvantage of sexual reproduction? | Takes time and energy to find mates, and difficult for isolated members to reproduce.
+How many chromosomes do human gametes contain? | 23 chromosomes (haploid).
+How many chromosomes do normal human body cells contain? | 46 chromosomes (diploid).
+What is a haploid nucleus? | A nucleus containing half the number of chromosomes (one copy of each chromosome).
+What is a diploid nucleus? | A nucleus containing the full number of chromosomes (two copies of each chromosome, in pairs).
+What is a zygote? | A fertilised egg cell formed when male and female gametes fuse.
+How many divisions occur in meiosis? | Two divisions.
+How many daughter cells does meiosis produce? | Four genetically different haploid daughter cells.
+What happens before meiosis begins? | DNA replication must occur in the nucleus of a diploid cell.
+How does meiosis increase genetic variation? | By forming new combinations of maternal and paternal chromosomes every time a gamete is made.
+What is asexual reproduction? | A process resulting in genetically identical offspring from one parent, without fusion of gametes.
+What type of cell division is involved in asexual reproduction? | Mitosis only.
+What are offspring produced by asexual reproduction called? | Clones.
+What is an advantage of asexual reproduction? | Population can increase rapidly when conditions are right, more time and energy efficient, reproduction is faster.
+What is a disadvantage of asexual reproduction? | Limited genetic variation - offspring are genetically identical to parents, making population vulnerable to changes in conditions.
+What is binary fission? | A type of asexual reproduction in bacteria where genetic copies are produced.
+How do plants reproduce asexually using bulbs and tubers? | Budding occurs from these food storage organs, producing new plants genetically identical to the parent.
+How do strawberry plants reproduce asexually? | Through runners - side shoots that contain tiny plantlets which grow roots and develop into separate plants.
+How many parent organisms are needed for asexual reproduction? | One.
+How many parent organisms are needed for sexual reproduction? | Two.
+What is monohybrid inheritance? | When characteristics are controlled by a single gene.
+What is a Punnett square? | A genetic diagram showing possible combinations of alleles in offspring.
+In pea plants, which allele is dominant for height? | Tall (T) is dominant over short (t).
+What is the genotype of a pure-breeding tall pea plant? | TT (homozygous dominant).
+What is the genotype of a short pea plant? | tt (homozygous recessive).
+What ratio of tall:short appears in the F2 generation when crossing two Tt plants? | 3:1 (three tall to one short).
+What is the probability of a tall offspring when crossing Tt × Tt? | 75% or 3 in 4.
+What is the probability of a short offspring when crossing Tt × Tt? | 25% or 1 in 4.
+What is polygenic inheritance? | When characteristics are controlled by more than one gene.
+Give an example of polygenic inheritance. | Eye colour - controlled by several genes, resulting in phenotypes like brown, blue, green, and hazel.
+Which chromosomes determine sex in humans? | The 23rd pair of chromosomes - XX in females, XY in males.
+What is the ratio of male to female offspring? | 1:1 (50% chance of each).
+What sex chromosomes does a female have? | XX (two X chromosomes).
+What sex chromosomes does a male have? | XY (one X and one Y chromosome).
+Does dominant or recessive status affect the mechanism of inheritance? | No - whether an allele is dominant or recessive does not affect how it is inherited.
+Can you always tell genotype from phenotype? | No - a phenotype with a dominant allele appears the same in both homozygous dominant (TT) and heterozygous (Tt) genotypes.
+What is the F2 generation? | The offspring produced when the F1 generation (from pure-breeding parents) interbreed.
+How should you choose letters for genetic diagrams? | Choose letters with clearly different capital and lowercase forms (e.g., Tt, Bb, Dd not Cc, Ss).
+What chromosomes are used in sex inheritance Punnett squares? | X and Y chromosomes replace the usual alleles in the boxes.

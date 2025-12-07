@@ -1,0 +1,149 @@
+What is abundance in ecology? | The number of organisms of a particular species in a habitat.
+What is distribution in ecology? | The geographical spread of a species.
+Why can't scientists count every organism in an ecosystem? | Ecosystems are too large, so scientists use sensible estimates based on thorough sampling methods.
+What is field work? | Scientists getting outside to sample and measure various aspects of ecosystems.
+Why must sampling be random and free from bias? | To ensure accurate population estimates and avoid focusing only on areas where organisms are easily seen.
+How do scientists ensure random sampling in quadrat studies? | They use random number generators to identify coordinates within a marked-out area for quadrat placement.
+What is stratified sampling? | Dividing a habitat into zones with different communities and taking samples from each zone proportionally.
+When is systematic sampling used? | Where the study area includes an environmental gradient (change of conditions across the study area).
+What is the capture-recapture technique used for? | Estimating the population size of mobile organisms to avoid missing individuals or double-counting.
+What is a pooter? | A small, hand-held suction device that captures small invertebrates like flies and spiders.
+How do pitfall traps work? | They are dug in-situ within a habitat and left for 1-2 days to fill with invertebrates that fall in but cannot climb out.
+Why is a canopy placed over pitfall traps? | To prevent flooding by rainwater.
+What are sweep nets used for? | Large, hand-held nets swept across a tree's leaves to capture invertebrates.
+What is kick sampling? | A scientist stands in a stream and gently agitates the stream bed with their feet to release invertebrates into a net placed downstream.
+What are quadrats? | Square frames made of wood or wire (e.g., 0.25m² or 1m²) placed on the ground to record organisms within them.
+What three methods can quadrats use to measure abundance? | 1) Number of an individual species, 2) Species richness, 3) Percentage cover.
+What is species richness? | The total number of different species (but not the number of individuals of each species) recorded.
+When is percentage cover used in quadrats? | When it is difficult to count individuals of the plant species being recorded (e.g., grass or moss).
+What is a transect? | A row of quadrats or points placed in a line at pre-set intervals.
+When are transects useful? | For measuring the change in distribution of organisms across an area known to differ in abiotic factors.
+What is the capture-recapture population formula? | Population = (first sample size × second sample size) ÷ number of marked organisms in the second sample.
+What two key considerations must scientists follow during field work? | 1) That the work is done ethically, 2) That sampling is done randomly and free from bias.
+What are identification keys used for? | To help scientists identify species when sampling a habitat.
+Why are identification keys called dichotomous? | Because all questions are Yes/No or only have two possible answers.
+What abiotic factors are routinely measured in field work? | Light intensity, temperature, soil moisture, soil/water pH, water turbidity, dissolved oxygen, wind speed/direction, pollutant levels.
+How is light intensity measured? | Using a light meter or light sensor.
+How is water turbidity measured? | By measuring the maximum depth of water through which a black 'X' shape can be seen.
+How is dissolved oxygen in water measured? | Using an oxygen meter.
+Why is human impact the largest biotic factor on Earth? | Humans are the most intelligent and sophisticated species, have colonized all continents, and developed technology to become the dominant species.
+What is the approximate human population in 2022? | Approaching 8 billion people (versus approximately 2 billion a century ago).
+Why has human impact increased dramatically? | The population has doubled in the last 50 years and people expect a higher standard of living requiring more natural resources.
+What is bioaccumulation? | The increase in concentration of a toxic chemical in a particular organism over time.
+What is biomagnification? | The increase in concentration of a toxic chemical the higher the organism is in the food chain.
+How do toxic chemicals (pesticides and herbicides) affect biodiversity? | They cannot be broken down by organisms, can be absorbed by aquatic plants or invertebrates, and build up in tissues causing bioaccumulation and biomagnification, leading to death or failure to breed in top predators.
+How does untreated sewage affect biodiversity? | It provides food for bacteria which increase rapidly, depleting oxygen dissolved in water as they respire aerobically, causing eutrophication and death of aquatic organisms.
+How do fertilizers affect biodiversity? | Runoff causes increased growth of algae and water plants, resulting in 'algal bloom' that blocks sunlight. Plants on the bottom die, and decomposition leads to eutrophication and death of many aquatic organisms.
+What is subsistence farming? | Producing just enough to supply their own family's needs.
+Why are peat bogs important? | They store carbon (preventing CO₂ release) and are important habitats for many species like migrating birds.
+What is peat? | Partly decomposed plant matter that accumulates over very long periods in waterlogged, acidic bogs where plants don't fully decay due to lack of oxygen.
+Why is peat destruction problematic? | Carbon dioxide is released when peat is burned, peat is effectively non-renewable, habitat area for species is decreasing, and biodiversity is reduced.
+How is peat used by humans? | Dried and used as fuel, or used to produce compost for gardens or farms.
+What is conservation? | Allowing humans to use natural resources whilst living alongside other species, without harming biodiversity.
+What conservation steps can be taken? | Protect habitats, prevent introduction of harmful species, create protected areas like national parks and reserves, use zoos and botanical gardens as species banks.
+What is a breeding programme? | Setting up programmes to save endangered species from extinction by breeding them in captivity and releasing them back into native habitats.
+How does reintroduction of field margins and hedgerows help biodiversity? | A single crop (monoculture) supports low biodiversity, but hedgerows and field margins with wild flowers and grasses support high biodiversity.
+How does reduction of deforestation help biodiversity? | It prevents habitat destruction and reduced carbon dioxide in the atmosphere, slowing global warming which threatens habitats and biodiversity.
+How does recycling resources help biodiversity? | It reduces waste, space required for landfill sites, and the rate of using up natural resources, thereby reducing habitat-destroying activities.
+What is local biodiversity? | The biodiversity in a small geographical area (e.g., in a national park or within a single country).
+What are benefits of local biodiversity schemes? | Governments can pass laws to make biodiversity a legal requirement, small local schemes can form 'corridors' of biodiversity, and ecotourism can be promoted.
+What are challenges of local biodiversity schemes? | Projects require land that could be used for food or housing, and local residents may have reduced incomes (e.g., from fishing or hunting bans).
+Why is global biodiversity important? | Many animals and plants move between ecosystems throughout the world; removing a species entirely from a food chain can collapse the whole food chain.
+What is a challenge for global biodiversity? | Governments need to cooperate but inter-country conflicts stop cooperation; some countries have cultural reasons to keep hunting certain species.
+How does fish farming promote biodiversity? | By intensifying food production in certain areas, it reduces reliance on wild fish populations and reduces damage from ocean fishing techniques like trawling and gillnets.
+What are methods to maximize yield in fish farms? | Selective breeding, preventing interspecific predation with nets, limiting intraspecific predation by grouping by age/size, controlling water quality, controlled diet with high-protein pellets, preventing diseases/pests with antibiotics/pesticides.
+How can fish farms negatively impact biodiversity? | Predators may get caught in nets, diseases spread quickly and to other species, escaped fish can affect native species, and eutrophication can occur.
+What is an indigenous species? | A species which is native to a particular area.
+How can non-indigenous species decrease biodiversity through competition? | They may compete with native species for food, water, or space, potentially outcompeting and eradicating indigenous species.
+How can non-indigenous species decrease biodiversity through food chain impacts? | They disrupt the balance by providing a new food source or predator, impacting populations of other organisms in the food web.
+How can non-indigenous species decrease biodiversity through disease? | New species can bring new diseases that may be deadly to indigenous species, causing minimal impact or devastating entire populations.
+What is an example of competition from non-indigenous species? | The North American grey squirrel introduced to the UK competed with native red squirrels for food and nesting sites, and carried the deadly parapox virus.
+What is an example of food chain disruption from non-indigenous species? | The cane toad introduced to Australia as biological control poisoned predators that ate them, having knock-on effects and becoming a pest species.
+What is an example of disease from non-indigenous species? | Chalara Ash dieback fungus brought from Asia to the UK is set to wipe out up to 80% of indigenous ash trees.
+What is eutrophication? | The process where excessive nutrients cause algal blooms that block sunlight, causing plants to die. Decomposition depletes oxygen, resulting in death of aquatic organisms.
+What are the six steps of eutrophication? | 1) Excessive nutrients enter water, 2) Aquatic plants flourish and grow rapidly, 3) Algae show rapid growth, 4) Algal bloom prevents sunlight reaching aquatic plants and oxygen levels fall, 5) Decomposition rate increases and aerobic respiration reduces dissolved oxygen further, 6) Death of organisms requiring dissolved oxygen in water.
+How does maintenance of water quality help fish farms? | Water is filtered to remove waste and harmful bacteria to prevent diseases, and cleaned to maintain high oxygen levels for aerobic respiration.
+How is intraspecific predation controlled in fish farms? | Fish are separated by size and age so they don't eat each other or fight.
+How is interspecific predation controlled in fish farms? | Different species of fish are separated by fences, nets, and tanks to prevent fighting.
+How is disease controlled in fish farms? | Antibiotics are given to prevent disease spread due to close confinement, and fish are kept in small numbers to minimize disease spread.
+How are waste products removed from fish farms? | Water is filtered to remove waste products like faeces and sewage; fences, nets, and tanks are cleaned; or fish location can be changed to ensure clean water.
+How is feeding controlled in fish farms? | Fish are fed food high in nutrients to ensure fast growth, fed frequently but in small amounts to prevent overfeeding or starvation.
+How is selective breeding used in fish farms? | Fish are separated by gender so selective breeding can be used by farmers to only allow fish with desired characteristics to reproduce, ensuring fast-growing stock.
+Why is leaf litter placed inside pitfall traps? | To provide some protection to smaller animals who may become prey to larger ones inside the trap.
+What must scientists do after using pitfall traps? | Refill the trap with soil after use and remove the canopy.
+How must sweep nets be used to avoid bias? | Free of bias and in a systematic and safe way (e.g., sweep the tree for 10 seconds at 2 metre height and 10 seconds at 4 metre height).
+What happens to invertebrates collected in kick sampling? | The net's contents are transferred to a water-filled tray for identification/counting, then all contents are tipped straight back into the stream as soon as possible.
+Why must kick sampling be done gently? | To release invertebrates whilst avoiding damage to them.
+What is the purpose of gauze in a pooter? | A piece of gauze on the suction pipe prevents the operator sucking the animal into their mouth.
+What ethical practices should scientists adopt when capturing live animals? | Employing a 'do no harm' approach to field work.
+What must happen to animals captured for field work? | Animals species should be captured alive wherever possible and released back into the same habitat directly after being assessed.
+Why are invertebrates the most common type of animal to be captured? | Because they present a low risk to the scientist and are relatively abundant.
+When is professional assistance required for sampling animals? | For larger, more dangerous animals (e.g., gathering data on lion populations may require a ranger trained in the use of tranquiliser darts).
+What is the purpose of using random number generators in quadrat studies? | To identify co-ordinates within a marked-out area for quadrats to be analysed, ensuring random and unbiased sampling.
+Why should scientists not just focus on areas where organisms are seen to be growing? | There may be valuable data about why organisms are not growing in certain parts (e.g., soil conditions are unfavourable).
+Give an example of stratified sampling | If vegetation cover in moorland is 70% heather and 30% grass, take 70% of samples from within the heather and 30% from within the grass.
+Give an example of systematic sampling with transects | Samples taken every 10 meters along a line running from the sea shore inland across a sand dune system.
+What is the risk when sampling mobile organisms? | Missing certain individuals or double-counting others.
+Why must sampling of the abiotic environment be random? | To ensure samples are taken from the right place (e.g., in a stream/river system, rather than from the place that might be easiest to reach).
+What type of questions do identification keys ask? | A series of Yes/No questions which lead the scientist through a flowchart towards a positive identification.
+What should a good identification key for field use contain? | Detailed images/photos of various species.
+Give examples of questions in identification keys | Are the leaves oval-shaped? Does the leaf have a sharp tip? Does the animal have 6 or 8 legs? Is the skin covered in scales or a shell?
+How is temperature measured in field work? | Using a thermometer or temperature probe.
+How can soil moisture be measured? | In-situ with a probe or a sample can be taken and analysed in the lab.
+How is soil or water pH measured? | With a pH probe or indicator solutions.
+How is wind speed/direction measured? | Using an anemometer.
+How are pollutant levels measured? | Using various analytical methods, depending on the pollutant.
+What does 'biotic factors' mean? | The ways in which the distribution of a species is affected by other species.
+What makes humans biologically very successful? | Humans have colonized all the continents and developed technology such as clothing, housing, hunting equipment, and agricultural equipment.
+What is the cost of human success? | It has come at a cost to other species, affecting biodiversity.
+What is the largest factor in increasing human impact? | The growing human population (approaching 8 billion in 2022 versus approx. 2 billion a century ago).
+Why are raw materials being used up quicker? | A high standard of living requires more of the Earth's natural resources (e.g., oil, gas, rare earth minerals, red meat), and they can't be replaced.
+Give an example of waste materials creating toxic effects | Plastic build-up in the oceans.
+What is an example of a raw material running out? | Crude oil is running out, so alternatives need to be found.
+Why do plants living in bogs not decay fully when they die? | Due to a lack of oxygen in the waterlogged and acidic conditions.
+How long does it take for peat to form? | Over very long periods of time.
+Why is peat effectively a non-renewable energy resource? | Similarly to fossil fuels, peat bogs take so long to form that peat cannot be replaced at the rate it is being used.
+What happens when peat bogs are drained? | The area can be used for farming.
+What is a consequence of peat destruction for habitat area? | The availability of peat bog habitat area for many species of animals, plants and microorganisms is decreasing, reducing biodiversity.
+Are peat bogs being used sustainably? | No, peat bogs are being destroyed faster than they can form.
+Why does the future of the human species rely on maintaining biodiversity? | Just like any other species in an ecosystem, humans rely on many other species to survive (interdependence).
+Give examples of how humans rely on other species | We rely on photosynthetic organisms to produce oxygen for respiration, pollinator species like bees to pollinate food crops, and many plant species for medicine.
+Is conservation about preserving habitat without any human contact? | No, conservation is a way of allowing humans to use natural resources whilst living alongside other species, without harming biodiversity.
+What happens in breeding programmes after animals are bred in captivity? | Individuals can then be released back into their native habitats to help support or re-establish endangered wild populations.
+How does protection and regeneration of rare habitats help biodiversity? | Protection of vulnerable habitats such as rainforests, mangroves, heathland and coral reefs helps to preserve the biodiversity within them and stabilise these ecosystems.
+What is monoculture? | A single crop-type (known as monocultures).
+Why can monocultures only support a low level of biodiversity? | A single crop provides limited food sources and habitats.
+How do hedgerows and field margins with wild flowers and grasses support biodiversity? | They provide more varied food sources and habitats, supporting a high level of biodiversity.
+What does deforestation result in? | Habitat destruction and increased carbon dioxide in the atmosphere.
+How does reducing deforestation help with global warming? | Reducing carbon dioxide emissions will reduce the rate of current global warming, which is threatening habitats and biodiversity.
+What does recycling reduce? | The amount of waste produced and the amount of space required for landfill sites.
+How does recycling reduce habitat destruction? | It reduces the rate we are using up natural resources, reducing habitat-destroying activities such as quarrying and mining.
+Can local governments pass laws about biodiversity? | Yes, governments can act to improve biodiversity within their country's borders, so laws can be passed to make biodiversity a legal requirement.
+What are 'corridors' of biodiversity? | Small, local schemes that can join up to create 'corridors' of biodiversity that can act as an example of sustainable living to other areas.
+What is ecotourism? | Tourism promoted to attract people to beautiful and wild landscapes (e.g., whale-watching trips and tours around biodiversity-friendly farming schemes).
+Why must ecotourism be limited? | Too much ecotourism would itself have a negative impact on biodiversity.
+Why might local residents object to biodiversity projects? | Biodiversity projects require land that could be used for growing food or housing people, and local residents may have their incomes reduced.
+Do animals and plants respect country boundaries? | No, many move between ecosystems throughout the world (e.g., migratory birds, fish and sea mammals like whales).
+What happens if a species is removed entirely from a food chain? | It can collapse the whole food chain, whether that's a producer (plant), a mid-level consumer or a top predator.
+Why do governments need to cooperate for global biodiversity? | A global approach is required to benefit species other than humans since animals and plants move between countries.
+Why do governments fail to cooperate on biodiversity? | Inter-country conflicts mean that such cooperation stops.
+Give an example of cultural reasons affecting global biodiversity efforts | Japan and commercial whaling - whale meat is a prized delicacy in Japan. Japan fails to agree on global whaling restrictions or disguises hunting as 'scientific' or 'research' whaling.
+Are global whaling restrictions legally binding? | No, they are not legally binding in any case.
+Why is ocean fishing very damaging to biodiversity? | Especially techniques such as trawling and the use of gillnets damage habitats and catch non-target species.
+What government controls can make commercial fishing more sustainable? | Quotas, catch inspection, reduction of bycatch, fishing in permitted waters only.
+What is midwater trawling? | A fishing method that results in less bycatch and habitat damage compared to bottom-trawling.
+Why is military-grade sonar and radar used in fishing? | To locate and identify potential catch with great accuracy.
+Why is minimum mesh size important? | To allow juvenile fish to escape so they can grow and reproduce.
+Why are gillnets outlawed? | They are non-selective and catch many non-target species, causing high bycatch.
+What does bottom-trawling destroy? | Seabed habitats (e.g., coral reefs and marine crustaceans).
+What is the purpose of fish farms? | Raising large numbers of fish in a small space to provide food (protein) for humans and minimize energy losses while maximising yield.
+Why has overfishing occurred? | Most fish are still caught in the wild, leading to dramatic declines in many fish populations.
+How do fish farms prevent interspecific predation? | Using nets and cages.
+How is intraspecific predation limited in fish farms? | By grouping fish according to their age and size.
+How is water quality carefully controlled in fish farms? | By monitoring pH and temperature as well as removing fish waste or dead fish.
+How is diet controlled in fish farms? | By feeding high protein fish pellets regularly to ensure rapid growth.
+How are diseases and pests prevented in fish farms? | Using antibiotics and pesticides or biological controls.
+Why can diseases spread quickly in fish farms? | Due to the enclosed space and number of individuals in close proximity.
+How can diseases from fish farms spread to native species? | Diseases can spread in the water to other species outside of the fish farm.
+What issues can escaped caged fish cause? | They can cause issues with the native species nearby (i.e., those that live in the area naturally).
+Can eutrophication occur near fish farms? | Yes, eutrophication can occur due to excess nutrients from fish waste and uneaten food.

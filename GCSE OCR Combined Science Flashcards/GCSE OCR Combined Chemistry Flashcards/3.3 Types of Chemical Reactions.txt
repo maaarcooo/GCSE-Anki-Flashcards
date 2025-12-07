@@ -1,0 +1,49 @@
+What is oxidation in terms of oxygen? | The addition of oxygen to an element or compound.
+What is reduction in terms of oxygen? | The removal of oxygen from an element or compound.
+What is a redox reaction? | A reaction where oxidation and reduction occur simultaneously.
+In the reaction ZnO + C → Zn + CO, which substance is oxidised? | Carbon (it gains oxygen to form CO).
+In the reaction ZnO + C → Zn + CO, which substance is reduced? | Zinc oxide (it loses oxygen).
+What is a reducing agent? | A substance that reduces another substance by giving it electrons or removing oxygen from it.
+What is an oxidising agent? | A substance that oxidises another substance by taking electrons from it or adding oxygen to it.
+What is oxidation in terms of electrons? (Higher Tier) | The loss of electrons.
+What is reduction in terms of electrons? (Higher Tier) | The gain of electrons.
+What does OIL RIG stand for? (Higher Tier) | Oxidation Is Loss (of electrons), Reduction Is Gain (of electrons).
+In the half equation Mg → Mg²⁺ + 2e⁻, what process is occurring? (Higher Tier) | Oxidation (magnesium is losing electrons).
+In the half equation Cu²⁺ + 2e⁻ → Cu, what process is occurring? (Higher Tier) | Reduction (copper ions are gaining electrons).
+What ion do acids produce when added to water? | Positively charged hydrogen ions (H⁺).
+What ion do alkalis produce when added to water? | Negatively charged hydroxide ions (OH⁻).
+What is the pH range of acids? | Below 7.
+What is the pH range of alkalis? | Above 7.
+What pH value represents a neutral solution? | 7.
+What are the two methods for measuring pH? | Using an indicator or a digital pH meter.
+What is the difference between synthetic and natural indicators? | Synthetic indicators have narrow pH ranges with sharp colour changes; natural indicators operate over broad pH ranges.
+Why is Universal Indicator unsuitable for titrations? | It does not provide a sharp colour change needed to identify the end-point.
+What is the general equation for acid-base neutralisation? | acid + base → salt + water.
+What is the ionic equation for neutralisation? | H⁺ + OH⁻ → H₂O.
+What are bases? | Metal oxides and metal hydroxides with pH values above 7.
+What are alkalis? | Bases that dissolve in water.
+What salt does hydrochloric acid produce? | Chlorides.
+What salt does sulfuric acid produce? | Sulfates.
+What salt does nitric acid produce? | Nitrates.
+What are the products when an acid reacts with a metal carbonate? | Salt + water + carbon dioxide.
+What observation indicates an acid-carbonate reaction? | Effervescence (fizzing) due to carbon dioxide gas.
+What are the products when an acid reacts with a metal? | Salt + hydrogen.
+Which metals react with dilute acids? | Only metals above hydrogen in the reactivity series.
+What is the equation for magnesium reacting with hydrochloric acid? | Mg + 2HCl → MgCl₂ + H₂.
+How is a salt named? | First part from the metal/base/carbonate, second part from the acid.
+What salt is formed from sodium hydroxide and hydrochloric acid? | Sodium chloride.
+What are the products of calcium carbonate + nitric acid? | Calcium nitrate + carbon dioxide + water.
+What are the products of copper oxide + sulfuric acid? | Copper sulfate + water.
+What are the products of magnesium + nitric acid? | Magnesium nitrate + hydrogen.
+What is the chemical formula of hydrochloric acid? | HCl.
+What is the chemical formula of sulfuric acid? | H₂SO₄.
+What is the chemical formula of nitric acid? | HNO₃.
+What does pH measure? (Higher Tier) | The concentration of H⁺ ions in solution.
+What pH values indicate a concentrated acid? (Higher Tier) | Below 4.
+What pH values indicate a concentrated base? (Higher Tier) | Above 10.
+The pH scale is logarithmic. What does this mean? (Higher Tier) | Each change of 1 on the pH scale represents a change in H⁺ concentration by a factor of 10.
+How many times more H⁺ ions does pH 3 have compared to pH 4? (Higher Tier) | 10 times more.
+How many times more H⁺ ions does pH 2 have compared to pH 4? (Higher Tier) | 100 times more (10 × 10).
+What happens to pH when a base is added to an acid? (Higher Tier) | pH increases rapidly due to decreasing H⁺ concentration.
+What happens to pH when an acid is added to a base? (Higher Tier) | pH decreases rapidly due to increasing H⁺ concentration.
+What is the difference between acid strength and concentration? (Higher Tier) | Strength indicates the proportion of acid molecules that dissociate; concentration measures how much acid per unit volume.

@@ -1,0 +1,12 @@
+What are the four possible interactions when EM waves move from one medium to another? | Transmitted, absorbed, reflected, and refracted.
+Why do materials interact differently with different parts of the EM spectrum? | Because of the difference in wavelength.
+What two factors determine which interactions happen when EM waves encounter a material? | The wavelength of the waves and the material the wave is travelling through.
+How does glass interact with visible light? | Glass transmits and/or refracts visible light.
+How does glass interact with UV radiation? | Glass absorbs UV radiation.
+How does glass interact with IR radiation? | Glass reflects IR radiation.
+Do all electromagnetic waves travel at the same speed in a vacuum? | Yes, all electromagnetic waves travel at the same speed in a vacuum.
+What happens to electromagnetic waves when they encounter materials like water, glass, or oil? | They slow down.
+Does the amount electromagnetic waves slow down depend on anything? | Yes, it depends on the material.
+What causes electromagnetic waves to refract? | The slowing down of electromagnetic waves causes them to refract.
+What is refraction due to? | Refraction is due to the difference in velocity of the waves in different substances.
+Give an example of EM wave refraction. | Visible light refracting when it enters or leaves a glass block.

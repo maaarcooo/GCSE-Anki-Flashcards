@@ -1,0 +1,27 @@
+What is a reversible reaction? | A reaction where products can react together or decompose to reform the reactant molecules, occurring in both forward and backward directions.
+What symbol is used to represent a reversible reaction? | ⇌ (two opposing arrows with half arrowheads)
+In a reversible reaction, if the forward reaction is exothermic, what is the backward reaction? | Endothermic
+What is dynamic equilibrium? | When the rate of the forward reaction equals the rate of the backward reaction in a reversible reaction.
+At dynamic equilibrium, what happens to the concentrations of reactants and products? | They remain constant.
+What type of system is required for equilibrium to occur? | A closed system where no substances can enter or leave the reaction vessel.
+What is Le Chatelier's Principle? | When a change is made to the conditions of a system at equilibrium, the system automatically moves to oppose the change.
+What three conditions can Le Chatelier's Principle predict changes for? | Temperature, pressure, and concentration.
+If concentration of a reactant increases, which way does equilibrium shift? | To the right (towards products) to reduce the effect of the increase.
+If concentration of a reactant decreases, which way does equilibrium shift? | To the left (towards reactants) to reduce the effect of the decrease.
+When a system at equilibrium is heated, which reaction does it favour? | The endothermic reaction to reverse the temperature change.
+When a system at equilibrium is cooled, which reaction does it favour? | The exothermic reaction to reverse the temperature change.
+Do pressure changes affect all equilibrium systems? | No, only systems containing gases.
+If there are equal moles of gas on both sides of an equation, what happens when pressure changes? | No effect on the position of equilibrium.
+When pressure is increased, which direction does equilibrium shift? | Towards the side with the smaller number of gas molecules to decrease the pressure.
+When pressure is decreased, which direction does equilibrium shift? | Towards the side with the larger number of gas molecules to increase the pressure.
+In the Haber process (N₂ + 3H₂ ⇌ 2NH₃), what happens to reaction rates at the start? | Forward reaction rate is highest because concentrations of nitrogen and hydrogen are at their highest.
+What does it mean when equilibrium shifts to the right? | More products are formed, increasing percentage yield.
+What does it mean when equilibrium shifts to the left? | More reactants are formed, decreasing percentage yield.
+For the reaction NH₄Cl(s) ⇌ NH₃(g) + HCl(g), what happens when heated? | Ammonium chloride decomposes to produce ammonia and hydrogen chloride gases.
+For the reaction 2NO₂(g) ⇌ N₂O₄(g), what colour change occurs when pressure increases? | Mixture becomes increasingly colourless as equilibrium shifts right to form more N₂O₄.
+For the reaction ICl(l) + Cl₂(g) ⇌ ICl₃(s), what happens when ICl or Cl₂ concentration increases? | Equilibrium shifts right, forming more yellow ICl₃.
+Why is Le Chatelier's Principle important in chemical engineering? | It helps manipulate reversible reactions to increase percentage yield and keep costs low (chemical economics).
+Can dynamic equilibrium occur in an open container? | No, only in a closed system.
+On a rate-time graph, how do you identify when equilibrium is reached? | When both forward and backward reaction rates become equal (curves meet and flatten).
+Are all reversible reactions exothermic in one direction? | Yes, and endothermic in the other direction.
+Does the size of gas molecules affect pressure changes on equilibrium? | No, only the number of gas molecules matters.

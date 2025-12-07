@@ -1,0 +1,48 @@
+What are electromagnetic waves? | Transverse waves that transfer energy from a source to an absorber.
+List three properties shared by all electromagnetic waves. | 1) All transverse, 2) All travel through a vacuum, 3) All travel at the same speed in a vacuum.
+How many types of electromagnetic waves form the electromagnetic spectrum? | 7 types.
+What is the relationship between wavelength and energy in EM waves? | Shorter wavelength = higher energy.
+Which EM waves carry the highest energy? | UV, X-rays, and gamma rays.
+How do microwaves heat food? | Water molecules absorb certain wavelengths of microwave radiation, transferring energy to heat the food.
+What type of EM radiation do all hot objects emit? | Infrared radiation.
+Name three types of EM radiation emitted by the Sun and their functions. | 1) Visible light - allows seeing, 2) Infrared - heats the Earth, 3) Ultraviolet - enables vitamin D production.
+What is the wave equation relating speed, frequency, and wavelength? | v = fλ (speed = frequency × wavelength)
+If frequency increases in an EM wave, what happens to wavelength? | Wavelength decreases (inversely proportional).
+Why does increasing frequency decrease wavelength in EM waves? | Because all EM waves travel at the speed of light (constant), so if frequency increases, wavelength must decrease.
+List the 7 types of EM waves in order from longest to shortest wavelength. | Radio waves, Microwaves, Infrared, Visible (ROYGBIV), Ultraviolet, X-rays, Gamma rays.
+Which EM waves have the highest frequency? | Gamma rays.
+Which EM waves have the lowest frequency? | Radio waves.
+What does "highly ionising" radiation mean? | Radiation with enough energy to remove electrons from atoms, potentially causing cancer.
+Which EM waves are ionising? | Ultraviolet, X-rays, and Gamma rays.
+What percentage of the EM spectrum is visible light? | 0.0035%.
+Which colour of visible light has the longest wavelength? | Red.
+Which colour of visible light has the shortest wavelength? | Violet.
+What mnemonic helps remember the colours of visible light? | "Roy G. Biv" or "Richard Of York Gave Battle In Vain".
+List the colours of visible light in order of increasing wavelength. | Violet, Indigo, Blue, Green, Yellow, Orange, Red.
+What are two uses of radio waves? | Communication (radio and TV).
+What are two uses of microwaves? | 1) Heating food, 2) Communication (WiFi, mobile phones, satellites).
+Name three uses of infrared radiation. | Remote controls, thermal imaging, night vision, heating/cooking, electrical heaters.
+What are two uses of visible light? | Seeing and taking photographs/videos, fibre optic communications.
+What are three uses of ultraviolet radiation? | Security marking (fluorescence), fluorescent bulbs, getting a suntan.
+What is the main use of X-rays? | X-ray images (medicine, airport security, industry).
+What are two uses of gamma rays? | Sterilising medical instruments, treating cancer.
+What danger is associated with radio waves? | No known danger.
+What danger is associated with microwaves? | Possible heat damage to internal organs.
+What danger is associated with infrared radiation? | Skin burns.
+What danger is associated with visible light? | Bright light can cause eye damage.
+What are three dangers of ultraviolet radiation? | Eye damage, sunburn, skin cancer.
+What are three dangers of X-rays? | Kills cells, mutations, cancer.
+What are three dangers of gamma rays? | Kills cells, mutations, cancer.
+Why are microwaves used in everyday circumstances considered safe? | They emit very small amounts of energy not known to cause harm.
+How do microwave ovens prevent microwaves from escaping? | Metal walls and metal grid in the glass door contain the energy.
+Why should people wear good quality sunglasses? | To absorb ultraviolet light and prevent severe eye damage.
+What does sunscreen do? | Absorbs ultraviolet light to prevent skin damage.
+Why do X-rays and gamma rays cause internal damage? | They are highly ionising and can penetrate the body, causing gene mutations and cancer.
+Why do doctors leave the room when taking X-rays? | To avoid unnecessary exposure to radiation.
+What do radiation badges measure? | The amount of radiation exposure in a person's body.
+[Higher Tier] How are radio waves produced? | By connecting an antenna to a high-frequency alternating current (a.c.) power source.
+[Higher Tier] What happens in a transmitting antenna? | Charge from the alternating current oscillates up and down the antenna, producing radio waves.
+[Higher Tier] What happens in a receiving antenna? | The metal aerial absorbs radio waves, creating an alternating current with the same frequency as the transmitted wave.
+[Higher Tier] What do oscillations in an a.c. circuit produce? | Radio waves with the same frequency of oscillation.
+In general, why do EM waves become more dangerous as wavelength decreases? | Shorter wavelength means higher frequency and higher energy, making them more ionising and harmful.
+What is the relationship between frequency and danger in EM waves? | Higher frequency = more dangerous.

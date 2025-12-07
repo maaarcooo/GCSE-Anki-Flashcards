@@ -1,0 +1,43 @@
+What is amplitude? | The distance from the undisturbed position to the peak or trough of a wave, measured in metres (m), symbol A.
+What is wavelength? | The distance from one point on a wave to the same point on the next wave, measured in metres (m), symbol λ.
+How do you measure wavelength in a transverse wave? | From one peak to the next peak.
+How do you measure wavelength in a longitudinal wave? | From the centre of one compression to the centre of the next compression.
+What is frequency? | The number of waves passing a point in one second, measured in Hertz (Hz), symbol f.
+What is the time period of a wave? | The time taken for a single wave to pass a point (or one complete cycle), measured in seconds (s), symbol T.
+What is the relationship between frequency and time period? | f = 1/T (frequency equals one divided by time period).
+What is wave speed? | The distance travelled by a wave each second, measured in metres per second (m/s), symbol v.
+What is the wave equation? | v = fλ (wave speed = frequency × wavelength).
+What are transverse waves? | Waves where the direction of energy transfer is perpendicular (at 90°) to the direction of travel.
+What are the highest and lowest points on a transverse wave called? | Highest = peak or crest; Lowest = trough.
+Can mechanical transverse waves travel through gases? | No, they can travel through solids or on the surface of liquids, but not through liquids or gases.
+Give three examples of transverse waves. | Ripples on water, electromagnetic waves (light, radio, X-rays), S-waves (seismic waves).
+What are longitudinal waves? | Waves where the points vibrate parallel to the direction of energy transfer.
+What are the key features of longitudinal waves? | Compressions (points close together) and rarefactions (points spaced apart).
+Can longitudinal waves travel through a vacuum? | No, they require particles to travel, so cannot move through a vacuum.
+Give two examples of longitudinal waves. | Sound waves and P-waves (seismic waves).
+Do waves transfer matter? | No, waves transfer energy but not matter.
+How do floating objects demonstrate waves don't transfer matter? | They bob up and down but don't travel with the wave, showing only energy moves, not the water itself.
+What is one method to measure the speed of sound using two people? | Stand 100 m apart, one person bangs blocks, the other times from seeing the blocks to hearing the sound, then calculate speed = distance ÷ time.
+How can echoes be used to measure the speed of sound? | Stand 50 m from a wall, clap in rhythm with echoes, time 20 claps, distance = 2 × 50 × 20, then calculate speed = distance ÷ time.
+How can an oscilloscope measure the speed of sound? | Place two microphones 5 m apart, make a sound at the first, measure time difference between microphones detecting it, calculate speed = distance ÷ time.
+What equipment is needed for a ripple tank experiment? | Ripple tank with water, wooden bar, light source, ruler, stopwatch, screen, strobe light (optional).
+How do you measure wavelength in a ripple tank? | Measure the length of the screen and divide by the number of wavefronts visible.
+How do you measure frequency in a ripple tank? | Time how long it takes for a given number of waves to pass a point, then divide number of waves by time.
+How can you improve wavelength measurement accuracy? | Measure across multiple waves (e.g. 5) and divide the total distance by the number of waves.
+How can you improve frequency measurement accuracy? | Measure over a longer time period (e.g. one minute) and divide the number of waves by the time.
+What is a strobe light used for in wave experiments? | To make waves appear stationary by flashing at the same frequency, making them easier to measure.
+What safety precaution is important when using a ripple tank? | Be careful with water and electricity in close proximity to avoid electric shock; stand up to react quickly to spills.
+What is the speed of sound approximately? | Around 330 m/s in air (varies with temperature).
+If a wave has frequency 2 Hz and wavelength 3 m, what is its speed? | v = fλ = 2 × 3 = 6 m/s.
+If wave speed is 15 m/s and frequency is 5 Hz, what is the wavelength? | λ = v ÷ f = 15 ÷ 5 = 3 m.
+If wave speed is 20 m/s and wavelength is 4 m, what is the frequency? | f = v ÷ λ = 20 ÷ 4 = 5 Hz.
+What does 1 kHz equal? | 1000 Hz.
+Why is Method 1 (two people with blocks) the least accurate for measuring sound speed? | The time interval is very short and reaction time (up to 0.2 s) significantly affects results.
+Why is the oscilloscope method most accurate for measuring sound speed? | Timing is done automatically, eliminating human reaction time errors.
+What happens to wavelength if frequency increases but wave speed stays constant? | Wavelength decreases (since v = fλ, if f increases and v is constant, λ must decrease).
+What is the undisturbed position of a wave? | The central line where there is no displacement; the rest position of the medium.
+In what direction do particles move in a transverse wave? | Perpendicular (at 90°) to the direction of energy transfer.
+In what direction do particles move in a longitudinal wave? | Parallel to the direction of energy transfer.
+Can electromagnetic waves travel through a vacuum? | Yes, electromagnetic waves (like light) can travel through solids, liquids, gases, and a vacuum.
+What property changes in a longitudinal wave: density or pressure? | Both - there are changes in density (compressions/rarefactions) and changes in pressure.
+What property stays constant in a transverse wave: density or pressure? | Both density and pressure remain constant in transverse waves.

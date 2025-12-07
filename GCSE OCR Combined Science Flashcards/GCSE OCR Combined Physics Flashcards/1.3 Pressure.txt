@@ -1,0 +1,17 @@
+What type of motion do gas molecules have? | Constant random motion at high speeds
+What is random motion in gases? | Molecules travelling in no specific path, undergoing sudden changes when they collide with container walls or other molecules
+What is Brownian motion? | The random motion of tiny particles in a fluid
+Define pressure | Force exerted per unit area
+What is the formula for pressure? | P = F/A (Pressure = Force ÷ Area)
+What are the units for pressure? | Pascals (Pa)
+What area should be used when calculating pressure? | The cross-sectional area where the force is at right angles to it
+How does gas create pressure in a container? | Gas molecules collide with the container walls, exerting pressure
+How is temperature related to molecular speed in a gas? | The hotter the gas, the faster the molecules move (and vice versa)
+What happens to molecular speed when gas temperature increases? | The average speed of the molecules increases
+What happens to kinetic energy when gas temperature increases (at constant volume)? | The average kinetic energy of the molecules increases
+How does heating a gas affect collision frequency? | Molecules travel faster and collide with walls more often
+At constant volume, how does temperature affect pressure? | An increase in temperature increases the pressure of a gas (and vice versa)
+Why does pressure increase when gas is heated at constant volume? | Molecules move faster, collide with walls more frequently and with more force
+What is the relationship between temperature and pressure at constant volume? | They are directly proportional (straight line graph)
+What key terms should be used when describing temperature-pressure relationships? | Collision, kinetic energy, and frequency
+What important condition must be remembered for the temperature-pressure relationship? | The gas must be held at constant volume

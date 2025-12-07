@@ -1,0 +1,20 @@
+What is the motor effect? | When a current-carrying wire is placed in a magnetic field, it experiences a force due to two interacting magnetic fields.
+What are the two magnetic fields that interact in the motor effect? | The magnetic field produced around the wire due to current, and the external magnetic field (e.g., between magnets).
+How can you increase the force in the motor effect? | Increase the current, use stronger magnets, or place the wire at 90° to the magnetic field lines.
+When is the force in the motor effect zero? | When the wire and magnetic field are parallel to each other.
+What is the equation for magnetic force on a current-carrying conductor? | F = BIL
+In F = BIL, what does B represent? | Magnetic flux density (strength of magnetic field) in Tesla (T).
+In F = BIL, what does I represent? | Current flowing through the conductor in Amps (A).
+In F = BIL, what does L represent? | Length of the conductor in the magnetic field in metres (m).
+What is Fleming's Left-Hand Rule used for? | To determine the direction of force (thrust) on a current-carrying wire in a magnetic field.
+In Fleming's Left-Hand Rule, what does the First finger represent? | The direction of the magnetic Field (from North to South).
+In Fleming's Left-Hand Rule, what does the seCond finger represent? | The direction of the Current (positive to negative).
+In Fleming's Left-Hand Rule, what does the THumb represent? | The direction of the THrust (force).
+What are the main components of a simple DC motor? | A coil of wire, uniform magnetic field, split ring, carbon brushes, and a power supply.
+What is the purpose of the split ring in a DC motor? | To reverse the current direction every half rotation, maintaining continuous rotation in one direction.
+What happens when the coil in a DC motor is vertical? | The split ring loses contact with the brushes, no current flows, but momentum keeps the coil rotating.
+How can you increase the speed of a DC motor? | Increase the current or use a stronger magnet.
+How can you reverse the direction of rotation in a DC motor? | Reverse the current direction or reverse the magnetic poles.
+How can you increase the force supplied by a DC motor? | Increase the current, increase magnetic field strength, or add more turns to the coil.
+Why do opposite forces act on each side of the motor coil? | Because current flows in opposite directions on each side of the coil within the same magnetic field.
+What is another name for the split ring? | Split-ring commutator.

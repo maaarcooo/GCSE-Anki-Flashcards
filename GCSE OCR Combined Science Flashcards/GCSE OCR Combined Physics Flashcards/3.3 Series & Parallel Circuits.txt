@@ -1,0 +1,43 @@
+What is a series circuit? | A circuit with components connected end to end in a single loop.
+What is a parallel circuit? | A circuit with components connected along separate branches.
+How does current behave in a series circuit? | Current is the same at all points around the loop.
+How is potential difference distributed in a series circuit? | The potential difference of the power supply is shared between individual components.
+What are two disadvantages of series circuits? | (1) If one component breaks, all others stop working. (2) Components cannot be controlled separately.
+How does current behave in a parallel circuit? | Current splits at junctions - some goes one way and the rest goes the other.
+What are two advantages of parallel circuits? | (1) Components can be individually controlled with switches. (2) If one component stops working, others continue to function.
+What is the formula for total resistance in series? | R = R₁ + R₂ + R₃ + ...
+What happens to total resistance when resistors are added in series? | Total resistance increases because charge has more resistors to pass through.
+How is total voltage related to individual voltages in series? | Total voltage equals the sum of voltages across individual resistors.
+What happens to total resistance when resistors are connected in parallel? | Total resistance decreases (becomes less than any individual resistor).
+Why does resistance decrease in parallel circuits? | Each resistor creates an extra path for charge to flow, allowing more charge overall.
+How does voltage behave across components in parallel? | Voltage is the same across each component.
+What is the current rule at junctions in parallel circuits? | Total current flowing into a junction equals total current flowing out.
+How should ammeters be connected in circuits? | Always in series with the components.
+How should voltmeters be connected in circuits? | Always in parallel with the component being measured.
+What is the formula for electrical power? | P = IV (Power = Current × Voltage)
+What is the alternative power formula using resistance? | P = I²R (Power = Current squared × Resistance)
+What is another power formula using voltage and resistance? | P = V²/R (Power = Voltage squared / Resistance)
+What is the unit of power? | Watt (W), which equals joules per second (J/s)
+What is the formula for energy transferred using power? | E = P × t (Energy = Power × Time)
+What is the formula for energy transferred using current and voltage? | E = I × V × t (Energy = Current × Voltage × Time)
+What is the formula for energy transferred using charge? | E = Q × V (Energy = Charge × Voltage)
+What is power defined as? | The rate of energy transfer or the amount of energy transferred per second.
+What two factors does power of a device depend on? | (1) Voltage (potential difference) and (2) Current
+In the experiment for series/parallel circuits, what is the independent variable? | Potential difference (V)
+In the experiment for series/parallel circuits, what is the dependent variable? | Current (I)
+How do you calculate resistance from voltage and current readings? | R = V/I (Resistance = Voltage / Current)
+What safety precaution is needed with high current and thin wires? | Never touch the wire when circuit is on - it becomes very hot.
+Why disconnect the power supply between readings? | To prevent components from heating up too much.
+For an LDR circuit, how do you vary light intensity? | Use a lamp with a dimmer switch, starting in a dark room.
+For a thermistor circuit, how do you vary temperature? | Use a heater with a dimmer switch, starting with heater off.
+What voltage should power supplies be kept below when measuring resistance? | Below 15 V (to prevent high current affecting component resistance)
+What systematic error should be checked in ammeters and voltmeters? | Zero error - meters should start from zero.
+Why take multiple readings for each component? | To provide more accurate results and reduce uncertainties.
+In a series circuit with 60 Ω total resistance, R₁ = 30 Ω and R₃ = 10 Ω, what is R₂? | 20 Ω (60 - 30 - 10 = 20)
+If a cell supplies 2 A in series, how much current flows through each resistor? | 2 A (current is conserved in series)
+If ammeter A₀ shows 10 A and A₁ shows 6 A in parallel, what does A₂ show? | 4 A (10 - 6 = 4)
+What is the formula linking potential difference, resistance and current? | V = IR (Voltage = Current × Resistance)
+A 48 W motor has 4 A current. What is the potential difference? | 12 V (P/I = 48/4 = 12)
+What power is supplied to a 20 Ω resistor with 6 A current? | 720 W (I²R = 6² × 20 = 720)
+How much energy transfers in 1 minute with 0.7 A at 4 V? | 168 J (I × V × t = 0.7 × 4 × 60 = 168)
+What must time always be converted to in energy calculations? | Seconds (s)

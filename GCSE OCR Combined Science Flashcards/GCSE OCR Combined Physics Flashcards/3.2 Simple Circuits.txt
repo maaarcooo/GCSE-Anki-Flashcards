@@ -1,0 +1,59 @@
+What is the circuit symbol for a cell? | A single line pair with one long and one short parallel line (+ and -)
+What is the circuit symbol for a battery? | Two or more cells - multiple pairs of long and short parallel lines
+What does a switch do in a circuit? | Turns the circuit on (closed) or off (open)
+What is a fixed resistor? | A resistor that limits current flow with a resistance that cannot change
+How does a thermistor's resistance change with temperature? | As temperature increases, resistance decreases (and vice versa)
+How does an LDR's resistance change with light? | As light intensity increases, resistance decreases (and vice versa)
+What does a diode do? | Allows current to flow in one direction only
+How must an ammeter be connected in a circuit? | In series with other components
+How must a voltmeter be connected in a circuit? | In parallel with the component being measured
+What is potential difference? | The amount of energy transferred per unit of charge passing through the terminals
+What is 1 volt equivalent to? | 1 joule per coulomb (1 V = 1 J/C)
+What is resistance? | The opposition to current in a circuit
+What is the unit of resistance? | Ohms (Ω)
+What is the relationship between resistance and current? | Higher resistance means lower current (and vice versa)
+What is the equation linking voltage, current and resistance? | V = IR (Voltage = Current × Resistance)
+Are current and potential difference directly proportional? | Yes - when there is more current, it has more potential difference
+What are the two types of resistors? | Fixed resistors and variable resistors
+How can a variable resistor change its resistance? | By changing the length of wire in the circuit using a slider
+Does a longer wire have more or less resistance? | More resistance than a shorter wire
+What happens to a thermistor's resistance when it gets hotter? | Its resistance decreases
+What happens to a thermistor's resistance when it gets cooler? | Its resistance increases
+Where are thermistors used? | Ovens, fire alarms, digital thermometers
+What is an LDR's resistance in the dark? | Very large (millions of ohms)
+What is an LDR's resistance in bright light? | Small (tens of ohms)
+Where are LDRs used? | Automatic street lights and garden lights that switch on when dark
+What does a linear I-V graph look like? | A straight line
+What does a non-linear I-V graph look like? | A curve (not a straight line)
+Do linear components obey Ohm's Law? | Yes - they have constant resistance
+Which components have linear I-V characteristics? | Fixed resistors, wires, heating elements
+Which components have non-linear I-V characteristics? | Filament lamps, diodes, LEDs, LDRs, thermistors
+What does the I-V graph for a fixed resistor show? | A straight line through the origin - current is directly proportional to potential difference
+Why is a fixed resistor's I-V graph a straight line? | Because its resistance is constant
+What does the I-V graph for a filament lamp look like? | A curve - current increases at a proportionally slower rate than potential difference
+Why does a filament lamp's I-V graph curve? | As current increases, temperature increases, causing atoms to vibrate more and resistance to increase
+What is forward bias in a diode? | When current flows in the direction of the arrowhead symbol
+What is reverse bias in a diode? | When the diode is switched around - it has very high resistance and no current flows
+What does the I-V graph for a diode show? | Sharp increase in current and voltage on one side (forward bias), zero on the other side (reverse bias)
+What is the aim of the I-V characteristics experiment? | To investigate the I-V characteristics of a fixed resistor, lamp and diode
+What is the independent variable in the I-V experiment? | Potential difference (V)
+What is the dependent variable in the I-V experiment? | Current (I)
+How do you vary the voltage across a component in the experiment? | By changing the resistance of the variable resistor
+Why should you switch off the circuit between readings? | To prevent heating of the component and wires
+How do you get negative voltage readings? | Reverse the terminals of the power supply
+What type of conductor has an I-V graph that is a straight line? | An ohmic conductor (e.g. fixed resistor)
+What type of conductor has an I-V graph that is a curve? | A non-ohmic conductor (e.g. filament lamp, diode)
+What safety precaution is needed with high current and thin wires? | Never touch the wire directly when the circuit is on - it becomes very hot
+Why should components be disconnected between readings? | To avoid components heating up too much
+What provides a circuit with potential difference? | A cell or battery (energy source)
+What makes one end of a circuit positive and the other negative? | The terminals of a cell
+What direction does current flow? | From positive to negative terminal of the power supply
+What must a complete circuit have for current to flow? | A closed path (complete loop) - electrons need to flow in a complete loop
+What is another name for potential difference? | Voltage
+What symbol means light-dependent on a circuit diagram? | Two arrows pointing towards the symbol
+What symbol means light-emitting on a circuit diagram? | Two arrows pointing away from the symbol
+What do good conductors have? | Low resistance
+What do insulators have? | High resistance
+How can you increase the resistance of a circuit? | By adding resistors or variable resistors
+Where the I-V graph is a straight line, what can you say about resistance? | The resistance is constant
+What happens to resistance where an I-V graph curves? | The resistance increases as the graph curves

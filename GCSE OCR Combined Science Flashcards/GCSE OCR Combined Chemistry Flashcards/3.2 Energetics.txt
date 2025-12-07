@@ -1,0 +1,30 @@
+What is an exothermic reaction? | A reaction that transfers energy to the surroundings, causing the temperature to increase.
+What is an endothermic reaction? | A reaction that absorbs energy from the surroundings, causing the temperature to decrease.
+In exothermic reactions, what happens to the energy of the system? | The energy of the system falls as energy is transferred to the surroundings.
+In endothermic reactions, what happens to the energy of the system? | The energy of the system increases as energy is transferred from the surroundings.
+Name three typical exothermic reactions. | Combustion, oxidation, and neutralisation.
+Name three typical endothermic reactions. | Electrolysis, thermal decomposition, and the first stages of photosynthesis.
+Give a practical example of an exothermic reaction. | Hand warmers or self-heating cans of food and drinks.
+Give a practical example of an endothermic reaction. | Sports injury cold packs.
+How can energy changes be measured in reactions? | With a thermometer or temperature probe.
+Is energy created or destroyed in chemical reactions? | No, energy is conserved - it can only be transferred.
+What is activation energy (Eₐ)? | The minimum amount of energy required for a successful collision between particles to react.
+What do reaction profiles show? | Graphical representations of the relative energies of reactants and products in chemical reactions.
+In an exothermic reaction profile, which direction does the arrow point? | Downwards (products have lower energy than reactants).
+In an endothermic reaction profile, which direction does the arrow point? | Upwards (products have higher energy than reactants).
+What does a larger initial rise in a reaction profile indicate? | A higher activation energy - more energy is needed to start the reaction.
+In an exothermic reaction, is the energy change positive or negative? | Negative (reactants have more energy than products).
+In an endothermic reaction, is the energy change positive or negative? | Positive (products have more energy than reactants).
+Is bond breaking endothermic or exothermic? | Endothermic - energy is absorbed to break bonds.
+Is bond forming endothermic or exothermic? | Exothermic - energy is released when bonds form.
+What is bond energy? | The mean amount of energy required to break a bond or released when a bond is formed.
+What is the formula for calculating energy change using bond energies? | Energy change = Energy taken in - Energy given out
+If more energy is absorbed than released in a reaction, is it endothermic or exothermic? | Endothermic.
+If more energy is released than absorbed in a reaction, is it endothermic or exothermic? | Exothermic.
+Why do all reactions have an activation energy? | Because chemical bonds in reactant molecules must be broken at the start of the reaction.
+What happens to the temperature of surroundings in an exothermic reaction? | The temperature increases.
+What happens to the temperature of surroundings in an endothermic reaction? | The temperature decreases.
+What does "the system" refer to in chemistry? | The actual chemicals and their bonding in the reaction.
+What does "the surroundings" refer to in chemistry? | Everything outside the chemical system, including the container and air.
+How can you remember what exothermic means? | Similar to "exit" or "exterior" - energy goes out to the outside (surroundings).
+How can you remember what endothermic means? | Similar to "endocrine system" - energy is taken in, like inside you.

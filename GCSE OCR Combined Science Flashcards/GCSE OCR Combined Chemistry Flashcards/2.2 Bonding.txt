@@ -1,0 +1,72 @@
+What are the two broad types that elements can be divided into? | Metals and non-metals
+What is an ion? | An atom or molecule that has become charged through the loss or gain of one or more electrons
+Do metals form positive or negative ions when they react? | Positive ions (cations) because they lose electrons
+Do non-metals form positive or negative ions when they react? | Negative ions (anions) because they gain electrons
+What are metalloids? | Elements that display properties of both metals and non-metals (also called semi-metals)
+How does metallic character change as you move across a Period from left to right? | It decreases
+How does metallic character change as you move down a Group? | It increases
+What type of bonding occurs between a metal and a non-metal? | Ionic bonding
+What type of bonding occurs between two non-metals? | Covalent bonding
+How many electrons can the first electron shell hold? | 2 electrons
+How many electrons can the second and third electron shells hold? | 8 electrons each
+What is the valence shell? | The outermost shell of an atom
+What is the relationship between the group number and the number of outer shell electrons? | The group number equals the number of outer shell electrons (except Group 0)
+What is the electronic configuration of chlorine? | 2,8,7
+What is ionic bonding? | Strong electrostatic forces of attraction between oppositely charged ions
+What happens to sodium atoms when forming sodium chloride? | Sodium loses one electron to form Na⁺ ions
+What happens to chlorine atoms when forming sodium chloride? | Chlorine gains one electron to form Cl⁻ ions
+What is the formula of sodium chloride? | NaCl
+What charge does a magnesium ion have? | 2+
+What charge does an oxide ion have? | 2-
+What is the formula of magnesium oxide? | MgO
+What are bonding electrons? | Shared electrons in a covalent bond that occur in pairs
+What are non-bonding electrons? | Electrons on the outer shell not involved in covalent bonds (also called lone pairs)
+Do simple covalent molecules conduct electricity? | No, they do not contain free electrons
+What are the weak forces between individual molecules called? | Intermolecular forces
+Name three giant covalent structures you should know. | Diamond, graphite, and silicon dioxide
+Why do giant covalent structures have high melting and boiling points? | They have many strong covalent bonds that require large amounts of energy to break
+Can most giant covalent structures conduct electricity? | No, except graphite and graphene which have free electrons
+What are polymers? | Very large covalent molecules made by linking together many smaller molecules called monomers
+What is a monomer? | A repeat unit in a polymer connected to adjacent units via strong covalent bonds
+Are polymers usually solid or liquid at room temperature? | Solid
+Give two examples of synthetic polymers. | Polythene and polyvinyl chloride (PVC)
+Give two examples of natural polymers. | DNA and proteins
+What happens to metal atoms in metallic bonding? | They lose their outer shell electrons and become positively charged metal ions
+What are delocalised electrons? | Outer shell electrons that no longer belong to any specific metal atom and can move freely
+Why can metals conduct electricity? | Because of the delocalised electrons that can move freely
+What is metallic bonding? | Strong electrostatic attractions between positive metal ions and the sea of delocalised electrons
+What did Mendeleev do differently from other scientists when creating the Periodic Table? | He left gaps for undiscovered elements and switched the order of elements to maintain consistency in groups
+How did Mendeleev arrange elements in his Periodic Table? | In vertical columns based on chemical properties and horizontally in order of increasing atomic mass
+What did Mendeleev predict using his Periodic Table? | The existence and properties of undiscovered elements
+What element did Mendeleev predict that we now know as germanium? | Eka-silicon
+What does the period number tell you? | The number of electron shells an atom has
+What does the group number tell you? | The number of electrons in the outer shell (except Group 0)
+Why do elements in the same group have similar chemical reactions? | They have the same number of outer shell electrons
+How does reactivity change down Group 1? | It increases
+How does reactivity change down Group 7? | It decreases
+What is the maximum number of electrons in the third shell according to GCSE? | 8 electrons
+What mnemonic helps remember that positive ions are cations? | CATions are PAWsitive
+What mnemonic helps remember that negative ions are anions? | ANions are A Negative ion
+When drawing ionic bonding diagrams, where should the charge be written? | In superscript on the right-hand side, outside the square brackets
+For larger atoms, which shell should be drawn in dot and cross diagrams? | Only the valence shell (outer shell)
+What is a limitation of dot and cross diagrams? | They fail to illustrate 3D arrangements and relative sizes of atoms
+What is an advantage of ball and stick models? | They illustrate the 3D arrangement of atoms/ions in space
+What is a disadvantage of ball and stick models? | Ions are placed far apart when in reality gaps are much smaller
+How many bonds does a single covalent bond consist of? | One shared pair of electrons
+What is the molecular formula of hydrogen gas? | H₂
+What is the molecular formula of chlorine gas? | Cl₂
+What is the molecular formula of oxygen gas? | O₂
+What is the molecular formula of nitrogen gas? | N₂
+What is the molecular formula of water? | H₂O
+What is the molecular formula of ammonia? | NH₃
+What is the molecular formula of methane? | CH₄
+What is the difference between simple covalent molecules and giant covalent structures? | Simple molecules have small and fixed numbers of atoms; giant structures have large and variable numbers of atoms
+What bonding is present in both simple molecules and giant structures? | Strong covalent bonds
+Why are polymers solid at room temperature? | The intermolecular forces between polymer chains are larger than those between simple molecules
+What is a macromolecule? | Another term for a polymer - a very large covalent molecule
+Before the discovery of subatomic particles, how were elements arranged? | In order of atomic mass
+Why were some elements in the wrong position when sorted by mass? | Some elements would not fit the pattern and their chemical properties were ignored
+What was unique about Mendeleev's approach to gaps in the table? | He assumed they represented undiscovered elements rather than forcing elements to fit
+How many electrons does helium have despite being in Group 0? | 2 electrons (only one shell which holds maximum 2)
+What is the correct notation for ionic charge? | Number first, then sign (e.g., 2+, 1-)
+When naming negative ions, how do the names change? | Chlorine → chloride, oxygen → oxide, bromine → bromide

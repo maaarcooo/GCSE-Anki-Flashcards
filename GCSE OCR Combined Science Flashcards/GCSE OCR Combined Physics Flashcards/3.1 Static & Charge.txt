@@ -1,0 +1,39 @@
+What is charging by friction? | When certain insulating materials are rubbed together, they become electrically charged. One becomes positive and the other negative.
+Why do charges remain on insulators after charging by friction? | The charges cannot immediately flow away because insulators do not allow charge to move freely.
+What happens to electrons during charging by friction? | Negatively charged electrons are transferred from one material to the other.
+When a polythene rod is rubbed with a cloth, which becomes positively charged? | The rod becomes positively charged because it loses electrons.
+When a polythene rod is rubbed with a cloth, which becomes negatively charged? | The cloth becomes negatively charged because it gains electrons.
+Why are all objects initially electrically neutral? | The negative (electrons) and positive charges are evenly distributed.
+What are the three types of charge a particle can have? | Positive, negative, or neutral (no charge).
+What charge do electrons have? | Negative.
+What charge do protons have? | Positive.
+What charge do neutrons have? | Neutral (no charge).
+Why does a neutral atom have equal numbers of electrons and protons? | So the equal but opposite charges cancel out to make the overall charge zero.
+How does an object become negatively charged? | When it gains electrons.
+How does an object become positively charged? | When it loses electrons.
+What force do opposite charges exert on each other? | Attraction (they get closer together).
+What force do like charges exert on each other? | Repulsion (they move further apart).
+What type of force is electrostatic attraction or repulsion? | A non-contact force (acts without physical contact).
+What is a static electric spark? | When electrons jump across from a charged object to a neutral one, causing a small current to flow.
+When does a static electric spark occur? | When two objects charged by friction become oppositely charged and the surplus of electrons causes them to jump across.
+What is lightning? | A giant spark caused when negative charges from clouds jump to meet positive charges on the ground.
+How do clouds become charged during a storm? | Electrons are transferred between clouds as they move over each other.
+Why does a balloon stick to a wall after being rubbed? | The balloon becomes negatively charged and attracts positive charges to the surface of the neutral wall through electrostatic attraction.
+Why do pieces of paper stick to a charged comb? | The negatively charged comb attracts positive charges to the surface of the neutral paper.
+What is electric current defined as? | The rate of flow of charge (amount of charge passing through a component per second).
+What is current in metal wires? | A flow of electrons.
+What instrument measures electric current? | An ammeter.
+How must an ammeter be connected in a circuit? | In series with the component you wish to measure current through.
+What is the equation relating current, charge, and time? | I = Q/t (Current = charge ÷ time)
+What is current (I) measured in? | Amperes or amps (A).
+What is charge (Q) measured in? | Coulombs (C).
+What is time (t) measured in? | Seconds (s).
+What two conditions are needed for current to flow in a circuit? | The circuit must include a source of potential difference AND the circuit must be closed (no gaps).
+What are three sources of potential difference? | A cell, batteries (multiple cells), or an electrical generator.
+What is the current at any point in a closed-loop circuit? | The same value everywhere (all components have the same current).
+Why is current the same at all points in a series circuit? | The number of electrons per second passing through one part equals the number passing through any other part.
+What happens to current at a junction in a circuit? | Current is conserved - the amount flowing in equals the amount flowing out.
+Why is current conserved at a junction? | Because charge is conserved.
+Which direction do electrons flow in a circuit? | Away from the negative terminal towards the positive terminal.
+What is conventional current? | The flow of positive charge from the positive terminal to the negative terminal (opposite to electron flow).
+Why does conventional current go the opposite direction to electron flow? | Conventional current was described before electric current was properly understood.

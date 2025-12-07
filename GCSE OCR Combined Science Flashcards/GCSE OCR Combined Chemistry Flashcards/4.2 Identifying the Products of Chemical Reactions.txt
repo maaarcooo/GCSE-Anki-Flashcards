@@ -1,0 +1,22 @@
+What solution is used to test for carbon dioxide gas? | Calcium hydroxide (limewater)
+What is the positive result when testing for carbon dioxide with limewater? | The limewater turns milky or cloudy
+How is carbon dioxide gas passed through limewater during the test? | By bubbling the gas through the aqueous solution
+Why is extinguishing a burning splint NOT a definitive test for carbon dioxide? | Other gases like nitrogen also extinguish flames, so it only shows insufficient oxygen is present
+What is the common name for the hydrogen gas test? | The 'squeaky pop' test
+What equipment is used to test for hydrogen gas? | A burning splint held at the open end of a test tube
+What is the positive result for the hydrogen gas test? | A loud "pop" sound
+What causes the 'pop' sound in the hydrogen test? | Rapid combustion of hydrogen with oxygen to produce water
+Why shouldn't you insert the burning splint into the test tube during the hydrogen test? | The gas needs air to burn
+What mnemonic helps remember the hydrogen test? | A ligHted splint has an H for Hydrogen
+What equipment is used to test for oxygen gas? | A glowing splint placed inside a test tube
+What is the positive result for the oxygen gas test? | The splint relights
+What alternative positive result might occur in the oxygen test? | The splint glows very brightly (though relighting is the best answer to state)
+What mnemonic helps remember the oxygen test? | A glOwing splint has an O for Oxygen
+What is used to test for chlorine gas? | Damp blue litmus paper
+What is the positive result when testing for chlorine gas? | The damp blue litmus paper is bleached white
+What might happen to litmus paper before it bleaches in chlorine gas? | It may turn red briefly
+Why does litmus paper turn red before bleaching in chlorine? | Acids are produced when chlorine comes into contact with water
+Where should chlorine always be handled and why? | In a fume cupboard due to its toxicity
+Why is "smells like swimming pools" not an acceptable test for chlorine? | It's a characteristic/property, not an acceptable means of identification
+What types of litmus paper can be used for the chlorine test? | Blue litmus, red litmus, or universal indicator paper
+What is the best response to write for the chlorine test in an exam? | Chlorine gas bleaches damp litmus paper

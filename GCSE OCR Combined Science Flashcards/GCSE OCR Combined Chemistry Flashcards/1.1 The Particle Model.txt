@@ -1,0 +1,34 @@
+What are the three states of matter? | Solids, liquids, and gases
+At what point does melting and freezing occur? | At the melting point
+At what point does boiling and condensing occur? | At the boiling point
+What is evaporation? | A change of state that occurs at any temperature; maximum rate occurs at boiling point
+How are particles represented in the simple particle model? | As small solid spheres
+Describe the arrangement of particles in a solid | Regular arrangement
+Describe the movement of particles in a solid | Vibrate about a fixed position
+Describe the closeness of particles in a solid | Very close
+Describe the arrangement of particles in a liquid | Randomly arranged
+Describe the movement of particles in a liquid | Move around each other
+Describe the closeness of particles in a liquid | Close
+Describe the arrangement of particles in a gas | Randomly arranged
+Describe the movement of particles in a gas | Move quickly in all directions
+Describe the closeness of particles in a gas | Far apart
+What is a physical change? | A change that does not involve a change in the identity of the substance
+What is a chemical change? | A change in which one or more substances are converted into different substances
+What are reactants? | The substances that react in a chemical change
+What are products? | The substances that are formed by a chemical change
+What happens to particles during a physical change? | Changes occur in the forces between particles, but the particles themselves remain the same
+Are physical changes easy to reverse? | Yes, because no new substance is formed during state changes
+What is melting? | Solid to a liquid
+What is boiling? | Liquid to a gas (from below surface as well as at surface)
+What is freezing? | Liquid to a solid
+What is evaporation? | Liquid to a gas (at surface only)
+What is condensation? | Gas to a liquid
+What is sublimation? | Solid to a gas
+[Higher Tier] What does particle theory explain? | How matter changes state depending on the energy and forces present between particles
+[Higher Tier] What does the amount of energy needed for state changes depend on? | The relative strength of the forces acting between the particles
+[Higher Tier] How does force strength affect melting and boiling points? | Stronger forces between particles require higher energy for melting and boiling
+[Higher Tier] What happens when substances are heated? | Particles absorb thermal energy which is converted into kinetic energy
+[Higher Tier] What happens when a solid is heated? | Particles vibrate more, solid expands until bonds break and solid melts
+[Higher Tier] What happens at the boiling point? | All particles gain enough energy for intermolecular forces to break and molecules escape as liquid boils
+[Higher Tier] What are the three limitations of the particle theory? | 1) Considers all particles to be small, solid and inelastic 2) Doesn't consider differences between atoms, ions, or molecules 3) Fails to consider intermolecular forces
+[Higher Tier] What do horizontal sections on a heating/cooling curve represent? | Phase changes during which temperature doesn't change as heat energy is absorbed during state change

@@ -1,0 +1,59 @@
+What is speed? | The distance travelled by an object every second
+What is the equation for average speed? | Average speed = distance moved ÷ time taken
+What units are used for speed? | metres per second (m/s)
+What equipment can be used to measure short distances accurately? | Metre rule or tape measure
+What equipment is best for measuring long distances? | Trundle wheel or long tape measure
+How do light gates improve timing accuracy? | They digitally measure exact times when objects pass through, reducing human error
+How can a single light gate measure speed? | It times how long a flag on the object blocks the light beam, using the flag length as distance
+What is the difference between constant and changing speed on a distance-time graph? | Constant speed = straight line; changing speed = curved line
+What does a flat horizontal line mean on a distance-time graph? | The object is stationary (not moving)
+What does a steep slope mean on a distance-time graph? | The object is moving at a large speed
+What does a shallow slope mean on a distance-time graph? | The object is moving at a small speed
+How do you calculate speed from a distance-time graph? | Find the gradient: speed = Δy ÷ Δx (change in distance ÷ change in time)
+What does an increasing slope on a distance-time graph show? | The object is accelerating (speed increasing)
+What does a decreasing slope on a distance-time graph show? | The object is decelerating (speed decreasing)
+What are the SI base units? | Kilogram (kg), metre (m), second (s), ampere (A), kelvin (K), mole (mol)
+What is the prefix for 10⁹? | Giga- (G)
+What is the prefix for 10⁶? | Mega- (M)
+What is the prefix for 10³? | Kilo- (k)
+What is the prefix for 10⁻²? | Centi- (c)
+What is the prefix for 10⁻³? | Milli- (m)
+What is the prefix for 10⁻⁶? | Micro- (μ)
+What is the prefix for 10⁻⁹? | Nano- (n)
+What is a scalar quantity? | A quantity with only magnitude (size) but no direction
+What is a vector quantity? | A quantity with both magnitude and direction
+Is distance a scalar or vector? | Scalar
+Is displacement a scalar or vector? | Vector
+Is speed a scalar or vector? | Scalar
+Is velocity a scalar or vector? | Vector
+Is mass a scalar or vector? | Scalar
+Is force a vector or scalar? | Vector
+What is the difference between distance and displacement? | Distance = how far travelled; displacement = distance from start with direction
+What is the difference between speed and velocity? | Speed has magnitude only; velocity has magnitude and direction
+What does a straight line on a velocity-time graph represent? | Constant acceleration
+What does a steep slope on a velocity-time graph mean? | Large acceleration (speed changing quickly)
+What does a gentle slope on a velocity-time graph mean? | Small acceleration (speed changing gradually)
+What does a flat horizontal line on a velocity-time graph mean? | Zero acceleration (constant velocity)
+How do you calculate acceleration from a velocity-time graph? | Find the gradient: acceleration = rise ÷ run
+What does the area under a velocity-time graph represent? (Higher Tier) | The distance travelled (or displacement)
+How do you find distance from a velocity-time graph? (Higher Tier) | Calculate the area under the line (use triangle and rectangle formulas)
+What is the formula for the area of a triangle? | Area = ½ × base × height
+What is the formula for the area of a rectangle? | Area = base × height
+What is acceleration? | The rate of change of velocity
+What is the equation for acceleration? | a = Δv ÷ t or a = (v - u) ÷ t
+What units are used for acceleration? | metres per second squared (m/s²)
+What does positive acceleration mean? | The object is speeding up
+What does negative acceleration mean? | The object is slowing down (decelerating)
+What does u represent in motion equations? | Initial velocity (starting speed)
+What does v represent in motion equations? | Final velocity (ending speed)
+What is the equation for uniform acceleration? (Higher Tier) | v² - u² = 2 × a × x
+When do you use the equation v² - u² = 2ax? (Higher Tier) | When time is not known but you need to find speed, acceleration or distance
+What is kinetic energy? | The energy an object has due to its mass and speed
+What is the equation for kinetic energy? | Eₖ = ½ × m × v²
+What units are used for kinetic energy? | Joules (J)
+How does acceleration affect kinetic energy? | Acceleration changes speed, which changes kinetic energy
+What happens to kinetic energy if speed doubles? | Kinetic energy increases by a factor of 4 (since v is squared)
+What is non-uniform motion? | Motion where speed or direction is changing
+What is the equation for average speed with non-uniform motion? | Average speed = total distance ÷ time taken
+When describing an experiment to measure speed, what should you write first? | The equation you'll use (it hints at variables to measure)
+How do you draw a gradient triangle on a graph? | Draw a large right-angled triangle using the line, marking the rise (Δy) and run (Δx)

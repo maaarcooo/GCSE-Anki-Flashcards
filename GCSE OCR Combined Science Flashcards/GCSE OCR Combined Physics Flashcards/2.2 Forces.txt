@@ -1,0 +1,39 @@
+What is the definition of a force? | A push or a pull that acts on an object due to the interaction with another object
+What are the three main effects forces can have on objects? | They can change their speed, direction, or shape
+What is weight? | The name given to the force of gravity on a mass
+What is thrust? | The force causing an object to move (such as the force from a rocket engine)
+What is air resistance (or drag)? | The friction of the air on a moving object
+What is upthrust? | The force of a fluid (such as water) pushing an object upwards (making it float)
+What is compression? | Forces that act inward on an object, squeezing it
+What is tension? | Force transmitted through a cable or a string when pulled on by forces acting on its opposite ends
+What is a reaction force (or normal force)? | A force due to contact between two objects
+What are the two main categories of forces? | Contact forces and non-contact forces
+What is a contact force? | A force which acts between objects that are physically touching
+Give four examples of contact forces. | Friction, air resistance, tension, and reaction force/normal force
+What does friction do? | It opposes motion and occurs when objects rub against each other
+What is a non-contact force? | A force which acts at a distance, without any contact between bodies, due to the action of a field
+Give three examples of non-contact forces. | Gravitational force, electrostatic force, and magnetic force
+What is gravitational attraction? | The attractive force experienced by two objects with mass
+What is electrostatic force? | A force experienced by charged objects which can be attractive or repulsive
+What is magnetic force? | A force experienced between magnetic poles that can be attractive or repulsive
+What is a force pair? | When there is an interaction between two objects, a force is exerted on each object
+What law describes force pairs? | Newton's Third Law
+How can force pairs be represented? | By arrows in vector diagrams
+How do you calculate net (resultant) force when forces act in opposite directions? | Subtract them from each other
+How do you calculate net force when forces act in the same direction? | Add them together
+What does it mean when forces are balanced? | Forces acting in opposite directions are equal in size, resulting in no resultant force
+What does the size of an arrow in a vector diagram represent? | The magnitude (size) of the force
+What is a free body diagram used for? | To model the forces acting on an object
+What three characteristics should each vector arrow in a free body diagram have? | Scaled to the magnitude of the force, points in the direction the force acts, and is labelled with the name of the force
+What can free body diagrams be used to identify? | Which forces act in which plane and to resolve the net force in a particular direction
+What does "resolving" a force mean? | Splitting a force vector into two components
+What are the two components a force can be split into? | A horizontal component and a vertical component
+What angle are horizontal and vertical components always at to each other? | Right angles (90°)
+What does equilibrium mean in terms of forces? | When all the forces are balanced and there is no resultant force
+What happens to an object in equilibrium? | It will remain at rest or at constant velocity, and will not rotate or move
+When three forces act on a body in equilibrium, what shape do they form when added together? | A closed vector triangle
+What does a closed vector triangle indicate? | The resultant force on the body is zero
+Why does an object moving in a circular path have a changing velocity? | Because velocity is a vector quantity and although speed may be constant, the direction of travel is always changing
+What is true about the speed and velocity of an object in circular motion? | It travels at a constant speed but has a changing velocity
+Are objects in circular motion accelerating? | Yes, because their velocity (direction) is constantly changing
+What is the speed of the International Space Station? | About 7660 m/s

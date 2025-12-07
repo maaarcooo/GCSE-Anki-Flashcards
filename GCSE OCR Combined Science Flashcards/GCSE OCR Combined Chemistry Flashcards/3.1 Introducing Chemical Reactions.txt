@@ -1,0 +1,52 @@
+What is an element? | A substance made of atoms that all contain the same number of protons and cannot be split into anything simpler.
+How many elements are on the Periodic Table? | 118 elements
+How are element symbols written when they contain two or more letters? | The first letter is uppercase and the others are lowercase (e.g., Na not NA).
+What is the formula of a metallic element? | Always an empirical formula that cannot be made any simpler.
+Which seven non-metallic elements must be written as diatomic molecules? | H₂, N₂, O₂, F₂, Cl₂, Br₂, and I₂
+What is a compound? | A pure substance made up of two or more elements chemically combined that cannot be separated by physical means.
+How do you determine a chemical formula from a diagram? | Count the relative number of atoms present (e.g., 3 hydrogen + 1 nitrogen = NH₃).
+In ionic compound formulae, which element is written first? | The metal element is always written first.
+What is the formula of an ionic compound always written as? | An empirical formula (the simplest possible ratio of ions).
+What charge do Group 1 metals have as ions? | 1+ (e.g., Na⁺, K⁺)
+What charge do Group 2 metals have as ions? | 2+ (e.g., Mg²⁺, Ca²⁺)
+What charge do Group 7 elements have as ions? | 1- (e.g., Cl⁻, Br⁻)
+What is Stock notation? | Roman numerals used to show the charge of transition metal ions (e.g., copper(II) means Cu²⁺).
+What suffix do non-metal ions in Groups 5-7 have? | The suffix 'ide' (e.g., nitride, chloride, bromide).
+What is the formula and charge of the ammonium ion? | NH₄⁺
+What is the formula and charge of the hydroxide ion? | OH⁻
+What is the formula and charge of the nitrate ion? | NO₃⁻
+What is the formula and charge of the sulfate ion? | SO₄²⁻
+What is the formula and charge of the carbonate ion? | CO₃²⁻
+When do you need brackets around compound ions in formulae? | When more than one of that ion is needed (e.g., Cu(OH)₂).
+What is the Law of Conservation of Mass? | No matter is lost or gained during a chemical reaction; mass is always conserved.
+Why must chemical equations be balanced? | To ensure the same number of atoms of each element on both sides, following the Law of Conservation of Mass.
+Which elements must be written as molecules in equations? | H₂, N₂, O₂, F₂, Cl₂, Br₂, and I₂
+What are the four state symbols? | (s) solid, (l) liquid, (g) gas, (aq) aqueous/dissolved in water
+How do you balance a chemical equation? | Change the coefficients (numbers in front of formulae) by trial and error, checking one element at a time.
+What should you balance last when balancing equations? | Elements that appear on their own.
+[Higher Tier] What is an ionic equation? | An equation showing only the ions that change during a reaction, with spectator ions removed.
+[Higher Tier] What are spectator ions? | Ions that appear unchanged on both sides of the equation and can be eliminated.
+[Higher Tier] How do you write an ionic equation? | Write full equation, identify ionic substances, write ions separately, remove ions appearing on both sides.
+[Higher Tier] What is a half equation? | An equation representing what happens to one reactant, including electrons to balance charges.
+[Higher Tier] What is the Avogadro constant? | 6.02 × 10²³ mol⁻¹ (the number of particles in one mole).
+[Higher Tier] What is one mole? | The amount of substance containing exactly 6.02 × 10²³ elementary entities.
+[Higher Tier] What is molar mass? | The mass of one mole of a substance, equal to the relative atomic/formula mass in grams.
+[Higher Tier] What is the formula linking mass, moles, and molar mass? | Moles = Mass ÷ Molar Mass (or use the formula triangle).
+[Higher Tier] How do you calculate the mass of one atom? | Mass of 1 atom = Molar mass ÷ Avogadro constant
+Why might a reaction appear to lose mass? | If a gaseous product escapes from a non-enclosed system.
+Why might a reaction appear to gain mass? | If a gaseous reactant from the air reacts and all products are solid or liquid.
+What happens in a closed system during a reaction? | The total mass remains constant as no substances can enter or leave.
+Give an example of a reaction that appears to lose mass. | Metal carbonates thermally decomposing, releasing CO₂ gas.
+Give an example of a reaction that appears to gain mass. | Metals reacting with oxygen from the air to form oxides.
+[Higher Tier] What is stoichiometry? | The numbers (coefficients) in front of reactants and products in a balanced equation.
+[Higher Tier] How do you balance an equation using moles? | Convert masses to moles, find the simplest whole number ratio, use this ratio as coefficients.
+[Higher Tier] If initial mole calculations give 1, 2, and 2.5, what do you do? | Multiply all numbers by 2 to get whole numbers: 2, 4, and 5.
+[Higher Tier] What is the limiting reactant? | The reactant that is used up first, limiting the amount of product formed.
+[Higher Tier] What is the excess reactant? | The reactant that remains after the limiting reactant is completely used up.
+[Higher Tier] How do you determine the limiting reactant? | Convert masses to moles, compare with the molar ratio from the balanced equation.
+[Higher Tier] Why is the limiting reactant important in calculations? | It determines the maximum amount of product that can be formed.
+[Higher Tier] How do you calculate mass of product from a balanced equation? | Convert given mass to moles, use molar ratio, convert moles of product to mass.
+[Higher Tier] What are the steps for reacting mass calculations? | 1) Calculate moles of given substance, 2) Find ratio from equation, 3) Calculate moles of wanted substance, 4) Convert to mass.
+When balancing equations, what should you count as one unit if it doesn't change? | Groups of atoms like nitrate (NO₃⁻) that remain together.
+What does a coefficient of 2 in front of a formula mean? | Two molecules/formula units of that substance (e.g., 2H₂O means 2 water molecules).
+Can you change the subscript numbers in formulae when balancing? | No, only change the coefficients in front; subscripts are fixed by the compound's formula.

@@ -1,0 +1,41 @@
+What does Newton's First Law state? | Objects will remain at rest, or move with a constant velocity unless acted on by a resultant force.
+What two conditions must be met for constant velocity? | No change in speed and no change in direction.
+If an object has constant velocity, what can you say about the resultant force? | The resultant force is zero (forces are balanced).
+Why is the Moon orbiting Earth NOT an example of Newton's First Law? | Because the Moon constantly changes direction, so it does not have constant velocity (even though it has constant speed).
+What does Newton's Second Law state? | The acceleration of an object is proportional to the resultant force acting on it and inversely proportional to the object's mass.
+What is the equation for Newton's Second Law? | F = ma (Force = mass × acceleration)
+What are the units for force, mass, and acceleration in F = ma? | Force in Newtons (N), mass in kilograms (kg), acceleration in metres per second squared (m/s²).
+If you double the resultant force on an object, what happens to its acceleration? | The acceleration doubles (they are directly proportional).
+If you double the mass of an object with the same force, what happens to its acceleration? | The acceleration halves (they are inversely proportional).
+What does Newton's Third Law state? | Whenever two bodies interact, the forces they exert on each other are equal and opposite.
+What are the three rules to identify a Newton's Third Law pair? | (1) Forces act on different objects, (2) Forces are equal in size but opposite in direction, (3) Forces are the same type.
+Are weight and normal contact force on a book resting on a table a Third Law pair? | No - they act on the same object (the book) and are different types of forces.
+What is inertia? (Higher Tier) | The tendency of an object to continue in its state of rest, or uniform motion unless acted upon by an external force.
+What is inertial mass? (Higher Tier) | The property of an object describing how difficult it is to change its velocity; the ratio of force to acceleration (m = F/a).
+For the same applied force, will a larger or smaller mass experience greater acceleration? (Higher Tier) | A smaller mass will experience greater acceleration (inversely proportional).
+What is momentum? | The product of an object's mass and velocity (p = mv).
+What are the units of momentum? | Kilogram metre per second (kg m/s).
+Does an object at rest have momentum? | No, because its velocity is zero.
+Is momentum a vector or scalar quantity? | Vector - it has both magnitude and direction.
+If an object changes direction, what happens to its momentum? | The momentum changes (it can become negative if moving in the opposite direction).
+What is the principle of conservation of momentum? | In a closed system, the total momentum before an event equals the total momentum after the event.
+What is an elastic collision? | A collision where objects move in opposite directions after colliding.
+What is an inelastic collision? | A collision where objects stick together and move in the same direction after colliding.
+In which direction does a car's frictional force act when it moves forward at constant velocity? | Backwards (opposite to motion) - equal to the driving force to maintain constant velocity.
+When investigating force and acceleration (Experiment 1), what is the independent variable? | Force (F).
+When investigating force and acceleration (Experiment 1), what is the dependent variable? | Acceleration (a).
+When investigating force and acceleration (Experiment 1), what must be kept constant? | Mass (m).
+In Experiment 1, why must removed masses be placed on the toy car? | To ensure the total mass of the system remains constant.
+When investigating mass and acceleration (Experiment 2), what is the independent variable? | Mass (m).
+When investigating mass and acceleration (Experiment 2), what must be kept constant? | Force (F).
+What is a major source of random error in the force and acceleration experiments? | Measurements of time - take repeat readings and calculate averages.
+How do you calculate average speed between intervals in the experiments? | Speed = distance travelled / time taken.
+How do you calculate acceleration between first and last intervals? | Acceleration = change in velocity / time taken.
+What safety precaution should be taken with the mass hanger? | Don't stand beneath it and place a crash mat underneath in case masses fall.
+What is the equation for momentum? | p = mv (momentum = mass × velocity).
+If momentum before collision = 9900 kg m/s and after one object has 1980 kg m/s, what is the other object's momentum? | 7920 kg m/s (by conservation of momentum: 9900 - 1980).
+How does Newton's Third Law apply to collisions? | When object A exerts a force on object B, object B exerts an equal and opposite force on object A.
+If two trolleys have equal mass and collide, will they have equal accelerations? | Yes, because acceleration depends on both force and mass (F = ma).
+If two trolleys have unequal mass and collide with equal forces, will they have equal accelerations? | No, the lighter trolley will have greater acceleration (a = F/m).
+What equation links force, mass, and acceleration in terms of inertial mass? (Higher Tier) | m = F/a (inertial mass = force / acceleration).
+Which object has the largest inertial mass: one accelerating at 0.7 m/s², 1.5 m/s², or 2.0 m/s² with the same force? (Higher Tier) | The one accelerating at 0.7 m/s² (smallest acceleration means largest inertial mass).

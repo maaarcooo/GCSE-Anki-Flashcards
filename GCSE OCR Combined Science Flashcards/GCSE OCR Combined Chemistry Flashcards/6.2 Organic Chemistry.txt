@@ -1,0 +1,30 @@
+What is crude oil? | A finite resource found in Earth's crust, also called petroleum. It's a complex mixture of hydrocarbons containing natural gas.
+What are hydrocarbons? | Compounds made of carbon and hydrogen atoms only.
+What is the structure of hydrocarbon molecules in crude oil? | Carbon backbone (in a ring or chain) with hydrogen atoms attached.
+How was crude oil formed? | Over millions of years from high pressures and temperatures acting on remains of plants and animals.
+Why is crude oil called a finite resource? | It's being used up much faster than it's being formed.
+What are fractions in crude oil? | Groups of hydrocarbons with similar chain lengths separated from crude oil.
+What is fractional distillation? | A process that separates crude oil fractions from each other.
+What determines which fraction a hydrocarbon separates into? | The size and length of the molecule (number of carbon and hydrogen atoms).
+What are alkanes? | Compounds of carbon and hydrogen with only single bonds between atoms.
+Where is a fractionating column hottest? | At the bottom (very hot) and cool at the top.
+What happens to hydrocarbons with very high boiling points in the column? | They immediately condense into liquid at higher temperatures lower down and are tapped off at the bottom.
+Where are hydrocarbons with low boiling points collected? | They rise up the column and condense at the top.
+Where are smaller hydrocarbons collected? | At the top of the fractionating column as gases.
+Where are bigger hydrocarbons collected? | At the lower sections of the fractionating column.
+Why does boiling point increase as hydrocarbon size increases? | Because intermolecular forces get stronger and require more energy to break.
+What is the relationship between temperature and position in a fractionating column? | As you move up the column, temperature decreases. Compounds with higher boiling points come off lower down.
+What is cracking? | A process that converts long chain alkane molecules into shorter chain molecules.
+What are saturated molecules? | Molecules containing single bonds only (alkanes).
+What are unsaturated molecules? | Molecules containing double bonds between carbon atoms (alkenes).
+What products are produced by cracking? | Small alkenes and hydrogen.
+What is often cracked to produce petrol? | Kerosene and diesel oil.
+What temperature is used for cracking? | Around 600-700°C to vaporise the molecules.
+What catalyst is used in cracking? | Hot powdered catalyst of alumina or silica.
+What type of reaction is cracking? | Thermal decomposition reaction.
+What happens during cracking at the molecular level? | Covalent bonds break as molecules contact the catalyst surface, producing a mixture of smaller alkanes and alkenes.
+What conditions favour more hydrogen and alkenes in cracking? | Higher temperatures and higher pressure.
+What is the general formula for alkanes? | CₙH₂ₙ₊₂
+What is the general formula for alkenes? | CₙH₂ₙ
+What equation represents cracking hexane to butane and ethene? | C₆H₁₄ → C₄H₁₀ + C₂H₄
+How do you check a cracking equation is balanced correctly? | Check that the sum of carbons and hydrogens adds up on each side AND that you have made alkanes or alkenes.

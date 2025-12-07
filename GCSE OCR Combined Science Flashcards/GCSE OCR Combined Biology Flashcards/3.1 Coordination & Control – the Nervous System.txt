@@ -1,0 +1,55 @@
+What are the two main divisions of the human nervous system? | Central nervous system (CNS) and peripheral nervous system (PNS)
+What is the function of the nervous system? | To enable humans to react to their surroundings and coordinate their behaviour
+What are electrical impulses? | Electrical signals that pass along nerve cells (neurones) to transmit information through the nervous system
+What is a nerve? | A bundle of neurones
+What is a stimulus? | A detectable change in the internal or external environment of an organism (e.g. light, sound, temperature)
+What is a receptor? | A cell or organ which detects a stimulus
+What is a neurone? | A nerve cell, specially adapted to carry electrical impulses from one part of the body to another
+What does a sensory neurone do? | Carries nerve impulses from receptors to the central nervous system
+What does a motor neurone do? | Carries nerve impulses from the central nervous system to effectors
+What does a relay neurone do? | Acts as a coordinator, transmitting impulses from the sensory to the motor neurone in the spinal cord
+What is an effector? | A cell, tissue, organ or organ system that responds to a stimulus (e.g. muscle or gland)
+What is a voluntary response? | A nerve pathway which produces a conscious response to a stimulus
+What is a reflex response? | A nerve pathway which produces an automatic response to a stimulus
+What is a synapse? | A gap between two neurones
+What is an axon? | A single long fibre within a neurone which carries a nervous impulse away from the cell body
+What does the central nervous system (CNS) consist of? | Brain and spinal cord
+What is the role of the CNS? | To coordinate the response by directing the electrical impulse to the correct effector
+What type of neurones are found in the CNS? | Relay neurones
+What does the peripheral nervous system (PNS) include? | All the nerves in the body that extend from the CNS and sensory receptors
+Describe the pathway of an electrical impulse in a nervous response. | Receptor detects stimulus → sensory neurone → relay neurone in CNS → motor neurone → effector → response
+What sense organ detects light? | Eye (sight)
+What sense organ detects chemicals in food and drink? | Tongue (taste)
+What sense organ detects chemicals in the air? | Nose (smell)
+What does the ear detect? | Sound and movement (hearing and balance)
+What does the skin detect? | Pressure, heat, cold (temperature) and pain (touch and temperature)
+What is the myelin sheath? | A fatty layer that covers the axon to insulate it and increase the speed of the impulse
+How do long axons help speed up transmission? | They reduce the number of synapses needed, speeding up transmission (some are over a metre long)
+What are dendrites? | Branched endings that create links between neurones
+How do neurotransmitters cross a synapse? | They are released from vesicles, diffuse across the synaptic gap, and bind with receptor molecules on the postsynaptic membrane
+Why can't electrical impulses cross synapses? | Because synapses are gaps, so chemicals called neurotransmitters must transmit the impulse instead
+Name two examples of neurotransmitters. | Dopamine and serotonin
+Why do neurotransmitters slow down transmission? | Because they must diffuse across the synapse, which takes time
+How do synapses ensure impulses travel in one direction? | Neurotransmitters are only released from the presynaptic neurone and receptors are only on the postsynaptic neurone
+What happens to neurotransmitters after they trigger an impulse? | They are destroyed or recycled to prevent continued stimulation
+What is a voluntary response? | A conscious decision to carry out an action that starts with the brain
+Why do voluntary responses take longer than involuntary responses? | Because we consider what the response might be before doing it
+What is a reflex arc? | The passage of information in an involuntary response
+Why are reflex actions important? | They are rapid and essential to basic survival
+Give an example of a reflex action. | Pulling your hand away from a hot object to prevent harm
+What are the three main types of neurone in a reflex arc? | Sensory, relay and motor neurones
+Describe the structure of a sensory neurone. | Long with a cell body branching off the middle of the axon
+Describe the structure of a relay neurone. | Short with a small cell body at one end with many dendrites branching off
+Describe the structure of a motor neurone. | Long with a large cell body at one end with long dendrites branching off
+Describe the reflex arc pathway (6 steps). | 1) Receptor detects stimulus 2) Sensory neurone to spinal cord 3) Relay neurone in spinal cord 4) Relay synapses with motor neurone 5) Motor neurone to effector 6) Effector responds
+Does the brain coordinate reflex responses? | No, reflexes are coordinated by the spinal cord or unconscious part of the brain
+What is reaction time? | The time taken to respond to a stimulus (usually less than a second)
+Name three factors that can affect reaction time. | Age, stress, use of drugs (such as caffeine)
+In a ruler drop test, what does catching the ruler further down indicate? | Slower reaction time
+What is the independent variable in a reaction time investigation? | The factor being changed (e.g. caffeine consumption or background noise)
+What is the dependent variable in a reaction time investigation? | The reaction time being measured
+Name three control variables for a ruler drop test. | Using dominant hand, same ruler from same height, same ruler orientation (0 cm facing down)
+Why should experiments be repeated several times? | To calculate a mean average and improve reliability
+What is an anomaly in results? | A result that is much higher or lower than other results and should not be included in the mean
+If Student A has a reaction time of 255 ms and Student B has 262 ms, who is faster? | Student A (lower time = faster reaction)
+Why is computer-based reaction time testing more accurate? | It removes human error from measurements and can record in milliseconds for more precision

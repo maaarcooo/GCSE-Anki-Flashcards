@@ -1,0 +1,48 @@
+What is the formula for calculating rate of reaction? | Rate of reaction = (Reactant used OR Product formed) / Time taken
+What are the typical units for rate of reaction? | g s⁻¹ or cm³ s⁻¹ or dm³ s⁻¹
+Why is the product usually measured rather than the reactant? | It is usually easier to measure a product forming than a reactant disappearing
+What method measures mass loss during a reaction producing gas? | Perform the reaction in an open flask on a balance to measure the loss in mass of reactant
+Why is cotton wool placed in the mouth of the flask during mass loss measurements? | It allows gas out but prevents materials from being ejected from the flask
+Why is the mass loss method not suitable for hydrogen gas? | Hydrogen has a small relative formula mass, so the loss in mass may be too small to measure
+What equipment is used to measure the volume of gas produced? | A gas syringe or an inverted measuring cylinder over water
+What condition must be met to collect gas over water? | The gas must not be water soluble
+What is measured in the precipitate formation method? | The time it takes for a cross to disappear from view due to precipitate formation
+What is a disadvantage of the precipitate method? | It is subjective - different people may not agree on when the cross disappears
+What is another disadvantage of the precipitate method? | Only one data point is produced per experiment, so a rate graph cannot be plotted
+What happens to reactant concentration during a reaction? | It decreases as the reactant is used up
+What happens to product concentration during a reaction? | It increases
+How do you calculate mean rate of reaction from a graph? | Divide the total change in y-axis value by the total time taken
+How do you find the rate of reaction at a specific point on a graph? | Draw a tangent to the curve at that point and calculate its gradient
+What does a steeper gradient on a rate graph indicate? | A faster rate of reaction
+When does a rate graph become horizontal? | When the reaction reaches completion
+What is the relationship between reaction time and rate of reaction? | They are inversely proportional: 1/time = rate of reaction
+What four factors affect the rate of reaction? | Concentration (or pressure), temperature, surface area, and catalysts
+What happens to the rate when concentration increases? | The rate of reaction increases
+What happens to the rate when pressure of a gas increases? | The rate of reaction increases
+What happens to the rate when temperature increases? | The rate of reaction increases
+What happens to the rate when surface area increases? | The rate of reaction increases
+What is collision theory? | Chemical reactions occur only when reactant particles collide with sufficient energy to react
+What is activation energy? | The minimum amount of energy needed for a reaction to occur
+What happens during an unsuccessful collision? | Particles with insufficient energy just bounce off each other
+Why does increasing concentration increase the rate? | More reactant particles in a given volume means more frequent successful collisions per second
+What is the effect of doubling the number of particles? | It doubles the number of collisions per second
+Why does increasing temperature increase the rate? | Particles have more kinetic energy, leading to more frequent and successful collisions per second
+What is the rough rule for temperature effect on rate? | For every 10°C (Kelvin) increase in temperature, the rate approximately doubles
+Which particles in a solid can take part in collisions? | Only the particles at the surface
+Do bigger lumps or smaller lumps have a greater surface area to volume ratio? | Smaller lumps have a greater surface area to volume ratio
+What is the effect of doubling surface area? | It doubles the number of collisions per second
+Why does increasing surface area increase the rate? | More surface area is exposed to the other reactant, producing more collisions per second
+What is a catalyst? | A substance that speeds up the rate of reaction without being altered or consumed
+What is the mass of a catalyst at the beginning and end of a reaction? | The same - it is not consumed
+Name the catalyst used in the Haber Process. | Iron
+Name the catalyst used in the Contact Process. | Vanadium(V) oxide
+Name the catalyst used to decompose hydrogen peroxide. | Manganese(IV) oxide
+Why are transition metals widely used as catalysts? | They have variable oxidation states, allowing them to donate and accept different numbers of electrons
+How do catalysts work? | They provide an alternative pathway requiring lower activation energy
+What effect does a catalyst have on activation energy? | It lowers the activation energy
+Why does lowering activation energy increase the rate? | More particles will have enough energy to react when they collide
+What are enzymes? | Biological catalysts
+Give an example of an enzyme in the digestive system. | Amylase in the salivary glands
+What does catalase do? | Catalyses the decomposition of hydrogen peroxide in liver cells
+What do enzymes in yeast produce? | Alcohol through fermentation
+Why are enzymes important in industry? | They allow reactions to happen at lower temperatures and pressures, saving money and energy

@@ -1,0 +1,38 @@
+What is a metal ore? | A rock that contains enough metal to make extraction worthwhile.
+What are native metals? | Unreactive metals found as uncombined elements in Earth's crust, such as gold and platinum.
+How does position in the reactivity series determine extraction method? | Metals above carbon require electrolysis; metals below carbon can be extracted by heating with carbon.
+What are the two stages of copper extraction from copper(II) sulfide? | Stage 1: Heat sulfide in air to produce oxide. Stage 2: Reduce copper oxide with carbon.
+What is the main ore of iron called? | Haematite.
+What are the three raw materials added to a blast furnace? | Iron ore (haematite), coke (impure carbon), and limestone.
+What happens in Zone 1 of the blast furnace? | Coke burns in hot air forming carbon dioxide: C + O₂ → CO₂
+What happens in Zone 2 of the blast furnace? | Coke reacts with carbon dioxide forming carbon monoxide: CO₂ + C → 2CO
+What happens in Zone 3 of the blast furnace? | Carbon monoxide reduces iron(III) oxide to iron: Fe₂O₃ + 3CO → 2Fe + 3CO₂
+Why is limestone added to the blast furnace? | To remove impurities by forming calcium silicate slag.
+What is the equation for limestone decomposition in the blast furnace? | CaCO₃ → CaO + CO₂
+Why is aluminium oxide dissolved in molten cryolite during extraction? | To lower the melting point from over 2000°C, reducing energy costs.
+What is the cathode reaction during aluminium extraction? | Al³⁺ + 3e⁻ → Al
+What is the anode reaction during aluminium extraction? | 2O²⁻ → O₂ + 4e⁻
+Why must anodes be replaced regularly in aluminium extraction? | Carbon in graphite anodes reacts with oxygen to produce CO₂.
+What is oxidation in terms of oxygen? | Gain of oxygen.
+What is reduction in terms of oxygen? | Loss of oxygen.
+What is oxidation in terms of electrons? | Loss of electrons.
+What is reduction in terms of electrons? | Gain of electrons.
+What is phytomining? | Using plants to absorb metals from soil through their roots, then harvesting and burning them to extract metals from the ash.
+What is bioleaching? | Using bacteria to break down ores and form acidic solutions (leachate) containing metal ions.
+What are two advantages of biological extraction methods? | They avoid environmental damage from traditional mining and can extract from low-grade ores.
+What are two disadvantages of biological extraction methods? | Very slow process and require displacement or electrolysis to purify the metal.
+What are the four stages of a life cycle assessment? | Raw materials, manufacture, usage, and disposal.
+What environmental impacts occur when obtaining raw materials? | Using up limited resources (ores, crude oil) and damaging habitats through deforestation or mining.
+What environmental impacts occur during manufacturing? | Using land for factories and using fossil-fueled machines for production and transport.
+What disposal impacts should be considered in LCA? | Space used at landfill sites and whether the product can be recycled.
+Are life cycle assessments completely objective? | No, they can be biased as it is difficult to quantify each stage.
+What happens to glass bottles that are reused? | They are washed and sterilised.
+How are metals recycled? | Crushed into smaller pieces, melted, and recast into new shapes.
+Why is glass separated by colour before recycling? | To ensure proper recycling based on composition and intended use.
+What are three benefits of recycling? | Conserves raw materials, reduces harmful substance release, and reduces landfill waste.
+What energy-related factor affects recycling decisions? | The amount of energy required at each stage of recycling.
+What is a disadvantage of recycling related to transport? | Collection and transport requires energy and fuel.
+What quality issue can arise with recycled products? | Products made from recycled materials may not be of the same quality as the original.
+Why does sorting materials require consideration? | It requires energy and labour, which adds to recycling costs.
+What economic factors affect recycling decisions? | Cost of recycling compared to incineration or landfill.
+How can iron and steel be recycled together? | Both can be added to a blast furnace, reducing the use of iron ore.
