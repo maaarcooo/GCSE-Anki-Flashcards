@@ -1,9 +1,13 @@
 # GCSE-Anki-Flashcards
 
-Triple sciences flashcards
-- Create with Claude Sonnet 4 model and (ankiFlashcardPrompt_v2.txt)[https://github.com/maaarcooo/LLM-Custom-Instructions/blob/main/ankiFlashcardPrompt_v2.txt]
 - Uses pipe for Anki flashcards import
 - The text format: Question | Answer
+
+**Triple sciences flashcards**
+- Create with Claude Sonnet 4 model and [ankiFlashcardPrompt_v2.txt](https://github.com/maaarcooo/LLM-Custom-Instructions/blob/main/ankiFlashcardPrompt_v2.txt)
+
+**Combined science**
+- Create with Claude Sonnet 4.5 model and [ankiFlashcardPrompt_v3.txt](https://github.com/maaarcooo/LLM-Custom-Instructions/blob/main/ankiFlashcardPrompt_v3.txt)
 
 ## Anki import guidelines
 
