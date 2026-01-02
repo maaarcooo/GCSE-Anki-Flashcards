@@ -4,10 +4,10 @@
 - The text format: Question | Answer
 
 **Triple sciences flashcards**
-- Create with Claude Sonnet 4 model and [`anki-flashcard/prompt-v2.txt`](https://github.com/maaarcooo/LLM-Custom-Instructions/blob/main/anki-flashcard/prompt-v2.txt)
+- Create with Claude Sonnet 4 model and [`anki-flashcard/prompt-v2.txt`](https://github.com/maaarcooo/llm-custom-instructions/blob/main/anki-flashcard/prompt-v2.txt)
 
 **Combined science**
-- Create with Claude Sonnet 4.5 model and [`anki-flashcard/prompt-v3.txt`](https://github.com/maaarcooo/LLM-Custom-Instructions/blob/main/anki-flashcard/prompt-v3.txt)
+- Create with Claude Sonnet 4.5 model and [`anki-flashcard/prompt-v3.txt`](https://github.com/maaarcooo/llm-custom-instructions/blob/main/anki-flashcard/prompt-v3.txt)
 
 ## Anki import guidelines
 
